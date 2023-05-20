@@ -26,7 +26,7 @@ def get_personal_data():
                 
                 <p>
                     <span style="font-weight: bold; color:red">Academic Positions:</span>
-                    I have multiple RA/TA positions in my research group. If you are interested in pursuing a Ph.D. degree with me for a research career, please contact me for further information. Visting scholars, research interns, graduate students and undergraduate students are also welcome.
+                    I have multiple RA/TA positions in my research group. If you are interested in pursuing a Ph.D. degree with me for a research career, please contact me for further information. Visiting scholars, research interns, graduate students and undergraduate students are also welcome.
                 </p>
                 <!--
                 <p>
