@@ -7,7 +7,7 @@ def get_personal_data():
     github = "fangtian-zhong"
     linkedin = "zjf5176"
     bio_text = f"""
-                <p>I am a computer security researcher at Google working on software security.</p>
+                <p>I am a computer security researcher working on software security.</p>
                 <!-- <p>
                     <span style="font-weight: bold;">Research:</span>
                     I am excited about complex problems that can be tackled with learning-based systems. Currently, my research focuses on 3D vision, and I am interested in how machines can infer 3D representations from sparse observations. Further, I am big fan of neural scene representations, \ie, how scenes are best represented in learning-based systems using deep neural networks. 
@@ -45,7 +45,7 @@ def get_personal_data():
                     <a href="https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao" target="_blank" style="margin-right: 15px"><i class="fa-solid fa-book"></i> Scholar</a>
                     <a href="https://github.com/fangtian-zhong" target="_blank" style="margin-right: 15px"><i class="fab fa-github fa-lg"></i> Github</a>
                     <a href="https://www.linkedin.com/in/zjf5176" target="_blank" style="margin-right: 15px"><i class="fab fa-linkedin fa-lg"></i> LinkedIn</a>
-                    <a href="teaching.html" target="_blank" style="margin-right: 15px"><i class="fab fa-linkedin fa-lg"></i> Teaching</a>
+                    <a href="teaching.html" target="_blank" style="margin-right: 15px"><i class="far fa-bell fa-lg"></i> Teaching</a>
                 </p>
     """
     footer = """<div class="col-sm-12" style=""> <h4>My Students</h4> <p> I am actively looking for self-motivated 
