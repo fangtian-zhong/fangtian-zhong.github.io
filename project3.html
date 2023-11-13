@@ -572,10 +572,10 @@ Your responses should be clear and concise.</p>
     <li> You should develop program2.c that has to be implemented with the following functionality (64 bit executable is required. if you did 32 bit executable, you receive 85%):</li>
     <ul>
         <li>print a string "hello program2". </li>
-        <li>Read encrypted program1 at the last section of program2.exe. </li>
+        <li>Read encrypted program1 at the last section of retrofiting.exe. </li>
         <li>Decrypt it to get the original program1.exe.</li>
-        <li>Create the process in suspended form by using API "<code class=" highlighter-rouge language-plaintext">CreateProcess</code>", the process to be created is program2.exe.</li>
-        <li>Get the context of the program2.exe (ImageBase and OEP).</li>
+        <li>Create the process in suspended form by using API "<code class=" highlighter-rouge language-plaintext">CreateProcess</code>", the process to be created is retrofiting.exe</li>
+        <li>Get the context of the retrofiting.exe (ImageBase and OEP).</li>
         <li>Uninstaller (<code class=" highlighter-rouge language-plaintext">NtUnmapViewOfSection</code>).</li>
         <li>Allocate space (by using API "<code class=" highlighter-rouge language-plaintext">VirtualAllocEx</code>") at the specified location which is "ImageBase" of program1.exe, and the size is the SizeOfImage of program1.exe.</li>
         <li>If the application space is successful, stretch the program1.exe and copy it to the space (by using <code class=" highlighter-rouge language-plaintext">WriteProcessMemory</code>).</li>
@@ -593,7 +593,7 @@ Your responses should be clear and concise.</p>
   </li>
     <li>We have to develop a program3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe.</li>
 
-  <li>After running program3.exe, you will get the new program2.exe that has the encrypted program1.exe at its last section.</li>
+  <li>After running program3.exe, you will get the retrofiting.exe that has the encrypted program1.exe at its last section.</li>
   <li>If we run the new program2.exe, it first prints "hello program2" and then prints "hello program1".</li>
   <li> <em>(Bonus)</em> If you apply the techniques from rootkits to project3, you will receive extra 2 points. It will be tested by task manager. If the running program2.exe is hidden from task manager, it means successful. </li>
   <li>If you apply the techniques from spyware to project3, you will receive extra 2 points. It will be tested by displaying the keystrokes when people press them. If the running program2.exe is showing the keystroke after people press it, one by each press, it means successful. </li>
