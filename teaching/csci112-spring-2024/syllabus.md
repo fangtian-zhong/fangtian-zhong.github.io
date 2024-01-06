@@ -45,19 +45,19 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 |Monday 10/30|[Command line arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/command_line_args.pdf)||[Classwork 20](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork20/)|[Mid-course survey](https://lgw2.github.io/teaching/csci112-fall-2023/surveys/survey1/)|
 |Wednesday 11/1|[Sorting an array of pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 21](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork21/)||
 |Friday 11/3|Lucy gone--quiz only|12|Quiz 5|[Lab 10](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab10/)|
-|Monday 11/6|Pointer arithmetic||Classwork 22||
-|Wednesday 11/8|Pointer arithmetic||Classwork 23||
+|Monday 11/6|[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/AppendixA.pdf)||[Classwork 22](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork22/)||
+|Wednesday 11/8|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)|13|[Classwork 23](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork23/)||
 |Friday 11/10|Veteran's Day---no class||||
-|Monday 11/13|Dynamic memory allocation||Classwork 24||
-|Wednesday 11/15|Dynamic memory allocation||Classwork 25||
-|Friday 11/17|Dynamic memory allocation|||Lab 11|
+|Monday 11/13|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 24](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork24/)||
+|Wednesday 11/15|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 25](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork25/)||
+|Friday 11/17|Dynamic memory allocation|||[Lab 11](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab11/)|
 |Monday 11/20--Friday 11/24|Fall break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
 |Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
 |Monday 12/4|Bit masking||Classwork 28||
 |Wednesday 12/6|Bit masking||Classwork 29||
-|Friday 12/8|Bit masking|||Lab 13|
+|Friday 12/8|Review|||Lab 13|
 |Monday 12/11, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
@@ -155,7 +155,7 @@ You will be graded on the following:
 * 13 labs (lowest two dropped): 60%
 * 6 in-class quizzes (or replace with final): 20%
 
-After any curving, your grade will be determined by your total score as follows:
+Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 
 ### Bonus
@@ -174,7 +174,7 @@ Since five classworks and two labs are dropped, your work on dropped
 assignments may
 be counted as a bonus. You get:
 
-* 1 point for a score of 75% or more on any lab beyond your required 10, and
+* 1 point for a score of 75% or more on any lab beyond your required 11, and
 * 0.1 point for any completed classwork beyond your required 24.
 
 #### Course survey and evaluation
