@@ -4,7 +4,7 @@ title: "Lab 3"
 ---
 
 ## Logistics
-* Due: Friday, Feburary 7th AoE.
+* Due: Wednesday, Feburary 7th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab3.c` in your `~/csci112_spring2024/labs/lab3`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
@@ -166,4 +166,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Wednesday, September 20th.
+Scores will be uploaded to D2L by class time on Monday, Feburary 12th.
