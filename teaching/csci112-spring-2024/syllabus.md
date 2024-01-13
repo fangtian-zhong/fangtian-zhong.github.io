@@ -19,41 +19,41 @@ location: "Bozeman, Montana"
 |Friday 01/19|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
 |Monday 01/22|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter2.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork3)|
 |Wednesday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4)|
-|Friday 9/1|[More intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/practice.pdf)|[Lab 1](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab1/)|
+|Friday 01/26|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter2.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://lgw2.github.io/teaching/csci112-spring-2024/quizzes/practice.pdf)|[Lab 1](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab1/)|
 |Monday 9/4| Labor Day---no class||||
-|Wednesday 9/6|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork5/)|
-|Friday 9/8|[Functions](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter3.pdf)|3.1-3.5|[Quiz 1](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz1.pdf)|[Lab 2](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab2/)|
-|Monday 9/11|[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork6/)||
-|Wednesday 9/13|More [logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter4.pdf)||[Classwork 7](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork7/)||
-|Friday 9/15|[Loops](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab3/)|
-|Monday 9/18|[Loops](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter5.pdf)|5|[Classwork 8](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork8/)||
-|Wednesday 9/20|[Conditional operator](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Conditional_Operator.pdf); [redirection](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/#redirection)|Appendix C-4, C-5|[Classwork 9](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork9/)|
-|Friday 9/22|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Quiz 2](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz2.pdf)|[Lab 4](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab4/)|
-|Monday 9/25|[Arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork10/)||
-|Wednesday 9/27|[Arrays as function arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7|[Classwork 11](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork11/)||
-|Friday 9/29|[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter7.pdf)|7||[Lab 5](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab5/)|
-|Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Classwork 12](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork12/)||
-|Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Classwork 13](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork13/)--note that due date is Friday AoE||
-|Friday 10/6|[More pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter6.pdf)|6|[Quiz 3](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz3.pdf)|[Lab 6](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab6/)|
-|Monday 10/9|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8|[Classwork 14](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork14/)||
-|Wednesday 10/11|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8|[Classwork 15](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork15/)||
-|Friday 10/13|[C type strings](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)|8||[Lab 7](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab7/)|
-|Monday 10/16|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)|10|[Classwork 16](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork16/)||
-|Wednesday 10/18|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)|10|[Classwork 17](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork17/)||
-|Friday 10/20|[Structs](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter10.pdf)|10|[Quiz 4](https://lgw2.github.io/teaching/csci112-fall-2023/quizzes/quiz4.pdf)|[Lab 8](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab8/)|
-|Monday 10/23|[Splitting C program into multiple files](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/multiple_files.pdf)||[Classwork 18](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork18/)||
-|Wednesday 10/25|[Compilation review + Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/makefiles.pdf)||[Classwork 19](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork19/)||
-|Friday 10/27|[Makefiles](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/makefiles.pdf)|||[Lab 9](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab9/)|
-|Monday 10/30|[Command line arguments](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/command_line_args.pdf)||[Classwork 20](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork20/)|[Mid-course survey](https://lgw2.github.io/teaching/csci112-fall-2023/surveys/survey1/)|
-|Wednesday 11/1|[Sorting an array of pointers](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter8.pdf)||[Classwork 21](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork21/)||
-|Friday 11/3|Lucy gone--quiz only|12|Quiz 5|[Lab 10](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab10/)|
-|Monday 11/6|[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/AppendixA.pdf)||[Classwork 22](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork22/)||
-|Wednesday 11/8|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)|13|[Classwork 23](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork23/)||
+|Wednesday 9/6|[Functions](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter3.pdf)|3.1-3.5|[Classwork 5](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork5/)|
+|Friday 9/8|[Functions](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter3.pdf)|3.1-3.5|[Quiz 1](https://lgw2.github.io/teaching/csci112-spring-2024/quizzes/quiz1.pdf)|[Lab 2](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab2/)|
+|Monday 9/11|[Logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork6/)||
+|Wednesday 9/13|More [logical operators; if and switch statements](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)||[Classwork 7](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork7/)||
+|Friday 9/15|[Loops](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab3/)|
+|Monday 9/18|[Loops](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5|[Classwork 8](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork8/)||
+|Wednesday 9/20|[Conditional operator](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Conditional_Operator.pdf); [redirection](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/tools/#redirection)|Appendix C-4, C-5|[Classwork 9](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork9/)|
+|Friday 9/22|[Arrays](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Quiz 2](https://lgw2.github.io/teaching/csci112-spring-2024/quizzes/quiz2.pdf)|[Lab 4](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab4/)|
+|Monday 9/25|[Arrays](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 10](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork10/)||
+|Wednesday 9/27|[Arrays as function arguments](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 11](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork11/)||
+|Friday 9/29|[Searching, sorting arrays](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7||[Lab 5](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab5/)|
+|Monday 10/2|[Pointers; file i/o](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Classwork 12](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork12/)||
+|Wednesday 10/4|[Pointers](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Classwork 13](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork13/)--note that due date is Friday AoE||
+|Friday 10/6|[More pointers](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Quiz 3](https://lgw2.github.io/teaching/csci112-spring-2024/quizzes/quiz3.pdf)|[Lab 6](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab6/)|
+|Monday 10/9|[C type strings](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8|[Classwork 14](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork14/)||
+|Wednesday 10/11|[C type strings](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8|[Classwork 15](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork15/)||
+|Friday 10/13|[C type strings](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8||[Lab 7](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab7/)|
+|Monday 10/16|[Structs](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 16](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork16/)||
+|Wednesday 10/18|[Structs](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 17](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork17/)||
+|Friday 10/20|[Structs](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Quiz 4](https://lgw2.github.io/teaching/csci112-spring-2024/quizzes/quiz4.pdf)|[Lab 8](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab8/)|
+|Monday 10/23|[Splitting C program into multiple files](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/multiple_files.pdf)||[Classwork 18](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork18/)||
+|Wednesday 10/25|[Compilation review + Makefiles](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/makefiles.pdf)||[Classwork 19](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork19/)||
+|Friday 10/27|[Makefiles](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/makefiles.pdf)|||[Lab 9](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab9/)|
+|Monday 10/30|[Command line arguments](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/command_line_args.pdf)||[Classwork 20](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork20/)|[Mid-course survey](https://lgw2.github.io/teaching/csci112-spring-2024/surveys/survey1/)|
+|Wednesday 11/1|[Sorting an array of pointers](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)||[Classwork 21](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork21/)||
+|Friday 11/3|Lucy gone--quiz only|12|Quiz 5|[Lab 10](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab10/)|
+|Monday 11/6|[Pointer arithmetic](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/AppendixA.pdf)||[Classwork 22](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork22/)||
+|Wednesday 11/8|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)|13|[Classwork 23](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork23/)||
 |Friday 11/10|Veteran's Day---no class||||
-|Monday 11/13|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 24](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork24/)||
-|Wednesday 11/15|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter13.pdf)||[Classwork 25](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork25/)||
-|Friday 11/17|Dynamic memory allocation|||[Lab 11](https://lgw2.github.io/teaching/csci112-fall-2023/labs/lab11/)|
-|Monday 11/20--Friday 11/24|Fall break---no class|||
+|Monday 11/13|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 24](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork24/)||
+|Wednesday 11/15|[Dynamic memory allocation](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 25](https://lgw2.github.io/teaching/csci112-spring-2024/classwork/classwork25/)||
+|Friday 11/17|Dynamic memory allocation|||[Lab 11](https://lgw2.github.io/teaching/csci112-spring-2024/labs/lab11/)|
+|Monday 11/20--Friday 11/24|spring break---no class|||
 |Monday 11/27|Dynamic data structures||Classwork 26||
 |Wednesday 11/29|Dynamic data structures||Classwork 27||
 |Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
@@ -99,7 +99,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/).
+page](https://lgw2.github.io/teaching/csci112-spring-2024/lectures/tools/).
 
 ### Optional open lab and TAs
 
