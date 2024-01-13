@@ -4,7 +4,7 @@ title: "Classwork 10"
 ---
 
 ## Logistics
-* Due: Monday, September 25th AoE.
+* Due: Friday, Feburary 16th AoE.
 * Submission instructions: make sure that the required file (`2d.c`) is in your
 	`/classwork/week6/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -16,7 +16,7 @@ title: "Classwork 10"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2023` directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
+* From your `csci11_spring2024` directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
 * Inside this directory, create a file called `2d.c`. In it, write a
 	program solving the following problem.
 * Note that you can optionally start from the code in
