@@ -29,7 +29,7 @@ location: "Bozeman, Montana"
 |Week4|||||
 |Monday 02/05|More [logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)||[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork7)||
 |Wednesday 02/07|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
-|Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3/)|
+|Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8/)||
 |$${\color{red}Week5}$$|||||
 |Monday 9/18|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8/)||
 |Wednesday 9/20|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Conditional_Operator.pdf); [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools/#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9/)|
