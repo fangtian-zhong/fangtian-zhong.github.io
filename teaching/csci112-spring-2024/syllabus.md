@@ -32,10 +32,10 @@ location: "Bozeman, Montana"
 |Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8)||
 |Week5|||||
 |Monday 02/12|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Conditional_Operator.pdf); [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9)|
-|Wednesday 2/14|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Quiz 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz2.pdf)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4/)|
-|Friday 2/16|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10/)||
-|$${\color{red}Week6}$$|||||
-|Monday 9/25|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10/)||
+|Wednesday 2/14|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Quiz 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz2.pdf)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4)|
+|Friday 2/16|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10)||
+|Week6|||||
+|Monday 2/19|Presidents Day (no classes)||||
 |Wednesday 9/27|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork11/)||
 |Friday 9/29|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab5/)|
 |$${\color{red}Week7}$$|||||
