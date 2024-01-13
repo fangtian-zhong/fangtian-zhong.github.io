@@ -4,7 +4,7 @@ title: "Classwork 8"
 ---
 
 ## Logistics
-* Due: Monday, September 18th AoE.
+* Due: Monday, Feburary 9th AoE.
 * Submission instructions: make sure that the required file (`get_num.c`) is in your
 	`/classwork/week5/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
