@@ -4,7 +4,7 @@ title: "Classwork 7"
 ---
 
 ## Logistics
-* Due: Wednesday, September 13th AoE.
+* Due: Wednesday, Feburary 5th AoE.
 * Submission instructions: make sure that the required file (`grade.c`) is in your
 	`/classwork/week4/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -23,7 +23,7 @@ title: "Classwork 7"
 	program solving the following problem.
 
 Prompt the user for their grade. Then, using a `switch` statement, report back
-the minimum points they earned in the course. (Consult the [grades section of the syllabus]( https://lgw2.github.io/teaching/csci112-spring-2023/syllabus/#grading).)
+the minimum points they earned in the course. (Consult the [grades section of the syllabus]( https://fangtian-zhong.github.io/teaching/csci112-spring-2024/syllabus/#grading).)
 You should allow both capital and lowercase letters for grades A, B, C, and D. You must match the output
 formatting below and you must use a `switch` statement. If they enter something
 other than the allowed grades, print "You earned an unknown number of points in
