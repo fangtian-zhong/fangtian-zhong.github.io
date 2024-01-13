@@ -4,9 +4,9 @@ title: "Classwork 17"
 ---
 
 ## Logistics
-* Due: Wednesday, October 18th AoE.
+* Due: Wednesday, March 20th AoE.
 * Submission instructions: make sure that the required file (`point.c`) is in your
-	`csci112_fall2023/classwork/week9/wed/` directory.
+	`csci112_spring2024/classwork/week10/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,7 +16,7 @@ title: "Classwork 17"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_fall2023/classwork/week9/wed/`, creating directories `week9`
+* From your home directory, navigate to `/csci112_spring2024/classwork/week9/wed/`, creating directories `week9`
 and `wed` if necessary.
 * Copy the `point.c` file from `/public/classwork/week9/wed` to your directory.
 
