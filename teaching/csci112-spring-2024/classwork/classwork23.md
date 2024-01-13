@@ -4,9 +4,9 @@ title: "Classwork 23"
 ---
 
 ## Logistics
-* Due: Monday, May 1st AoE.
+* Due: Wednesday, April 10th AoE.
 * Submission instructions: make sure that the required file (`flags.c`) is in your
-	`/classwork/week15/mon/` directory.
+	`/classwork/week13/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -17,9 +17,9 @@ title: "Classwork 23"
 
 If on campus and connected to a MSU network:
 * Log in to the server.
-* From your home directory, navigate to `classwork/week15/mon/`, creating directories `week15`
-and `mon` if necessary.
-* Copy the `flags.c` file from `/public/classwork/week15/mon` and fill in the
+* From your home directory, navigate to `classwork/week13/wed/`, creating directories `week13`
+and `wed` if necessary.
+* Copy the `flags.c` file from `/public/classwork/week13/wed` and fill in the
     two TODOs. Don't change the if statements or print statements.
 
 If off campus:
@@ -42,7 +42,7 @@ Third flag set
 
 You can run the autograder yourself by running
 ```
-/public/classwork/week15/mon/autograder.sh
+/public/classwork/week13/wed/autograder.sh
 ```
 The `autograder.txt` file will be created or
 replaced. You may get a few lines of output about not being able to remove
