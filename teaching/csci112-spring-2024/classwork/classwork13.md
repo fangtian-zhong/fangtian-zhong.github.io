@@ -4,7 +4,7 @@ title: "Classwork 13"
 ---
 
 ## Logistics
-* Due: ~~Wednesday, October 4th~~ Friday, October 6th AoE.
+* Due: ~~Wednesday, Feburary 28th~~ Friday, March 1st AoE.
 * Submission instructions: make sure that the required file (`pass_by_ref.c`) is in your
 	`/classwork/week7/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -16,7 +16,7 @@ title: "Classwork 13"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2023` directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
+* From your `csci11_spring2024` directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
 * Copy the file `pass_by_ref_starter.c` from the `/public/classwork/week7/wed`
 	directory. Make sure to rename it to `pass_by_ref.c`.
 
