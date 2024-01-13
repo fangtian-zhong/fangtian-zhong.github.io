@@ -4,9 +4,9 @@ title: "Classwork 22"
 ---
 
 ## Logistics
-* Due: Wednesday, April 26th AoE.
+* Due: Monday, April 8th AoE.
 * Submission instructions: make sure that the required file (`find_and_delete.c`) is in your
-	`/classwork/week14/wed/` directory.
+	`/classwork/week13/wed/` directory.
 * Note: this assignment is ungraded.
 
 ## Learning outcomes
@@ -16,9 +16,9 @@ title: "Classwork 22"
 
 If on campus and connected to a MSU network:
 * Log in to the server.
-* From your home directory, navigate to `classwork/week14/wed/`, creating directories `week14`
+* From your home directory, navigate to `classwork/week13/wed/`, creating directories `week13`
 and `wed` if necessary.
-* Copy the `find_and_delete.c` file from `/public/classwork/week14/wed` and fill in
+* Copy the `find_and_delete.c` file from `/public/classwork/week13/wed` and fill in
 	`delete_digit` so that it finds the node with the given integer value and
     deletes it from the list. You are *not* required to free the memory. (You
     will get practice with this on Lab 7.) However, do be sure that you deal
@@ -42,7 +42,7 @@ List is:
 
 You can run the autograder yourself by running
 ```
-/public/classwork/week14/wed/autograder.sh
+/public/classwork/week13/wed/autograder.sh
 ```
 The `autograder.txt` file will be created or
 replaced. You may get a few lines of output about not being able to remove
