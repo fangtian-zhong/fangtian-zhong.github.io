@@ -72,12 +72,12 @@ location: "Bozeman, Montana"
 |Friday 04/19|Optional help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/22|[Dynamic arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
-|Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27/)||
-|Friday 04/26|Dynamic data structures||[Quiz 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz6.pdf)|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12/)|
+|Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
+|Friday 04/26|Dynamic data structures||[Quiz 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz6.pdf)|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
-|Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/bit_ops.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28/)
-|Wednesday 05/01|Bit masking||Classwork 29||
-|Friday 05/03|Review|||Lab 13|
+|Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/bit_ops.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
+|Wednesday 05/01|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/bit_ops.pdf)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
+|Friday 05/03|Lab 13 help session|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
 |<span style="color:red;">Week17</span>|||||
 |Monday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
