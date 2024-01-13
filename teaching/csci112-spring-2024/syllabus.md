@@ -1,9 +1,3 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 ---
 title: "CSCI 112: Programming With C"
 collection: teaching
@@ -21,7 +15,7 @@ location: "Bozeman, Montana"
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
-|<r>Week1</r>|||||
+|<font color='red'>Week1</font>|||||
 |Wednesday 01/17|Intro & syllabus||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
 |Friday 01/19|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
 |Week2|||||
