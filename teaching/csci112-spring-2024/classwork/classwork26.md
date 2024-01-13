@@ -6,7 +6,7 @@ title: "Classwork 26"
 ## Logistics
 * Due: Monday, April 22th AoE.
 * Submission instructions: make sure that the required file (`realloc.c`) is in your
-	`csci112_spring2024/classwork/week14/mon/` directory.
+	`csci112_spring2024/classwork/week15/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -18,9 +18,9 @@ title: "Classwork 26"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week14/mon/`, creating directories `week14`
+* From your home directory, navigate to `csci112_spring2024/classwork/week15/mon/`, creating directories `week15`
 and `mon` if necessary.
-* Copy the file `/public/classwork/week14/mon/realloc.c` into your directory.
+* Copy the file `/public/classwork/week15/mon/realloc.c` into your directory.
 
 Fill in the three `TODO` items so that the program attempts too allocate an
 array of ints on the heap, and if successful, then attempts to reallocate the same data to
@@ -54,7 +54,7 @@ Not enough memory
 You can run the autograder by running
 
 ```
-/public/classwork/week14/mon/autograder.sh
+/public/classwork/week15/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
