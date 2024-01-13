@@ -4,7 +4,7 @@ title: "Classwork 12"
 ---
 
 ## Logistics
-* Due: Monday, October 2nd AoE.
+* Due: Monday, Feburary 26th AoE.
 * Submission instructions: make sure that the required file (`read_file.c`) is in your
 	`/classwork/week7/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -16,7 +16,7 @@ title: "Classwork 12"
 ## Assignment
 
 * Log in to the server.
-* From your `csci112_fall2023` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
+* From your `csci112_spring2024` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
 
 Use `fopen` to open the file `/public/classwork/week7/mon/input.txt`, read the
 doubles it contains, and print them, one per line with 2 decimal places, to a file called `output.txt`
@@ -38,7 +38,7 @@ a.out  output.txt  read_file.c
 34.50
 67.29
 43.00
--1202343.23
+-1202443.23
 89.01
 ```
 
