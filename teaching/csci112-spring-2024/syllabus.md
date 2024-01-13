@@ -71,7 +71,7 @@ location: "Bozeman, Montana"
 |Wednesday 04/17|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
 |Friday 04/19|Optional help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/22|Dynamic Arrays||Classwork 26||
+|Monday 04/22|[Dynamic arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
 |Wednesday 04/24|Dynamic data structures||Classwork 27||
 |Friday 04/26|Dynamic data structures||Quiz 6|Lab 12|
 |<span style="color:red;">Week16</span>|||||
