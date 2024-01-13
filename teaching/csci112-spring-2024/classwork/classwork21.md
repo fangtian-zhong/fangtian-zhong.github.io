@@ -4,9 +4,9 @@ title: "Classwork 21"
 ---
 
 ## Logistics
-* Due: Wednesday, November 1st AoE.
+* Due: Friday, April 5th AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_fall2023/classwork/week11/wed/` directory.
+	`csci112_spring2024/classwork/week11/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,7 +16,7 @@ title: "Classwork 21"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2023/classwork/week11/wed/`, creating directories `week11`
+* From your home directory, navigate to `csci112_spring2024/classwork/week11/wed/`, creating directories `week11`
 and `wed` if necessary.
 * Copy `main.c`, `planet.c`, `sort.c`, `planet.h`, `sort.h`, and `Makefile` from
 	`/public/classwork/week11/wed/`.
