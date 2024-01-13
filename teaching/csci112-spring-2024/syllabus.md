@@ -34,18 +34,23 @@ location: "Bozeman, Montana"
 |Monday 9/18|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8/)||
 |Wednesday 9/20|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Conditional_Operator.pdf); [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools/#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9/)|
 |Friday 9/22|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Quiz 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz2.pdf)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4/)|
+|Week6|||||
 |Monday 9/25|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10/)||
 |Wednesday 9/27|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork11/)||
 |Friday 9/29|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab5/)|
+|Week7|||||
 |Monday 10/2|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork12/)||
 |Wednesday 10/4|[Pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork13/)--note that due date is Friday AoE||
 |Friday 10/6|[More pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter6.pdf)|6|[Quiz 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz3.pdf)|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab6/)|
+|Week8|||||
 |Monday 10/9|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork14/)||
 |Wednesday 10/11|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork15/)||
 |Friday 10/13|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7/)|
+|Week9|||||
 |Monday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16/)||
 |Wednesday 10/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17/)||
 |Friday 10/20|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Quiz 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz4.pdf)|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8/)|
+|Week10|||||
 |Monday 10/23|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/multiple_files.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork18/)||
 |Wednesday 10/25|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/makefiles.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19/)||
 |Friday 10/27|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/makefiles.pdf)|||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9/)|
