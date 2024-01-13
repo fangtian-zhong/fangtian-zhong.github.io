@@ -15,7 +15,7 @@ location: "Bozeman, Montana"
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
-|<span style="color:blue">some *This is Blue italic.* text</span>|||||
+|<span style="color:blue">Week1</span>|||||
 |Wednesday 01/17|Intro & syllabus||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
 |Friday 01/19|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
 |Week2|||||
