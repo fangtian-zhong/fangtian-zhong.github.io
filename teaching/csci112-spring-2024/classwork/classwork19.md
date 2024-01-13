@@ -4,9 +4,9 @@ title: "Classwork 19"
 ---
 
 ## Logistics
-* Due: Wednesday, October 25th AoE.
+* Due: Wednesday, March 27th AoE.
 * Submission instructions: make sure that the required files (`main.c`, `planet.c`, `planet.h`, and `Makefile`) are in your
-	`csci112_fall2023/classwork/week10/wed/` directory.
+	`csci112_spring2024/classwork/week11/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 19"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_fall2023/classwork/week10/wed/`, creating directories `week10`
+* From your home directory, navigate to `/csci112_spring2024/classwork/week11/wed/`, creating directories `week11`
 and `wed` if necessary.
-* Copy the `main.c`, `planet.c`, and `planet.h` file from `/public/classwork/week10/wed` to your directory.
+* Copy the `main.c`, `planet.c`, and `planet.h` file from `/public/classwork/week11/wed` to your directory.
 
 Now, write a Makefile to compile `main.c` and `planet.c` into one executable
 program, `a.out`. Your Makefile should also encode the correct dependencies for
@@ -68,7 +68,7 @@ make: 'a.out' is up to date.
 You can run the autograder by running
 
 ```
-/public/classwork/week10/wed/autograder.sh
+/public/classwork/week11/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
