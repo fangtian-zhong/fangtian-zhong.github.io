@@ -33,8 +33,8 @@ ssh <netid>@csci112.cs.montana.edu
 ```
 
 * Enter your netid password when prompted.
-* Use `mkdir` to create a `csci112_fall2023` directory.
-* Use `cd` to navigate into the `csci112_fall2023` directory.
+* Use `mkdir` to create a `csci112_spring2024` directory.
+* Use `cd` to navigate into the `csci112_spring2024` directory.
 * Use `mkdir` to create a `classwork` directory.
 * Use `cd` to navigate into the `classwork` directory.
 * Repeat the same process to create a `week1` directory and navigate into it.
