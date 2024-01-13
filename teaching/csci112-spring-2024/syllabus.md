@@ -63,21 +63,22 @@ location: "Bozeman, Montana"
 |Wednesday 04/03|[Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/command_line_args.pdf)||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)|[Mid-course survey](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/surveys/survey1)|
 |Friday 04/05|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter8.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
 |<span style="color:red;">Week13</span>|||||
-|Monday 11/6|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/AppendixA.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22/)||
-|Wednesday 11/8|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23/)||
-|Friday 11/10|Veteran's Day---no class||||
-|<span style="color:red;">Week13</span>|||||
-|Monday 11/13|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24/)||
-|Wednesday 11/15|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25/)||
-|Friday 11/17|Dynamic memory allocation|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11/)|
-|Monday 11/20--Friday 11/24|spring break---no class|||
-|Monday 11/27|Dynamic data structures||Classwork 26||
-|Wednesday 11/29|Dynamic data structures||Classwork 27||
-|Friday 12/1|Dynamic data structures||Quiz 6|Lab 12|
-|Monday 12/4|Bit masking||Classwork 28||
-|Wednesday 12/6|Bit masking||Classwork 29||
-|Friday 12/8|Review|||Lab 13|
-|Monday 12/11, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
+|Monday 04/08|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/AppendixA.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
+|Wednesday 04/10|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
+|Friday 04/12|Veteran's Day---no class||||
+|<span style="color:red;">Week14</span>|||||
+|Monday 04/15|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
+|Wednesday 04/17|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter13.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
+|Friday 04/19|Dynamic memory allocation|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
+|<span style="color:red;">Week15</span>|||||
+|Monday 04/22|Dynamic data structures||Classwork 26||
+|Wednesday 04/24|Dynamic data structures||Classwork 27||
+|Friday 04/26|Dynamic data structures||Quiz 6|Lab 12|
+|<span style="color:red;">Week16</span>|||||
+|Monday 04/29|Bit masking||Classwork 28||
+|Wednesday 05/01|Bit masking||Classwork 29||
+|Friday 05/03|Review|||Lab 13|
+|Monday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
 
