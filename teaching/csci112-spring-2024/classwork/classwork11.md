@@ -4,7 +4,7 @@ title: "Classwork 11"
 ---
 
 ## Logistics
-* Due: Wednesday, September 27th AoE.
+* Due: Wednesday, Feburary 21th AoE.
 * Submission instructions: make sure that the required file (`sum.c`) is in your
 	`/classwork/week6/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -16,9 +16,9 @@ title: "Classwork 11"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2023` directory, navigate to `classwork/week6/wed/`, creating directories `week6` and `wed` if necessary.
+* From your `csci11_spring2024` directory, navigate to `classwork/week6/wed/`, creating directories `week6` and `wed` if necessary.
 * Copy the file `/public/classwork/week6/wed/sum.c` to your
-	`csci112_fall2023/classwork/week6/wed` directory.
+	`csci112_spring2024/classwork/week6/wed` directory.
 
 Write the function `cumulative_sum` to match the call in `main`; that is, it
 must take in two double arrays and an integer.
