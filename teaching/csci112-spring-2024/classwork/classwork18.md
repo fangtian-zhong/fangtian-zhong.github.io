@@ -4,9 +4,9 @@ title: "Classwork 18"
 ---
 
 ## Logistics
-* Due: Monday, October 23rd AoE.
+* Due: Monday, October 25th AoE.
 * Submission instructions: make sure that the required files (`mor.c`, `location.h`, and `coordinates.h`) are in your
-	`csci112_fall2023/classwork/week10/mon/` directory.
+	`csci112_spring2024/classwork/week11/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 18"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_fall2023/classwork/week10/mon/`, creating directories `week10`
+* From your home directory, navigate to `/csci112_spring2024/classwork/week11/mon/`, creating directories `week11`
 and `mon` if necessary.
-* Copy the `mor.c` file from `/public/classwork/week10/mon` to your directory.
+* Copy the `mor.c` file from `/public/classwork/week11/mon` to your directory.
 
 Move the `Location` struct definition into a new header file called
 `location.h` and move the `Coordinates` struct definition into a different file
@@ -38,7 +38,7 @@ Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
 You can run the autograder by running
 
 ```
-/public/classwork/week10/mon/autograder.sh
+/public/classwork/week11/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
