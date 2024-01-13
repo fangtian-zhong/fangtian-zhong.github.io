@@ -6,7 +6,7 @@ title: "Classwork 21"
 ## Logistics
 * Due: Friday, April 5th AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_spring2024/classwork/week11/wed/` directory.
+	`csci112_spring2024/classwork/week12/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,10 +16,10 @@ title: "Classwork 21"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week11/wed/`, creating directories `week11`
+* From your home directory, navigate to `csci112_spring2024/classwork/week12/wed/`, creating directories `week12`
 and `wed` if necessary.
 * Copy `main.c`, `planet.c`, `sort.c`, `planet.h`, `sort.h`, and `Makefile` from
-	`/public/classwork/week11/wed/`.
+	`/public/classwork/week12/wed/`.
 
 Fill in the `TODO`s in `main.c` so that when you compile and run the program,
 you get:
@@ -67,7 +67,7 @@ Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
 You can run the autograder by running
 
 ```
-/public/classwork/week11/wed/autograder.sh
+/public/classwork/week12/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
