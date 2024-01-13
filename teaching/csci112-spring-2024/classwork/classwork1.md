@@ -4,7 +4,7 @@ title: "Classwork 1: group syllabus activity"
 ---
 
 ## Logistics
-* Due: end of class on Wednesday, August 23rd.
+* Due: end of class on Wednesday, January 17th.
 * Submission instructions: make sure that your name is listed at the top of
 	your group's hand out and it is turned in.
 
