@@ -32,9 +32,9 @@ The basic organizational unit in git is called a *repository*, or a
 *repo* for short. As the name implies, it is a place to store things. In
 practice, a repository is a directory in your filesystem. Any subdirectories
 are also part of the repository. For example, at some point during this class,
-your `csci112_fall2023` directory might look like this:
+your `csci112_spring2024` directory might look like this:
 ```
-csci112_fall2023/
+csci112_spring2024/
 ├── classwork
 │   ├── week1
 │   │   └── fri
@@ -51,11 +51,11 @@ csci112_fall2023/
           ├── lab1.c
           └── temp.txt
 ```
-This means that the `csci112_fall2023` directory contains two subdirectories,
+This means that the `csci112_spring2024` directory contains two subdirectories,
 `classwork` and `labs`, each of which can contain their own subdirectories, and
 inside those subdirectories are various files.
 
-If we make `csci112_fall2023` a git repository, all of the subdirectories and
+If we make `csci112_spring2024` a git repository, all of the subdirectories and
 files inside of it are part of the repository.
 
 ### Git commits
@@ -94,13 +94,13 @@ the version of our programs that we would like to be graded.
 ### Creating a git repository
 
 To start, create a directory. For this course, your directory should be called
-`csci112_fall2023`, so we will use that as an example. You should already
-have this directory, but if you didn't, you would create it using `mkdir csci112_fall2023`.
+`csci112_spring2024`, so we will use that as an example. You should already
+have this directory, but if you didn't, you would create it using `mkdir csci112_spring2024`.
 
 Navigate into the directory:
 
 ```
-cd csci112_fall2023
+cd csci112_spring2024
 ```
 Initialize a git repository inside the directory:
 ```
@@ -118,16 +118,16 @@ hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
 hint: 'development'. The just-created branch can be renamed via this command:
 hint:
 hint: 	git branch -m <name>
-Initialized empty Git repository in /home/<your_netid>/csci112_fall2023/.git/
+Initialized empty Git repository in /home/<your_netid>/csci112_spring2024/.git/
 ```
 
-But notice the last line: `Initialized empty Git repository in /home/<your_netid>/csci112_fall2023/.git/`.
- `csci112_fall2023` directory is now a git repository!
+But notice the last line: `Initialized empty Git repository in /home/<your_netid>/csci112_spring2024/.git/`.
+ `csci112_spring2024` directory is now a git repository!
 
 Try running `git status` to see the status of your repository. You should see
 something like this:
 ```
-[p19t655@csci112 csci112_fall2023]$ git status
+[p19t655@csci112 csci112_spring2024]$ git status
 On branch master
 
 No commits yet
@@ -139,7 +139,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-If you just created your `csci112_fall2023` directory for the first time and it
+If you just created your `csci112_spring2024` directory for the first time and it
 is empty, you will need to create a file something for git to track. You could do this by opening a new file
 with `vim`, putting some text in, and saving it. Or you can copy the following:
 ```
@@ -197,7 +197,7 @@ git log
 to see a history of all of  our commits. In this case, it looks something like
 ```
 commit 9a8c77c95593a302436dfb9509663658271f43e9 (HEAD -> master)
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Sun Aug 20 18:40:50 2023 -0600
 
     Add previous classworks
@@ -222,7 +222,7 @@ git log
 and see
 ```
 commit 2c82f20e9b41b4fe09b6c142d381dce32f95abe3 (HEAD -> master, tag: example_tag)
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 19:55:31 2023 -0700
 
     Add example.txt file
@@ -247,27 +247,27 @@ git tag <tagname>
 You can tag a previous commit by referencing its commit hash. For example, if I
 run `git log` and see something like this:
 ```
-[p19t655@csci112 csci112_spring2023]$ git log
+[p19t655@csci112 csci112_spring2024]$ git log
 commit 71203455057227331ac8384f3f2c2a1910ef5094 (HEAD -> master)
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Fri Feb 10 09:08:12 2023 -0700
 
     Add a example file
 
 commit aa08bd749ec35221abd90ce0908fa7279714e3c1 (origin/master)
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Wed Feb 8 16:38:34 2023 -0700
 
     Update
 
 commit 3601b167efb9a1c6ed3f384c55a720c740f4ab07
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 20:19:37 2023 -0700
 
     lab1
 
 commit 5170dff5f9795001a837407645ed55cae24e43d9
-Author: lgw2 <lgw2@uw.edu>
+Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 20:18:53 2023 -0700
 
     Update
@@ -368,7 +368,7 @@ you delete the correct `.git` directory.
 
 ### Adding a remote to your repository
 
-If you would like to connect your `csci112_fall2023` repository to GitHub,
+If you would like to connect your `csci112_spring2024` repository to GitHub,
 do the following steps. You must choose whether to use HTTPS or SSH to
 communicate with GitHub. Either is fine, but HTTPS is simpler, so I recommend
 that.
@@ -378,7 +378,7 @@ Do not initialize the new repository with README, license, or gitignore files.
 **Please make this
 repository private so that I can reuse assignments for this course without the
 solutions being available online!** Copy the remote url with https in it.
-2. On the server, navigate to your `csci112_fall2023` repository and run
+2. On the server, navigate to your `csci112_spring2024` repository and run
 ```
 git remote add origin <REMOTE_URL>
 ```
@@ -398,7 +398,7 @@ git push
 
 ### Cloning that repo to your local computer
 
-To copy over the files in your `csci112_fall2023` directory (and now on
+To copy over the files in your `csci112_spring2024` directory (and now on
 GitHub as well) to a local computer, clone the GitHub repository.
 
 In a terminal window, enter
@@ -406,10 +406,10 @@ In a terminal window, enter
 git clone <REMOTE_URL>
 ```
 
-This will create a directory called `csci112_fall2023` that holds everything
+This will create a directory called `csci112_spring2024` that holds everything
 that was in the GitHub repo. If you make an update there (by pushing from the
 server) and want to get that update on your computer, navigate into the
-`csci112_fall2023` directory and run `git pull`.
+`csci112_spring2024` directory and run `git pull`.
 
 ### Additional resources
 
