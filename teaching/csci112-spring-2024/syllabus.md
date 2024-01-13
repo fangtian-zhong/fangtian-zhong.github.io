@@ -15,7 +15,7 @@ location: "Bozeman, Montana"
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
-|Wednesday 01/17|Intro & syllabus||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1/)||
+|Wednesday 01/17|Intro & syllabus||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
 |Friday 8/25|[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|[Intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf); more [Linux & vim](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
 |Wednesday 8/30|[Git and GitHub](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/git)||[Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/)|
