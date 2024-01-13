@@ -51,9 +51,9 @@ location: "Bozeman, Montana"
 |Wednesday 03/13|Spring Break (no classes)||||
 |Friday 03/15|Spring Break (no classes)||||
 |<span style="color:red;">Week10</span>|||||
-|Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16/)||
-|Wednesday 03/20|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17/)||
-|Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Quiz 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz4.pdf)|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8/)|
+|Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
+|Wednesday 03/20|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
+|Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter10.pdf)|10|[Quiz 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/quiz4.pdf)|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/23|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/multiple_files.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork18/)||
 |Wednesday 10/25|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/makefiles.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19/)||
