@@ -23,4 +23,4 @@ Scores will be on D2L before the next class period.
 ## Results
 
 The questions, things people were looking forward to, and things people were
-worried about are recorded [here](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/day1).
+worried about are recorded [here](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/day1).
