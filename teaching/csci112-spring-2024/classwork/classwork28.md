@@ -4,9 +4,9 @@ title: "Classwork 28"
 ---
 
 ## Logistics
-* Due: Monday, December 3rd AoE.
+* Due: Monday, April 29th AoE.
 * Submission instructions: make sure that the required file (`practice.c`) is in your
-	`csci112_fall2023/classwork/week15/mon/` directory.
+	`csci112_spring2024/classwork/week16/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 28"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2023/classwork/week15/mon/`, creating directories `week15`
+* From your home directory, navigate to `csci112_spring2024/classwork/week16/mon/`, creating directories `week16`
 and `mon` if necessary.
-* Copy the file `/public/classwork/week15/mon/practice.c` into your directory.
+* Copy the file `/public/classwork/week16/mon/practice.c` into your directory.
 
 Assign values to `x, y, z, a, b, c` using binary and hexadecimal encodings as
 described in the file. Remember the trick for converting from binary to hex!
@@ -34,7 +34,7 @@ of that?
 You can run the autograder by running
 
 ```
-/public/classwork/week15/mon/autograder.sh
+/public/classwork/week16/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
