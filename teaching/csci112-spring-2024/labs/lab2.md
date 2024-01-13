@@ -6,9 +6,9 @@ title: "Lab 2"
 ## Logistics
 * Due: Friday, September 8th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab2.c` in your `~/csci112_fall2023/labs/lab2`
+	grade in a file called `lab2.c` in your `~/csci112_spring2024/labs/lab2`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab2`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+	tagged as `lab2`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4/).)
 
 ## Outside resources
 
@@ -40,7 +40,7 @@ wage promised for that day. As a challenge, and to practice your new knowledge
 of using functions to reuse code, you decide not to use the `printf` function
 in `main`, nor to use for or while loops.
 
-In a file called `lab2.c` in your `csci112_fall2023/labs/lab2` directory, write a program that computes your earnings over the course of the 3 days.
+In a file called `lab2.c` in your `csci112_spring2024/labs/lab2` directory, write a program that computes your earnings over the course of the 3 days.
 
 ### Requirements
 
