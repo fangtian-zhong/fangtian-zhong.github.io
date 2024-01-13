@@ -78,6 +78,7 @@ location: "Bozeman, Montana"
 |Monday 04/29|Bit masking||Classwork 28||
 |Wednesday 05/01|Bit masking||Classwork 29||
 |Friday 05/03|Review|||Lab 13|
+|<span style="color:red;">Week17</span>|||||
 |Monday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
