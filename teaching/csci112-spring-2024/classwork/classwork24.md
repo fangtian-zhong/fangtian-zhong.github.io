@@ -4,9 +4,9 @@ title: "Classwork 24"
 ---
 
 ## Logistics
-* Due: Monday, November 13th AoE.
+* Due: Monday, April 15th AoE.
 * Submission instructions: make sure that the required file (`digit.c`) is in your
-	`csci112_fall2023/classwork/week13/mon/` directory.
+	`csci112_spring2024/classwork/week14/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 24"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2023/classwork/week13/mon/`, creating directories `week13`
+* From your home directory, navigate to `csci112_spring2024/classwork/week14/mon/`, creating directories `week14`
 and `mon` if necessary.
-* Copy the file `/public/classwork/week13/mon/digit.c` into your directory.
+* Copy the file `/public/classwork/week14/mon/digit.c` into your directory.
 
 Fill in the three `TODO` items so that the program defines a `digit` struct
 with an `int` field called `d` and a pointer to another `digit` called `next`,
@@ -37,7 +37,7 @@ should look like this:
 You can run the autograder by running
 
 ```
-/public/classwork/week13/mon/autograder.sh
+/public/classwork/week14/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
