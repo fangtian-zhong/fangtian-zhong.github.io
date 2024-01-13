@@ -3,7 +3,7 @@ title: "CSCI 112: Programming With C"
 collection: teaching
 type: "Undergraduate course"
 venue: "Montana State University, Computer Science"
-date: 2023-01-18
+date: 2024-01-17
 location: "Bozeman, Montana"
 ---
 
@@ -13,7 +13,7 @@ Schedule subject to change. Find all lecture videos in [this Panopto folder](htt
 
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
-|Wednesday 8/23|Intro & syllabus||[Classwork 1](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
+|Wednesday 01/17|Intro & syllabus||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2023/classwork/classwork1/)||
 |Friday 8/25|[Course server; intro Linux and vim; classwork submission setup](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)||[Classwork 2](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork2/)|
 |Monday 8/28|[Intro to C](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/Chapter2.pdf); more [Linux & vim](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/tools/)|2.1|[Classwork 3](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork3/)|
 |Wednesday 8/30|[Git and GitHub](https://lgw2.github.io/teaching/csci112-fall-2023/lectures/git)||[Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/)|
