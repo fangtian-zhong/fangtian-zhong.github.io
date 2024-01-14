@@ -4,7 +4,7 @@ title: "Classwork 22"
 ---
 
 ## Logistics
-* Due: Monday, November 6th AoE.
+* Due: Monday, April 8th AoE.
 * Submission instructions: make sure that the required file (`main.c`) is in your
 	`csci112_spring2024/classwork/week13/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
