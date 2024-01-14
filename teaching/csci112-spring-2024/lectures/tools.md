@@ -43,7 +43,7 @@ open up a terminal (on Mac or Linux) or command prompt
 ssh <netid>@csci112.cs.montana.edu
 ```
 
-Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid). So, for example, with the netid `p19t655`, the command would be
+Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid). So, for example, with the netid `g73x595`, the command would be
 
 
 ```
@@ -136,7 +136,7 @@ from anywhere using absolute paths, which start with a `/`. For example, no
 matter where I am, I can open that file using
 
 ```
-/home/p19t655/dir1/text.txt
+/home/g73x595/dir1/text.txt
 ```
 
 if it is indeed located at that path.
@@ -155,7 +155,7 @@ For example, suppose I have a program that prints the numbers 1 through 5,
 compiled into the executable `print_nums`:
 
 ```
-[p19t655@csci112 ~]$ ./print_nums
+[g73x595@csci112 ~]$ ./print_nums
 1 2 3 4 5
 ```
 
@@ -163,13 +163,13 @@ If I want to save this to a file called `nums.txt`, I can do the following.
 Note that nothing is print to the screen.
 
 ```
-[p19t655@csci112 ~]$ ./print_nums > nums.txt
+[g73x595@csci112 ~]$ ./print_nums > nums.txt
 ```
 
 But if I `cat` the file `nums.txt`, I see that it has content:
 
 ```
-[p19t655@csci112 ~]$ cat nums.txt
+[g73x595@csci112 ~]$ cat nums.txt
 1 2 3 4 5
 ```
 
@@ -177,7 +177,7 @@ Similarly, if I have an executable `read_nums` that reads in five integers (for
 example, using `scanf` in C), I can enter those at the console:
 
 ```
-[p19t655@csci112 ~]$ ./read_nums
+[g73x595@csci112 ~]$ ./read_nums
 Enter five integers:
 1 2 3 4 5
 The numbers you entered are 1, 2, 3, 4, 5
@@ -187,7 +187,7 @@ But I can also use redirection to use a file to enter them. (Recall that our
 file `nums.txt` contains `1 2 3 4 5`).
 
 ```
-[p19t655@csci112 ~]$ ./read_nums < nums.txt
+[g73x595@csci112 ~]$ ./read_nums < nums.txt
 Enter five integers:
 The numbers you entered are 1, 2, 3, 4, 5
 ```
@@ -279,13 +279,13 @@ If you're using vim, you'll inevitably run into a page like this eventually:
 
 ```
 E325: ATTENTION
-Found a swap file by the name "/home/p19t655/classwork/week2/wed/.gotham.c.swp"
+Found a swap file by the name "/home/g73x595/classwork/week2/wed/.gotham.c.swp"
           owned by: p19t65   dated: Mon Jan 23 15:15:08 2023
-         file name: ~p19t655/classwork/week2/wed/gotham.c
+         file name: ~g73x595/classwork/week2/wed/gotham.c
           modified: YES
-         user name: p19t655   host name: csci112.cs.montana.edu
+         user name: g73x595   host name: csci112.cs.montana.edu
         process ID: 301892
-While opening file "/home/p19t655/classwork/week2/wed/gotham.c"
+While opening file "/home/g73x595/classwork/week2/wed/gotham.c"
              dated: Mon Jan 23 17:24:23 2023
       NEWER than swap file!
 
@@ -293,12 +293,12 @@ While opening file "/home/p19t655/classwork/week2/wed/gotham.c"
     be careful not to end up with two different instances of the same
     file when making changes.  Quit, or continue with caution.
 (2) An edit session for this file crashed.
-    If this is the case, use ":recover" or "vim -r /home/p19t655/classwork/week2/wed/gotham.c"
+    If this is the case, use ":recover" or "vim -r /home/g73x595/classwork/week2/wed/gotham.c"
     to recover the changes (see ":help recovery").
-    If you did this already, delete the swap file "/home/p19t655/classwork/week2/wed/.gotham.c.swp"
+    If you did this already, delete the swap file "/home/g73x595/classwork/week2/wed/.gotham.c.swp"
     to avoid this message.
 
-Swap file "/home/p19t655/classwork/week2/wed/.gotham.c.swp" already exists!
+Swap file "/home/g73x595/classwork/week2/wed/.gotham.c.swp" already exists!
 [O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort:
 ```
 
