@@ -24,8 +24,8 @@ location: "Bozeman, Montana"
 |Friday 01/26|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter2.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/29| [Functions](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter3.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork5)||
-|Wednesday 01/31|[Functions](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter3.pdf)|3.1-3.5|[Quiz 1]|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab2)|
-|Friday 02/02|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork6)||
+|Wednesday 01/31|[Functions](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter3.pdf)|3.1-3.5|[Quiz 1]||
+|Friday 02/02|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork6)|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/05|More [logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter4.pdf)||[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork7)||
 |Wednesday 02/07|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter5.pdf)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
