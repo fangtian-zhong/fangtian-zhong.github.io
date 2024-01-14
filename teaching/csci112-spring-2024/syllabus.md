@@ -118,7 +118,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools/).
+page](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools).
 
 ### Optional open lab and TAs
 
@@ -145,7 +145,7 @@ You can find office hours for all CS faculty [here](https://www.cs.montana.edu/o
 ### SmartyCats
 
 There is SmartyCats tutoring for this course! Visit [their
-website](https://www.montana.edu/aycss/success/smartycats/) to find out more.
+website](https://www.montana.edu/aycss/success/smartycats) to find out more.
 You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/aycss/success/smartycats/apply.html) for other CS courses you've taken, or for this one next semester.
 
 ### Computer Science Success Center
