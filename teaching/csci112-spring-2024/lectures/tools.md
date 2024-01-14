@@ -22,7 +22,7 @@ Another way to interact with a computer is using the text-based *command line*,
 which usually looks something like this:
 
 ```
-luciawilliams@BZ-CS-LW-MBP ~ %
+fangtian.zhong@BZ-CS-LW-MBP ~ %
 ```
 
 The part before the `@` is the username, the part after is the hostname, which
@@ -47,7 +47,7 @@ Note that whenever you see something in angle brackets (`<` and `>`), it means y
 
 
 ```
-ssh p19t655@csci112.cs.montana.edu
+ssh g73x595@csci112.cs.montana.edu
 ```
 
 The first time you log in to the server, you will see a message like this:
