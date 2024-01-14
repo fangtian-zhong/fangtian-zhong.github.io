@@ -6,7 +6,7 @@ title: "Classwork 9"
 ## Logistics
 * Due: Monday, Feburary 12th AoE.
 * Submission instructions: make sure that the required file (`min.c`) is in your
-	`/classwork/week5/wed/` directory.
+	`/classwork/week5/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -17,7 +17,7 @@ title: "Classwork 9"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week5/wed/`, creating directories `week5` and `wed` if necessary.
+* From your home directory, navigate to `classwork/week5/mon/`, creating directories `week5` and `mon` if necessary.
 * Inside this directory, create a file called `min.c`. In it, write a
 	program solving the following problem.
 
@@ -31,24 +31,24 @@ whitespace if they would like.
 For example, compiling and running your program should look like this:
 
 ```
-[p19t655@csci112 wed]$ gcc -o min -Wall min.c
-[p19t655@csci112 wed]$ ./min
+[p19t655@csci112 mon]$ gcc -o min -Wall min.c
+[p19t655@csci112 mon]$ ./min
 Enter two characters: a A
 Min is A
-[p19t655@csci112 wed]$ ./min
+[p19t655@csci112 mon]$ ./min
 Enter two characters: 6 n
 Min is 6
-[p19t655@csci112 wed]$ ./min
+[p19t655@csci112 mon]$ ./min
 Enter two characters: y x
 Min is x
-[p19t655@csci112 wed]$ ./min
+[p19t655@csci112 mon]$ ./min
 Enter two characters: P A
 Min is A
 ```
 
 You can run the autograder by running
 ```
-/public/classwork/week5/wed/autograder.sh
+/public/classwork/week5/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
