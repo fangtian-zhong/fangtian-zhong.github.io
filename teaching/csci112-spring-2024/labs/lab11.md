@@ -4,10 +4,10 @@ title: "Lab 11"
 ---
 
 ## Logistics
-* Due: Friday, November 17th AoE.
-* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2023/labs/lab11`
+* Due: Friday, April 19th AoE.
+* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_spring2024/labs/lab11`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab11`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
+	tagged as `lab11`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4/).)
 
 ## Outside resources
 
