@@ -6,7 +6,7 @@ title: "Classwork 5"
 ## Logistics
 * Due: Monday, January 29th AoE.
 * Submission instructions: make sure that the required file (`remainder.c`) is in your
-	`/classwork/week3/wed/` directory.
+	`/classwork/week3/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -17,8 +17,8 @@ title: "Classwork 5"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
-* **Copy the file with the starting code and make sure that it is renamed to `remainder.c`.** It's the file `starting_code.c` in the directory `/public/classwork/week3/wed`. You will probably need to use the `cp` command, and maybe the `mv` command if you didn't rename your file when you copied it. See the [Linux notes from the first lecture](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools) for a review of those commands.
+* From your home directory, navigate to `csci112_spring2024/classwork/week3/mon/`, creating directories `week3` and `mon` if necessary.
+* **Copy the file with the starting code and make sure that it is renamed to `remainder.c`.** It's the file `starting_code.c` in the directory `/public/classwork/week3/mon`. You will probably need to use the `cp` command, and maybe the `mv` command if you didn't rename your file when you copied it. See the [Linux notes from the first lecture](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools) for a review of those commands.
 * Once you have the starting code (in a file renamed `remainder.c`), open it
 	and add the definition of the function `compute_remainder`.
 Hint: The `%` (mod operator) computes the remainder. For example, `12 % 4` returns
@@ -30,7 +30,7 @@ Hint: The `%` (mod operator) computes the remainder. For example, `12 % 4` retur
 
 You can run the autograder by running
 ```
-/public/classwork/week3/wed/autograder.sh
+/public/classwork/week3/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
