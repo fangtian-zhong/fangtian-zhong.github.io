@@ -90,13 +90,12 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-8-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). Lectures will be recorded and available after class if you
-would like to rewatch them. We will use
+8-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). We will use
 Discord as the primary method of course communication, and all course
 information will be posted on this website or on the Discord server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab on Fridays from noon to 4pm in Roberts Hall 111 that you may attend to get extra help.
+There is an *optional* lab on Fridays from 10:00 am to 4:00 pm in BARNAR 254 that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
