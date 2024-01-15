@@ -239,9 +239,9 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is September 6th. The last day to drop without a W grade (instructor or advisor
-approval required) is September 13th. The last day to drop with a W grade
-(instructor and advisor approval required) is November 15th. See the full
+is January 30th. The last day to drop without a W grade (instructor or advisor
+approval required) is Feburary 6th. The last day to drop with a W grade
+(instructor and advisor approval required) is April 17th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
