@@ -121,8 +121,8 @@ page](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/too
 
 ### Optional open lab and TAs
 
-There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
-*Note that there is no lab during the first week of classes (Friday, August 25th)!* However, after this week, even
+There is an optional lab on Fridays from 10:00 am to 4:00 pm in BARNAR 254.
+*Note that there is no lab during the first week of classes (Friday, January 19th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
 
