@@ -6,7 +6,7 @@ title: "Classwork 8"
 ## Logistics
 * Due: Friday, Feburary 9th AoE.
 * Submission instructions: make sure that the required file (`get_num.c`) is in your
-	`/classwork/week5/fri/` directory.
+	`/classwork/week4/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -17,7 +17,7 @@ title: "Classwork 8"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week5/fri/`, creating directories `week5` and `fri` if necessary.
+* From your home directory, navigate to `classwork/week4/fri/`, creating directories `week4` and `fri` if necessary.
 * Inside this directory, create a file called `get_num.c`. In it, write a
 	program solving the following problem.
 
@@ -25,7 +25,7 @@ Write a program that prompts the user to enter a number between 0 and 100, and
 keeps prompting them as long as they enter numbers that are outside that range.
 If they don't enter a number, print a message saying so. Otherwise, once they
 do enter a number in the range, print it out with two decimal places. **You may
-optionally start with the code in `/public/classwork/week5/fri/starter.c`.**
+optionally start with the code in `/public/classwork/week4/fri/starter.c`.**
 
 Here are some example runs of the program. You must match the formatting
 exactly.
@@ -44,7 +44,7 @@ You didn't enter a number
 
 You can run the autograder by running
 ```
-/public/classwork/week5/fri/autograder.sh
+/public/classwork/week4/fri/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
