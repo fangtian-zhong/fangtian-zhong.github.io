@@ -90,7 +90,7 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-8-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). We will use
+9:00-9:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). We will use
 Slack as the primary method of course communication, and all course
 information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
