@@ -178,9 +178,10 @@ example, using `scanf` in C), I can enter those at the console:
 
 ```
 [g73x595@csci112 ~]$ ./read_nums
-Enter five integers:
+Enter five integer numbers, separated by spaces:
 1 2 3 4 5
-The numbers you entered are 1, 2, 3, 4, 5
+You entered the following numbers:
+1, 2, 3, 4, 5
 ```
 
 But I can also use redirection to use a file to enter them. (Recall that our
