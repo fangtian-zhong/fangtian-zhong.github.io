@@ -128,7 +128,7 @@ when no lab is due, there will still be TAs in the lab to help you.
 
 ### Instructor office hours
 
-My office hours are 10:00-10:50pm on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
+My office hours are 10:00am-10:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
 different meeting time, and join the slack by [the link](https://join.slack.com/t/slack-dat8296/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg), or drop by my office (Barnard 352) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
