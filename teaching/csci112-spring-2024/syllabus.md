@@ -125,20 +125,11 @@ There is an optional open lab on Fridays in Roberts Hall 111 from noon to 4pm.
 *Note that there is no lab during the first week of classes (Friday, August 25th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
-### Lecture videos
-
-Lectures are recorded and available to watch after class. However, if there are
-technical difficulties recording a lecture, it will not be re-recorded, so come
-to class when you can to make sure that you do not miss course content or
-announcements. The videos are linked in the schedule above and are all stored
-in this [public Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5772861a-1645-42f4-b27e-b04b011b0c4a) if you'd like to access them that way.
 
 ### Instructor office hours
 
-My office hours are 5:10-6:30pm on Mondays and 9:30-11am on
-Thursdays in the CS Success Center
-(Barnard 259). You can also contact me on Discord to set up a
-different meeting time, make an appointment via my [calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2hjUnXFy55TwZXrSyiG53_QoYEz592Vki7k0zvjmu2eWGXBG6x9c6zYfpe7JNylzyUeQYrMp0c), or drop by my office (Barnard 359) if my door is open.
+My office hours are 10:00-10:50pm on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
+different meeting time, and join the slack by [the link](https://join.slack.com/t/slack-dat8296/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg), or drop by my office (Barnard 352) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
