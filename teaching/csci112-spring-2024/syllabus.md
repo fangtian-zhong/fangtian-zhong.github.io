@@ -91,8 +91,8 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
 8-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). We will use
-Discord as the primary method of course communication, and all course
-information will be posted on this website or on the Discord server; D2L will
+Slack as the primary method of course communication, and all course
+information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
 
 There is an *optional* lab on Fridays from 10:00 am to 4:00 pm in BARNAR 254 that you may attend to get extra help.
@@ -141,12 +141,11 @@ You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/a
 ### Computer Science Success Center
 There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
 
-### Discord server
+### Slack server
 
-All course communication will be through our course Discord server. See D2L
-announcement for link. Please [change your nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames#:~:text=If%20you're%20on%20the,new%20nickname%20of%20your%20choice!) to your full name (first
-and last). Additionally, I suggest managing your notification settings. Check
-out Discord's [Notification Settings 101 page](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101) to get started. You may also need to manage the application notification settings on your device.
+All course communication will be through our course Slack server. See D2L
+announcement for link. Please change your nickname to your full name (first
+and last). Additionally, I suggest managing your notification settings. You may also need to manage the application notification settings on your device.
 
 ## Course outcomes
 By the end of the course, students should be able to:
@@ -175,7 +174,7 @@ There are three ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-in-course-material` channel on Discord. I will decide whether
+If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-in-course-material` channel on Slack. I will decide whether
 it's truly an error and not a duplicate. If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
 
@@ -200,7 +199,7 @@ are due, but have some leeway built in. Please read the bullet points below care
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
 
-* You are responsible for any announcements about assignments  made in class, on Discord, on D2L,  and here
+* You are responsible for any announcements about assignments  made in class, on Slack, on D2L,  and here
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
@@ -270,19 +269,19 @@ me and the Office of Disability Services as soon as possible.
 ## How to succeed in this class
 What you can do:
 * Keep up with the course by attending class,
-checking Discord, being aware of the course
+checking Slack, being aware of the course
 schedule, and doing all assignments on time.
 * Be an active participant in class. This means asking and
-answering questions in class and on Discord, seeking help
+answering questions in class and on Slack, seeking help
 when needed,
-and contacting the instructor or the course assistants using Discord if you have any questions outside of class
+and contacting the instructor or the course assistants using Slack if you have any questions outside of class
 time.
 * Be respectful of your classmates, your instructor, and the course assistants.
 * Do your own work.
 
 What I can do:
 * Grade promptly (exact guarantees TBD).
-* Respond to all Discord messages and emails within one business day.
+* Respond to all Slack messages and emails within one business day.
 * Create a course atmosphere conducive to learning by respecting
 all of my students and being
 enthusiastic about course material and my role in helping you learn.
