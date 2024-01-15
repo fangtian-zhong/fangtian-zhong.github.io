@@ -31,13 +31,13 @@ Here are some example runs of the program. You must match the formatting
 exactly.
 
 ```
-[p19t655@csci112 fri]$ gcc get_num.c -Wall
-[p19t655@csci112 fri]$ ./a.out
+[g73x595@csci112 fri]$ gcc get_num.c -Wall
+[g73x595@csci112 fri]$ ./a.out
 Enter a number between 0 and 100: (decimals okay): -95
 Enter a number between 0 and 100: (decimals okay): 101.22
 Enter a number between 0 and 100: (decimals okay): 55.5
 You entered 55.50
-[p19t655@csci112 fri]$ ./a.out
+[g73x595@csci112 fri]$ ./a.out
 Enter a number between 0 and 100: (decimals okay): x
 You didn't enter a number
 ```
