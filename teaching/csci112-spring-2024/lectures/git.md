@@ -222,7 +222,7 @@ git log
 and see
 ```
 commit 2c82f20e9b41b4fe09b6c142d381dce32f95abe3 (HEAD -> master, tag: example_tag)
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 19:55:31 2024 -0700
 
     Add example.txt file
@@ -249,25 +249,25 @@ run `git log` and see something like this:
 ```
 [g73x595@csci112 csci112_spring2024]$ git log
 commit 71203455057227331ac8384f3f2c2a1910ef5094 (HEAD -> master)
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Fri Feb 10 09:08:12 2024 -0700
 
     Add a example file
 
 commit aa08bd749ec35221abd90ce0908fa7279714e3c1 (origin/master)
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Wed Feb 8 16:38:34 2024 -0700
 
     Update
 
 commit 3601b167efb9a1c6ed3f384c55a720c740f4ab07
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 20:19:37 2024 -0700
 
     lab1
 
 commit 5170dff5f9795001a837407645ed55cae24e43d9
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Thu Jan 26 20:18:53 2024 -0700
 
     Update
