@@ -197,7 +197,7 @@ git log
 to see a history of all of  our commits. In this case, it looks something like
 ```
 commit 9a8c77c95593a302436dfb9509663658271f43e9 (HEAD -> master)
-Author: fangtian-zhong <fangtian.zhong@montana.edu>
+Author: fangtian.zhong <fangtian.zhong@montana.edu>
 Date:   Sun Aug 20 18:40:50 2024 -0600
 
     Add previous classworks
