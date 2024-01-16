@@ -90,7 +90,7 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-9:00-9:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or, every other Friday, on short quizzes). We will use
+9:00-9:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use
 Slack as the primary method of course communication, and all course
 information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
@@ -212,7 +212,7 @@ you are having any problems.* We want you to succeed!
 
 ### Missed quiz policy
 
-Note that quizzes are taken in-class on alternating Fridays.
+Note that quizzes are taken in-class.
 Any conflicts with a quiz must be discussed with me prior to missing the quiz.
 I follow University policy on makeups, which allows that serious illness or a
 serious family emergency are valid reasons requiring an accommodation.
