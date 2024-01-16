@@ -127,7 +127,7 @@ But notice the last line: `Initialized empty Git repository in /home/<your_netid
 Try running `git status` to see the status of your repository. You should see
 something like this:
 ```
-[p19t655@csci112 csci112_spring2024]$ git status
+[g73x595@csci112 csci112_spring2024]$ git status
 On branch master
 
 No commits yet
@@ -247,7 +247,7 @@ git tag <tagname>
 You can tag a previous commit by referencing its commit hash. For example, if I
 run `git log` and see something like this:
 ```
-[p19t655@csci112 csci112_spring2024]$ git log
+[g73x595@csci112 csci112_spring2024]$ git log
 commit 71203455057227331ac8384f3f2c2a1910ef5094 (HEAD -> master)
 Author: fangtian-zhong <fangtian.zhong@montana.edu>
 Date:   Fri Feb 10 09:08:12 2024 -0700
