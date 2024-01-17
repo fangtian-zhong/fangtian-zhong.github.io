@@ -11,6 +11,8 @@ Contents:
 1. [Course server](#course-server)
 1. [Vim](#vim)
 
+
+
 ## Using a computer via the command line
 
 You are probably used to interacting with a computer via a graphical user
@@ -29,6 +31,11 @@ The part before the `@` is the username, the part after is the hostname, which
 is sort of like the name of the computer, and then the part after is the
 current location on the computer. The tilde (`~`) is an alias for the user's
 "home".
+
+## Using MSU VPN for the access to the course server
+
+ssh access to the course servers will only be allowed from MSU VPN address space.  That applies from everywhere (on and off campus).    
+It's kinda like that expression... "no glove, no love," except in this case it is, "no vpn, no get in". Please download by the link (https://www.montana.edu/uit/computing/desktop/vpn/) and follow instructions to log into it.
 
 
 ## Course server
