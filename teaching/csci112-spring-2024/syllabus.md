@@ -19,7 +19,7 @@ location: "Bozeman, Montana"
 |Wednesday 01/17|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI_112_Programming_with_C_20240117.pptx) / [course slack](https://join.slack.com/t/csci112-spring-2024/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
 |Friday 01/19|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
-|Monday 01/22|[Intro to C]; more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork3)|
+|Monday 01/22|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork3)|
 |Wednesday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4)|
 |Friday 01/26|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
