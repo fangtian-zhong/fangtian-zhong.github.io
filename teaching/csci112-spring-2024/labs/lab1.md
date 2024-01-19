@@ -4,11 +4,11 @@ title: "Lab 1"
 ---
 
 ## Logistics
-* Due: Friday, January 26th AoE.
+* Due: Friday, September 1st AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab1.c` in your `~/csci112_spring2024/labs/lab1`
+	grade in a file called `lab1.c` in your `~/csci112_fall2023/labs/lab1`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4).)
+	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://lgw2.github.io/teaching/csci112-fall-2023/classwork/classwork4/).)
 
 ## Outside resources
 
@@ -34,7 +34,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-In a file called `lab1.c` in your `csci112_spring2024/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
+In a file called `lab1.c` in your `csci112_fall2023/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
 Celsius) given the elapsed time (hours) since a power failure. Assume this
 temperature ($T$) is given by
 
@@ -98,4 +98,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Monday, January 29th.
+Scores will be uploaded to D2L by class time on Wednesday, September 6th.
