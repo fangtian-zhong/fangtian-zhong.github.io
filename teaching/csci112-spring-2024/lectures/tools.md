@@ -74,7 +74,7 @@ from the server for one hour. Try not to mistype your password! But if this
 does happen, DM me and if I'm available I will unblock you.
 
 The data on the server is backed up every morning. If you lose your code and
-want to access what you had when the backup happened, DM me on Discord and I
+want to access what you had when the backup happened, DM me on Slack and I
 will help you get it.
 
 ## Using the Linux shell
@@ -230,7 +230,7 @@ recommend most is the MIT Missing Semester [shell lecture page](https://missing.
 tutorial" will probably do you just fine. Additionally, if you have a task you
 know you want to do, Googling or using something like ChatGPT will probably work too. For example, say you
 want to know how to count the number of lines in a file, you could Google
-"count words in file on Linux." You are also encouraged to post in Discord if
+"count words in file on Linux." You are also encouraged to post in Slack if
 you have any questions, or even if you just come across something interesting
 that you think others might find useful.
 
