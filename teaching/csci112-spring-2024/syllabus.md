@@ -7,8 +7,8 @@ date: 2024-01-17
 location: "Bozeman, Montana"
 ---
 ## TAs
-     Justin Mau, email:jdmau123@gmail.com, office hours: Tuesdays, 3:10pm - 5:10pm
      Riley Slater, email: rileymail6@gmail.com, office hours: Tuesdays, 11am -1pm
+     Justin Mau, email:jdmau123@gmail.com, office hours: Tuesdays, 3:10pm - 5:10pm
      
 ## Course schedule
 
