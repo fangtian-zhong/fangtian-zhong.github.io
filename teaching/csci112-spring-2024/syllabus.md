@@ -82,7 +82,7 @@ location: "Bozeman, Montana"
 |Wednesday 05/01|[Bit masking]||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
 |Friday 05/03|Lab 13 help session|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
 |<span style="color:red;">Week17</span>|||||
-|Monday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
+|Wednesday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
 ## Catalog description
 
