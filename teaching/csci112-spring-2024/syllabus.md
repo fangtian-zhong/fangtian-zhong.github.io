@@ -9,7 +9,8 @@ location: "Bozeman, Montana"
 ## TAs
      Riley Slater, email: rileymail6@gmail.com, office hours: Tuesdays, 11am -1pm
      Justin Mau, email:jdmau123@gmail.com, office hours: Tuesdays, 3:10pm - 5:10pm
-     William Cade, email: william.cade1@student.montana.edu
+##Lab Assistant
+     William Cade, email: william.cade1@student.montana.edu, lab hours: 12pm-1:50pm
      
 ## Course schedule
 
