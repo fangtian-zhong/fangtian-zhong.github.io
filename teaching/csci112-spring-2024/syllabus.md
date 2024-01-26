@@ -31,8 +31,8 @@ location: "Bozeman, Montana"
 |Friday 02/02|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240202.pdf)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork6)|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/05|More [logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240202.pdf)||[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork7)||
-|Wednesday 02/07|[Loops]|5.1-5.8|||
-|Friday 02/09|[Loops]|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8)|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
+|Wednesday 02/07|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240207.pdf)|5.1-5.8|||
+|Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240207.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8)|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/12|[Conditional operator]; [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9)|
 |Wednesday 02/14|[Arrays]|7|[Quiz 2]||
