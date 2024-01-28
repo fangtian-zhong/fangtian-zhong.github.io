@@ -82,39 +82,39 @@ observed substance is water.
 ### Example output
 
 ```
-[p19t655@csci112 lab3]$ pwd
-/home/p19t655/csci112_spring2024/labs/lab3
-[p19t655@csci112 lab3]$ gcc -o lab3 -Wall lab3.c
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ pwd
+/home/g73x595/csci112_spring2024/labs/lab3
+[g73x595@csci112 lab3]$ gcc -o lab3 -Wall lab3.c
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 101
 You entered 101.00
 Custom error percent? n for no (5% default), y for yes: n
 Substance is water
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 500
 You entered 500.00
 Custom error percent? n for no (5% default), y for yes: n
 Substance unknown
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 400
 You entered 400.00
 Custom error percent? n for no (5% default), y for yes: y
 Enter error percent: 10
 You entered 10.00 percent
 Substance unknown
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 400
 You entered 400.00
 Custom error percent? n for no (5% default), y for yes: y
 Enter error percent: 15
 You entered 15.00 percent
 Substance is mercury
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 400
 You entered 400.00
 Custom error percent? n for no (5% default), y for yes: 15
 Error: bad input
-[p19t655@csci112 lab3]$ ./lab3
+[g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 2200
 You entered 2200.00
 Custom error percent? n for no (5% default), y for yes: y
