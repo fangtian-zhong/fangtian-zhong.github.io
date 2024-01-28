@@ -14,8 +14,8 @@ title: "Lab 6"
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4 in
-Roberts 111) or post in Discord to
+are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
+Barnard 254) or post in Discord to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -36,7 +36,7 @@ For this assignment, you can hard-code the input filename into your program.
 The input file can be found in `/public/labs/lab6/numbers.txt` and it looks like this:
 
 ```
-[p19t655@csci112 lab6]$ cat /public/labs/lab6/numbers.txt
+[g73x595@csci112 lab6]$ cat /public/labs/lab6/numbers.txt
 34.56 -0.01 9.7
 5.55 3.14 3.3303330303 1.0 -45.99
 18.1
@@ -54,8 +54,8 @@ As your program runs, it should print out the current state of
 the array, like so:
 
 ```
-[p19t655@csci112 lab6]$ gcc lab6.c -Wall
-[p19t655@csci112 lab6]$ ./a.out
+[g73x595@csci112 lab6]$ gcc lab6.c -Wall
+[g73x595@csci112 lab6]$ ./a.out
 Before sorting, arr of numbers is
 34.56 -0.11 9.70 5.55 3.14 3.33 1.00 -45.99 18.10
 Now performing selection sort:
@@ -73,7 +73,7 @@ Then, you should also write the sorted array to `outdata.txt` with one number
 per line, like this:
 
 ```
-[p19t655@csci112 lab6]$ cat outdata.txt
+[g73x595@csci112 lab6]$ cat outdata.txt
 -45.99
 -0.01
 1.00
