@@ -13,8 +13,8 @@ title: "Lab 11"
 
 On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4 in
-Roberts 111) or post in Discord to
+are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
+Barnard 254) or post in Discord to
 get help.
 
 However, you may use those resources for help with navigating the Linux
