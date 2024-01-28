@@ -75,7 +75,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/15|[Dynamic memory allocation]||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
 |Wednesday 04/17|[Dynamic memory allocation]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
-|Friday 04/19|Optional help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
+|Friday 04/19| help session for Lab 11 and quiz|Quiz5||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/22|[Dynamic arrays]||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
 |Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
