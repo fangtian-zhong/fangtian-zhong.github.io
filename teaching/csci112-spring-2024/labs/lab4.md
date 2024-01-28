@@ -39,7 +39,7 @@ average temperature.
 If you type in the numbers directly to the console, your output should look
 like this:
 ```
-[p19t655@csci112 lab4]$ ./a.out
+[g73x595@csci112 lab4]$ ./a.out
 Enter a high temp reading (-99 to quit)> 56
 Enter a high temp reading (-99 to quit)> 76
 Enter a high temp reading (-99 to quit)> 12
@@ -61,7 +61,7 @@ Average temperature: 54.2
 ```
 If you use redirection with the sample input file, it will look like this:
 ```
-[p19t655@csci112 lab4]$ ./lab4 </public/labs/lab4/input.txt
+[g73x595@csci112 lab4]$ ./lab4 </public/labs/lab4/input.txt
 Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)> Enter a high temp reading (-99 to quit)>
 H: ****
 P: *
