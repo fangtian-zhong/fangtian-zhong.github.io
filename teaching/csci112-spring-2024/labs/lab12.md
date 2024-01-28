@@ -13,13 +13,13 @@ title: "Lab 12"
 
 On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4 in
-Roberts 111) or post in Discord to
+are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
+Barnard 254) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
 terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Discord anyway.
+questions by going to lab or posting on Slack anyway.
 
 ## Learning outcomes
 * Practice using `calloc`, `realloc`, and `free` to dynamically allocate and deallocate
@@ -104,11 +104,11 @@ valgrind ./lab12 <<< "10 2 Abraham Sherry 0 1 Fred"
 Here's one:
 
 ```
-[p19t655@csci112 lab12]$ make
+[g73x595@csci112 lab12]$ make
 gcc -g main.c team.c -o lab12 -Wall
-[p19t655@csci112 lab12]$ ls
+[g73x595@csci112 lab12]$ ls
 lab12  main.c  Makefile  team.c  team.h
-[p19t655@csci112 lab12]$ ./lab12
+[g73x595@csci112 lab12]$ ./lab12
 What capacity should the team be initialized with? > 5
 
 How many people are on the team? > 8
@@ -147,7 +147,7 @@ Capacity is 20 and current size is 11
 And another:
 
 ```
-[p19t655@csci112 lab12]$ ./lab12
+[g73x595@csci112 lab12]$ ./lab12
 What capacity should the team be initialized with? > 4
 
 How many people are on the team? > 5
