@@ -14,12 +14,12 @@ title: "Lab 11"
 On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
 are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
-Barnard 254) or post in Discord to
+Barnard 254) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
 terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Discord anyway.
+questions by going to lab or posting on Slack anyway.
 
 ## Learning outcomes
 * Practice using pointers to create a linked list.
