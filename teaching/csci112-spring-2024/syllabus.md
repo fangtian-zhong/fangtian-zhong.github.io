@@ -58,8 +58,8 @@ location: "Bozeman, Montana"
 |Friday 03/15|Spring Break (no classes)||||
 |<span style="color:red;">Week10</span>|||||
 |Monday 03/18|[Structs]|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
-|Wednesday 03/20|[Structs]|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
-|Friday 03/22|[Structs]|10|[Quiz 4]|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
+|Wednesday 03/20|Fangtian Gone (quiz and classwork)|10|[Quiz 4][Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
+|Friday 03/22|[Structs]|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/25|[Splitting C program into multiple files]||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork18)||
 |Wednesday 03/27|[Compilation review + Makefiles]||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
