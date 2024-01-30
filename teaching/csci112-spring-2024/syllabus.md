@@ -65,13 +65,13 @@ location: "Bozeman, Montana"
 |Wednesday 03/27|[Compilation review + Makefiles]||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
 |Friday 03/29|University Day (no classes)||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 04/01|[Makefiles]||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9) (note that due date is Friday AoE)||
+|Monday 04/01|[Makefiles]||||
 |Wednesday 04/03|[Command line arguments]||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)|[Mid-course survey]|
-|Friday 04/05|[Sorting an array of pointers]||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
+|Friday 04/05|[Sorting an array of pointers]||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/08|[Pointer arithmetic]||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
 |Wednesday 04/10|[Dynamic memory allocation]|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
-|Friday 04/12|||Quiz5||
+|Friday 04/12|||Quiz5|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/15|[Dynamic memory allocation]||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
 |Wednesday 04/17|[Dynamic memory allocation]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
