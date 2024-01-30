@@ -71,7 +71,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/08|[Pointer arithmetic]||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
 |Wednesday 04/10|[Dynamic memory allocation]|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
-|Friday 04/12|Veteran's Day---no class||||
+|Friday 04/12|||||
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/15|[Dynamic memory allocation]||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
 |Wednesday 04/17|[Dynamic memory allocation]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
