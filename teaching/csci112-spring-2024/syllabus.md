@@ -42,7 +42,7 @@ location: "Bozeman, Montana"
 |Friday 02/16|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240216.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/19|Presidents Day (no classes)||||
-|Wednesday 02/21|[Arrays as function arguments]|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork11)||
+|Wednesday 02/21|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240221.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork11)||
 |Friday 02/23|[Searching, sorting arrays]|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
 |Monday 02/26|[Pointers; file i/o]|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork12)||
