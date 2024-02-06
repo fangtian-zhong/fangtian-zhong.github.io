@@ -31,17 +31,17 @@ whitespace if they would like.
 For example, compiling and running your program should look like this:
 
 ```
-[p19t655@csci112 mon]$ gcc -o min -Wall min.c
-[p19t655@csci112 mon]$ ./min
+[g73x595@csci112 mon]$ gcc -o min -Wall min.c
+[g73x595@csci112 mon]$ ./min
 Enter two characters: a A
 Min is A
-[p19t655@csci112 mon]$ ./min
+[g73x595@csci112 mon]$ ./min
 Enter two characters: 6 n
 Min is 6
-[p19t655@csci112 mon]$ ./min
+[g73x595@csci112 mon]$ ./min
 Enter two characters: y x
 Min is x
-[p19t655@csci112 mon]$ ./min
+[g73x595@csci112 mon]$ ./min
 Enter two characters: P A
 Min is A
 ```
