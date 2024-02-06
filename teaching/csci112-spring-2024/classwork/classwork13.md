@@ -31,8 +31,8 @@ Don't change anything else about the file. You can test your program by running
 it with the test input in `/public/classwork/week7/wed/input.txt` like so:
 
 ```
-[p19t655@csci112 wed]$ gcc pass_by_ref.c -Wall
-[p19t655@csci112 wed]$ ./a.out < /public/classwork/week7/wed/test_input.txt
+[g73x595@csci112 wed]$ gcc pass_by_ref.c -Wall
+[g73x595@csci112 wed]$ ./a.out < /public/classwork/week7/wed/test_input.txt
 ```
 
 And your output should look like:
