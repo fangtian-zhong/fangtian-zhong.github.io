@@ -28,13 +28,13 @@ That is, if you compile your program, run your program, and then `cat` the file
 that is created, it would look something like this:
 
 ```
-[p19t655@csci112 mon]$ ls
+[g73x595@csci112 mon]$ ls
 read_file.c
-[p19t655@csci112 mon]$ gcc read_file.c -Wall
-[p19t655@csci112 mon]$ ./a.out
-[p19t655@csci112 mon]$ ls
+[g73x595@csci112 mon]$ gcc read_file.c -Wall
+[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ ls
 a.out  output.txt  read_file.c
-[p19t655@csci112 mon]$ cat output.txt
+[g73x595@csci112 mon]$ cat output.txt
 34.50
 67.29
 43.00
