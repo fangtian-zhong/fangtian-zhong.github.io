@@ -38,7 +38,7 @@ location: "Bozeman, Montana"
 |Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240207.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8)|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/12|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240212.pdf); [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9)|
-|Wednesday 02/14|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240214_1.pdf)      [recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9b495d9-9bad-4981-ba0c-b116010dfcaf)|7|[Quiz 2]||
+|Wednesday 02/14|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240214_1.pdf); [recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9b495d9-9bad-4981-ba0c-b116010dfcaf)|7|[Quiz 2]||
 |Friday 02/16|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240216.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/19|Presidents Day (no classes)||||
