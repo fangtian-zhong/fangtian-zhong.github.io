@@ -26,8 +26,8 @@ add three lines to the file. Once you have fixed the three todos, you should be
 able to compile and run the executable like so:
 
 ```
-[p19t655@csci112 mon]$ gcc read.c -Wall
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ gcc read.c -Wall
+[g73x595@csci112 mon]$ ./a.out
 Enter a name: Bob
 You entered: Bob
 
