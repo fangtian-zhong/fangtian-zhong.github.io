@@ -49,9 +49,9 @@ location: "Bozeman, Montana"
 |Wednesday 02/28|[Pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240228.pdf)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork13)--note that due date is Friday AoE||
 |Friday 03/01|[More pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240301.pdf)|6|[Quiz 3]|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
-|Monday 03/04|[C type strings]|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork14)||
-|Wednesday 03/06|[C type strings]|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork15)||
-|Friday 03/08|[C type strings]|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7)|
+|Monday 03/04|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240304.pdf)|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork14)||
+|Wednesday 03/06|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240306.pdf)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork15)||
+|Friday 03/08|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240308.pdf)|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/11|Spring Break (no classes)||||
 |Wednesday 03/13|Spring Break (no classes)||||
