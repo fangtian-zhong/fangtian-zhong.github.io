@@ -20,7 +20,7 @@ get help.
 
 However, you may use those resources for help with navigating the Linux
 terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Discord anyway.
+questions by going to lab or posting on Slack anyway.
 
 ## Learning outcomes
 * Practice using arrays.
