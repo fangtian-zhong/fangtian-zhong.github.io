@@ -65,8 +65,8 @@ location: "Bozeman, Montana"
 |Wednesday 03/27|[Compilation review + Makefiles]||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
 |Friday 03/29|University Day (no classes)||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 04/01|[Makefiles]||||
-|Wednesday 04/03|[Command line arguments]||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)|[Mid-course survey]|
+|Monday 04/01|[Makefiles]|||[Mid-course survey]|
+|Wednesday 04/03|[Command line arguments]||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)||
 |Friday 04/05|[Sorting an array of pointers]||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/08|[Pointer arithmetic]||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
