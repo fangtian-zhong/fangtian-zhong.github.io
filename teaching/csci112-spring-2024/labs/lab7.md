@@ -30,8 +30,8 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 In this lab, you will build off of your Lab 6 solution (or the solution
-provided in `/public/labs/lab6/solution.c` by class time on Monday, October
-9th) to read in a file of strings (instead of doubles), sort them, and then
+provided in `/public/labs/lab6/solution.c` by class time on Monday, March
+4th) to read in a file of strings (instead of doubles), sort them, and then
 print information from the strings in a pleasing manner.
 
 Starting from your Lab 6 solution, change from reading the file
