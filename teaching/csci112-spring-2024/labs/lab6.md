@@ -75,7 +75,7 @@ per line, like this:
 ```
 [g73x595@csci112 lab6]$ cat outdata.txt
 -45.99
--0.01
+-0.11
 1.00
 3.14
 3.33
