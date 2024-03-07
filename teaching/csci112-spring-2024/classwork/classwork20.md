@@ -24,8 +24,8 @@ Write a C program in the file `hi.c` that takes one argument from the command li
 	should look like this:
 
 ```
-[p19t655@csci112 mon]$ gcc -o hi -Wall hi.c
-[p19t655@csci112 mon]$ ./hi Champ
+[g73x595@csci112 mon]$ gcc -o hi -Wall hi.c
+[g73x595@csci112 mon]$ ./hi Champ
 Hello, Champ!
 ```
 
