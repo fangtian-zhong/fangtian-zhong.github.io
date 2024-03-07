@@ -25,8 +25,8 @@ filled in the correct code, compiling and running your program should look like
 this.
 
 ```
-[p19t655@csci112 wed]$ gcc tokenize.c -Wall
-[p19t655@csci112 wed]$ ./a.out
+[g73x595@csci112 wed]$ gcc tokenize.c -Wall
+[g73x595@csci112 wed]$ ./a.out
 Bozeman is in MT, USA
 ```
 
