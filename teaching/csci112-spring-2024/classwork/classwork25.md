@@ -34,12 +34,12 @@ After you have implemented `insert_person_at_back`, compiling and running your
 code should look like this:
 
 ```
-[p19t655@csci112 wed]$ ls
+[g73x595@csci112 wed]$ ls
 main.c  team.c  team.h
-[p19t655@csci112 wed]$ gcc main.c team.c -Wall
-[p19t655@csci112 wed]$ ls
+[g73x595@csci112 wed]$ gcc main.c team.c -Wall
+[g73x595@csci112 wed]$ ls
 a.out  main.c  team.c  team.h
-[p19t655@csci112 wed]$ ./a.out
+[g73x595@csci112 wed]$ ./a.out
   Enter person's name > Bob
   Enter person's name > Sally
 
