@@ -31,19 +31,19 @@ the event that your `realloc` call is unsuccessful.
 Here are a few sample runs:
 
 ```
-[p19t655@csci112 mon]$ gcc realloc.c -Wall
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ gcc realloc.c -Wall
+[g73x595@csci112 mon]$ ./a.out
 How many integers would you like to store? 10
 Allocating space for 10 ints
 How many do you want to store now? 5000
 Allocating space for 5000 ints
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ ./a.out
 How many integers would you like to store? 1000
 Allocating space for 1000 ints
 How many do you want to store now? 1000000000000
 Allocating space for 1000000000000 ints
 Not enough memory
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ ./a.out
 How many integers would you like to store? 100000000000
 Allocating space for 100000000000 ints
 Not enough memory
