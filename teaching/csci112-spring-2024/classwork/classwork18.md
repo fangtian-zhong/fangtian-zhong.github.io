@@ -26,10 +26,10 @@ called `coordinates.h`. Include `location.h` and `coordinates.h` where
 necessary so that compiling and running `mor.c` still works as before:
 
 ```
-[p19t655@csci112 mon]$ ls
+[g73x595@csci112 mon]$ ls
 coordinates.h  location.h  mor.c
-[p19t655@csci112 mon]$ gcc mor.c -Wall
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ gcc mor.c -Wall
+[g73x595@csci112 mon]$ ./a.out
 Museum of the Rockies location is LAT: 45 6 N, LON: 111 4 W
 ```
 
