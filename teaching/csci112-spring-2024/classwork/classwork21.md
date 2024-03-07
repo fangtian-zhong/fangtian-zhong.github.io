@@ -25,12 +25,12 @@ Fill in the `TODO`s in `main.c` so that when you compile and run the program,
 you get:
 
 ```
-[p19t655@csci112 fri]$ make
+[g73x595@csci112 fri]$ make
 gcc -c main.c -Wall
 gcc -c planet.c -Wall
 gcc -c sort.c -Wall
 gcc main.o planet.o sort.o -Wall
-[p19t655@csci112 fri]$ ./a.out
+[g73x595@csci112 fri]$ ./a.out
 The planets are:
 Mercury: 4879 diameter, 0 moons, 0.25 orbit time, 1426.00 rot. time
 Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
