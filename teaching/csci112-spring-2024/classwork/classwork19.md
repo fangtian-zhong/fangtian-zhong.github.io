@@ -33,33 +33,33 @@ depends on code that has changed.) For example, here is a sample sequences of
 calls to make after files get "changed" using `touch`:
 
 ```
-[p19t655@csci112 wed]$ ls
+[g73x595@csci112 wed]$ ls
 main.c  Makefile  planet.c  planet.h
-[p19t655@csci112 wed]$ make
+[g73x595@csci112 wed]$ make
 gcc -c main.c -Wall
 gcc -c planet.c -Wall
 gcc main.o planet.o -Wall
-[p19t655@csci112 wed]$ ls
+[g73x595@csci112 wed]$ ls
 a.out  main.c  main.o  Makefile  planet.c  planet.h  planet.o
-[p19t655@csci112 wed]$ ./a.out
+[g73x595@csci112 wed]$ ./a.out
 Enter a planet name, diameter, num. moons, orbit time, and rotation time: Mars 6779.0 2 1.88 24.61
 Enter a planet name, diameter, num. moons, orbit time, and rotation time: Earth 12756.0 1 1.0 24.0
 Jupiter: 142800 diameter, 16 moons, 11.90 orbit time, 9.93 rot. time
 Mars: 6779 diameter, 2 moons, 1.88 orbit time, 24.61 rot. time
 Earth: 12756 diameter, 1 moons, 1.00 orbit time, 24.00 rot. time
-[p19t655@csci112 wed]$ touch planet.h
-[p19t655@csci112 wed]$ make
+[g73x595@csci112 wed]$ touch planet.h
+[g73x595@csci112 wed]$ make
 gcc -c main.c -Wall
 gcc -c planet.c -Wall
 gcc main.o planet.o -Wall
-[p19t655@csci112 wed]$ touch main.c
-[p19t655@csci112 wed]$ make
+[g73x595@csci112 wed]$ touch main.c
+[g73x595@csci112 wed]$ make
 gcc -c main.c -Wall
 gcc main.o planet.o -Wall
-[p19t655@csci112 wed]$ touch planet.o
-[p19t655@csci112 wed]$ make
+[g73x595@csci112 wed]$ touch planet.o
+[g73x595@csci112 wed]$ make
 gcc main.o planet.o -Wall
-[p19t655@csci112 wed]$ make
+[g73x595@csci112 wed]$ make
 make: 'a.out' is up to date.
 ```
 
