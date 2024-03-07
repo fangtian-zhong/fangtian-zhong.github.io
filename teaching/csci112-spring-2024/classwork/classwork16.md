@@ -26,8 +26,8 @@ filled in the correct code, compiling and running your program should look like
 this.
 
 ```
-[p19t655@csci112 mon]$ gcc struct.c -Wall
-[p19t655@csci112 mon]$ ./a.out
+[g73x595@csci112 mon]$ gcc struct.c -Wall
+[g73x595@csci112 mon]$ ./a.out
 (1.30,3.56)
 (3.42,-10.46)
 ```
