@@ -51,7 +51,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/04|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240304.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01802c97-f843-4e5c-a8b3-b1290107f6c2)|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork14)||
 |Wednesday 03/06|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240306.pdf)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork15)||
-|Friday 03/08|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240308.pdf)|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7)|
+|Friday 03/08|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240308.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0005454-b58e-489b-ab4e-b12d0108acf0)|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/11|Spring Break (no classes)||||
 |Wednesday 03/13|Spring Break (no classes)||||
