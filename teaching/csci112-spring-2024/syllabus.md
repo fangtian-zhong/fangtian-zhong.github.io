@@ -77,7 +77,7 @@ location: "Bozeman, Montana"
 |Wednesday 04/17|[Dynamic data structures (Linked List)]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
 |Friday 04/19| help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/22|[Dynamic data structures (Dynamic arrays)]||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
+|Monday 04/22|[Dynamic data structures (Dynamic Arrays)]||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
 |Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
 |Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
