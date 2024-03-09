@@ -22,6 +22,6 @@ This page serves as a directory for the students I am working/ worked with.
 3. Hangfan Zhang, B.S. Nanjing University, Ph.D. student at Penn State University
 
 
-## Students are coming
+## Incoming Students
 1. Sumon Kanti Dey (Fall 2024)
 2. Abolfazl Sharif Nia (Fall 2024)

@@ -44,7 +44,7 @@
   #  - subtitle: "Vulnerability Analysis"
   #    subhref: ""
 
-- title: "My Group"
+- title: "Group"
   href: "/group/"
   subcategories:
     - subtitle: "Principle Investigator"
