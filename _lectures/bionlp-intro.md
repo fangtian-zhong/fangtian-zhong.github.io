@@ -2,7 +2,7 @@
 layout: page
 title:	"Introduction to BioNLP and its applications"
 description: Introduction to biomedical text mining and the relevant tasks
-author: Dr. Shankai Yan
+author: Dr. Fangtian Zhong
 date:	2021-08-26 08:00:00 +0500
 categories:
   - Online

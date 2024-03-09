@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	"PhD Study Is Just the Beginning!"
-author: Shankai
+author: Fangtian Zhong
 date:	2017-09-16 19:00:00 +0800
 categories:
   - Academia

@@ -4,10 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research interests focus on Computational Healthcare, Computational Biology, Biomedical Text Mining (BioNLP), Bioinformatics, Machine Learning and Graph Learning. My current projects focuses on phenotype annotation and embedding. Here you can find materials relevant to my published papers.
-
-I also provide the titles for some working papers and projects in progress below. Full links are attached for these papers when I believe they are ready for peer review. Feel free to contact me if you are interested in some of these works.
-
+His research primarily focuses on software security, program analysis, and machine learning for cybersecurity. He has published two ESI 1% highly cited papers. He enjoys developing novel and beautiful solutions to software security issues in different architectures, especially native codes without a source. 
 <hr style="clear:both;visibility: hidden;" />
 
 
