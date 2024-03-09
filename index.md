@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/avatar.jpg" width=200 align="right" %}
+{% include image.html url="/images/profile.jpg" width=200 align="right" %}
 
 ## Biography
  Dr. Fangtian Zhong is an assistant professor at Montana State University . He received a Ph.D. in Computer Science from George Washington University in 2021. Since then, he worked as a postdoctoral scholar at Pennsylvania State University and University of Notre Dame. 
