@@ -67,7 +67,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week12</span>|||||
 |Monday 04/01|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240401.pdf)|||[Mid-course survey]|
 |Wednesday 04/03|[Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240403.pdf)||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)||
-|Friday 04/05|[Sorting an array of pointers]||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
+|Friday 04/05|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240405.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/08|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240408.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
 |Wednesday 04/10|[Dynamic memory allocation]|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
