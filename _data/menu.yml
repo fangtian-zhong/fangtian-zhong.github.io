@@ -38,11 +38,11 @@
 
 - title: "Projects"
   href: "/feeds/"
-  subcategories:
-    - subtitle: "Malicious Analysis"
-      subhref: ""
-    - subtitle: "Vulnerability Analysis"
-      subhref: ""
+  #subcategories:
+  #  - subtitle: "Malicious Analysis"
+  #    subhref: ""
+  #  - subtitle: "Vulnerability Analysis"
+  #    subhref: ""
 
 - title: "My Group"
   href: "/group/"
