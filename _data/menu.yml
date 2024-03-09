@@ -52,5 +52,9 @@
     - subtitle: "My Students"
       subhref: "https://fangtian-zhong.github.io/group/"
 
+
+- title: "CV"
+  href: "https://fangtian-zhong.github.io/cv.html/"
+
 # - title: "Blogs"
 #   href: "/blogs/"
