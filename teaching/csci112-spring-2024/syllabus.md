@@ -73,13 +73,13 @@ location: "Bozeman, Montana"
 |Wednesday 04/10|[Dynamic memory allocation]|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
 |Friday 04/12|||Quiz5|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
 |<span style="color:red;">Week14</span>|||||
-|Monday 04/15|[Dynamic memory allocation]||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
-|Wednesday 04/17|[Dynamic memory allocation]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
+|Monday 04/15|[Dynamic data structures (Linked List)]||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
+|Wednesday 04/17|[Dynamic data structures (Linked List)]||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
 |Friday 04/19| help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/22|[Dynamic arrays]||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
+|Monday 04/22|[Dynamic data structures (Dynamic arrays)]||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
 |Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
-|Friday 04/26|Dynamic data structures||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
+|Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/29|[Bit operators; binary and hexadecimal]||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
 |Wednesday 05/01|[Bit masking]||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
