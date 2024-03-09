@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic Feeds
+title: Topic 
 permalink: /feeds/
 ---
 
