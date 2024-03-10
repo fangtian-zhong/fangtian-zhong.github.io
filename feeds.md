@@ -25,10 +25,13 @@ This page serves as a directory of the specific projects. The full-text document
 2. [WinVul]()
 3. [LinVul]() 
 4. [ContextVul]()
+
 ## IoT Attacks and Defenses
+
 1. [FlowGuard](https://ieeexplore.ieee.org/abstract/document/9090824)
 2. [EAR-ABE](https://ieeexplore.ieee.org/abstract/document/9920181)
 
 ## AI 
+
 1. [DynaDetect]()
 2. [EdgeViT](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_33)
