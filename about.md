@@ -16,3 +16,10 @@ He is a recipient of Graduate Fellowship and Graduate Merit Award at GWU. Outsid
     PhD, research interns and visiting scholars positions! 
   </span>
 </a>
+
+
+<a href="https://www.cs.montana.edu/REU/">
+  <span style="color:red;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-weight:800;font-size:21px">
+    Algorithms research experience for undergraduates (REU) is also available! 
+  </span>
+</a>
