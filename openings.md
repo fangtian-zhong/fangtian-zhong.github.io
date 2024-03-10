@@ -5,7 +5,9 @@ permalink: /openings/
 ---
 
 I regularly take phd students every year. Students with strong security background are preferred (e.g., could you explain static analysis, dynamic analysis, cfg, cg, reverse engineering, intermediate language?). If you are a prospective PhD student, I highly suggest reaching out to me early so that we can both check if there is a fit between us.
+
 Email format: "Interested in {position, e.g., Ph.D.} at {expected time, e.g., Fall 2024}”):
+
 - CV: Include your background, experiences, and future research interests.
 - Transcripts: including all college transcripts.
 - Research: Summarize any projects, publications, and open-source software you have done.
