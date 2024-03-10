@@ -6,6 +6,10 @@ venue: "Montana State University, Computer Science"
 date: 2024-01-17
 location: "Bozeman, Montana"
 ---
+
+## Instructor
+     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 10:00am - 10:50am
+     
 ## TAs
      Riley Slater, email: rileymail6@gmail.com, office hours: Tuesdays, 11am -1pm
      Justin Mau, email:jdmau123@gmail.com, office hours: Tuesdays, 3:10pm - 5:10pm
