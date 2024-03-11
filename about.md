@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 {% include image.html url="/images/profile.jpg" width=200 align="right" %}
+credits by Dr. Liping
 
 ## Biography
  Dr. Fangtian Zhong is an assistant professor at Montana State University . He received a Ph.D. in Computer Science from George Washington University in 2021, advised by Prof. [Xiuzhen Cheng](https://www2.seas.gwu.edu/~cheng/). He moved to Pennsylvania State University in 2021 where he worked as a postdoctoral scholar, expanding his research skillset from single architecture to multi-architectures. 
