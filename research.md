@@ -10,6 +10,10 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
+**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission)
+
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Cheng Zhang, Dinghao Wu. (2024) BBSS: Scalable Malware Analysis Based on Basic Blocks, IEEE Transactions on Information Forensics and Security 
+
 Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Chong Yu. (2024) Detecting Poisoning Attacks with DynaDetect, ISICN
 
 **Fangtian Zhong**, Xiuzhen Cheng, Dongxiao Yu, Bei Gong, Shuaiwen Song, Jiguo Yu✉. (2023). [MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors](https://ieeexplore.ieee.org/abstract/document/10017127/). *IEEE Transactions on Computers*
