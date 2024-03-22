@@ -16,9 +16,9 @@ title: "Classwork 17"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_spring2024/classwork/week9/wed/`, creating directories `week9`
+* From your home directory, navigate to `/csci112_spring2024/classwork/week10/wed/`, creating directories `week10`
 and `wed` if necessary.
-* Copy the `point.c` file from `/public/classwork/week9/wed` to your directory.
+* Copy the `point.c` file from `/public/classwork/week10/wed` to your directory.
 
 Fill in the missing function `change_x` so that it changes the value of the `x`
 field in a point that is passed in. Make sure that you define the function to
@@ -28,8 +28,8 @@ After you add the function, compiling and running your program should look like
 this:
 
 ```
-[p19t655@csci112 wed]$ gcc point.c -Wall
-[p19t655@csci112 wed]$ ./a.out
+[g73x595@csci112 wed]$ gcc point.c -Wall
+[g73x595@csci112 wed]$ ./a.out
 (3.14,3.56)
 (3.14,-10.46)
 ```
@@ -39,7 +39,7 @@ this:
 You can run the autograder by running
 
 ```
-/public/classwork/week9/wed/autograder.sh
+/public/classwork/week10/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.

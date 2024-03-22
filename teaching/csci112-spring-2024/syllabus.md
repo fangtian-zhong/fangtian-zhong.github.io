@@ -61,7 +61,7 @@ location: "Bozeman, Montana"
 |Wednesday 03/13|Spring Break (no classes)||||
 |Friday 03/15|Spring Break (no classes)||||
 |<span style="color:red;">Week10</span>|||||
-|Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240318.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
+|Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240318.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fa1f243-912f-4f05-81dd-b13501498294)||10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
 |Wednesday 03/20|Fangtian Gone (quiz and classwork)|10|Quiz 4 and [Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
 |Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240322.pdf)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
 |<span style="color:red;">Week11</span>|||||
