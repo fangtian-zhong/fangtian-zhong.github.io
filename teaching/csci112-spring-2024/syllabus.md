@@ -63,7 +63,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week10</span>|||||
 |Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240318.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fa1f243-912f-4f05-81dd-b13501498294)||10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
 |Wednesday 03/20|Fangtian Gone (quiz and classwork)|10|Quiz 4 and [Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
-|Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240322.pdf)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
+|Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240322.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2fc2a46-93a0-467b-8991-b13b00f785b4)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/25|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_202400325.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork18)||
 |Wednesday 03/27|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240327.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
