@@ -85,8 +85,8 @@ location: "Bozeman, Montana"
 |Wednesday 04/24|Memory profiling with valgrind||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
 |Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
-|Monday 04/29|[Bit operators; binary and hexadecimal]||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
-|Wednesday 05/01|[Bit masking]||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
+|Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240429.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
+|Wednesday 05/01|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240501.pdf)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
 |Friday 05/03|Lab 13 help session|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
 |<span style="color:red;">Week17</span>|||||
 |Wednesday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
