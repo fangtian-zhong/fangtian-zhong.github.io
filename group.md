@@ -11,8 +11,9 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Current Students
 
-1. [Zhuoyun Qian](): B.S. Northeast Normal University
-2. [Luyang Xiong](): B.S. Shandong University
+1. [Hongyi Miao](): B.S. Northeast Normal University
+2. [Zhuoyun Qian](): B.S. Northeast Normal University
+3. [Luyang Xiong](): B.S. Shandong University
 
 
 ## Alumni
