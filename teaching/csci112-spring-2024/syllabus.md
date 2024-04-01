@@ -69,7 +69,7 @@ location: "Bozeman, Montana"
 |Wednesday 03/27|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240327.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e584856-724c-4e12-b61b-b14000f70da8)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
 |Friday 03/29|University Day (no classes)||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 04/01|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240401.pdf)|||[Mid-course survey]|
+|Monday 04/01|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240401.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f2bc94b-87a5-4ac6-9562-b14500f74518)|||[Mid-course survey]|
 |Wednesday 04/03|[Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240403.pdf)||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)||
 |Friday 04/05|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240405.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
 |<span style="color:red;">Week13</span>|||||
