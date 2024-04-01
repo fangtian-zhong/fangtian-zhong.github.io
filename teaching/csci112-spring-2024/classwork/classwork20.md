@@ -6,7 +6,7 @@ title: "Classwork 20"
 ## Logistics
 * Due: Wednesday, April 3rd AoE.
 * Submission instructions: make sure that the required file (`hi.c`) is in your
-	`csci112_spring2023/classwork/week12/wed/` directory.
+	`csci112_spring2024/classwork/week12/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,7 +16,7 @@ title: "Classwork 20"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week12/mon/`, creating directories `week12`
+* From your home directory, navigate to `csci112_spring2024/classwork/week12/mon/`, creating directories `week12`
 and `mon` if necessary.
 
 Write a C program in the file `hi.c` that takes one argument from the command line and prints
