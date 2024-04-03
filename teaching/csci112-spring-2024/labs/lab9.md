@@ -29,7 +29,7 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 In this lab, you split your Lab 8 solution (or the solution
-provided in `/public/labs/lab8/solution.c` by class time on Monday, October
+provided in `/public/labs/lab9/solution.c` by class time on Monday, October
 23rd) into multiple header (`.h`) and source code (`.c`) files. You will also
 write a `Makefile` so that you can recompile only code that is affected by a
 change.
