@@ -17,7 +17,7 @@ title: "Classwork 20"
 
 * Log in to the server.
 * From your home directory, navigate to `csci112_spring2024/classwork/week12/wed/`, creating directories `week12`
-and `mon` if necessary.
+and `wed` if necessary.
 
 Write a C program in the file `hi.c` that takes one argument from the command line and prints
 	`Hello, <arg>`! For example, if you run it with the input `Champ`, it
@@ -34,7 +34,7 @@ Hello, Champ!
 You can run the autograder by running
 
 ```
-/public/classwork/week12/mon/autograder.sh
+/public/classwork/week12/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
