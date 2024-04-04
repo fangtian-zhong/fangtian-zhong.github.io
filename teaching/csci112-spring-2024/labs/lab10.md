@@ -4,7 +4,7 @@ title: "Lab 10"
 ---
 
 ## Logistics
-* Due: Friday, April 5th AoE.
+* Due: Friday, April 12th AoE.
 * Submission instructions: ensure that you have the files for this assignment in your `~/csci112_spring2024/labs/lab10`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab10`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4/).)
