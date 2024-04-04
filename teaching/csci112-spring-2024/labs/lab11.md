@@ -59,7 +59,7 @@ should be doing and what it is doing as written.
 Here's one:
 
 ```
-[p19t655@csci112 lab11]$ ./lab11
+[g73x595@csci112 lab11]$ ./lab11
 How many people are on the team? > 5
   Enter person's name > bob
   Enter person's name > sally
@@ -86,7 +86,7 @@ eustace->chris->sally->bob->
 And another:
 
 ```
-[p19t655@csci112 lab11]$ ./lab11
+[g73x595@csci112 lab11]$ ./lab11
 How many people are on the team? > 1
   Enter person's name > Alexis
 
