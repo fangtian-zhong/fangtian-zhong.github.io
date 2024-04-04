@@ -77,13 +77,13 @@ functions if you would like, but the details are up to you.
 As always, match the output format exactly.
 
 ```
-[p19t655@csci112 lab10]$ ls
+[g73x595@csci112 lab10]$ ls
 funcs.c  lab10.c  lab10.h  Makefile
-[p19t655@csci112 lab10]$ make
+[g73x595@csci112 lab10]$ make
 gcc -c lab10.c -Wall
 gcc -c funcs.c -Wall -lm
 gcc -o lab10 lab10.o funcs.o -lm
-[p19t655@csci112 lab10]$ ./lab10 Bowser 10 10 Mario 5 5
+[g73x595@csci112 lab10]$ ./lab10 Bowser 10 10 Mario 5 5
 ### LET'S FIGHT ###
 Bowser (10 XP, 10 HP) vs. Mario (5 XP, 5 HP)
 Bowser deals 5 damage to Mario
@@ -91,7 +91,7 @@ Bowser deals 5 damage to Mario
 Result is:
 Bowser (11 XP, 10 HP)
 Mario (deceased) (8 XP, 0 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 35 100
+[g73x595@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 35 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (35 XP, 100 HP)
 Mario deals 13 damage to Bowser
@@ -99,7 +99,7 @@ Mario deals 13 damage to Bowser
 Result is:
 Bowser (33 XP, 87 HP)
 Mario (36 XP, 100 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 22 100
+[g73x595@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (22 XP, 100 HP)
 It's a tie!
@@ -107,7 +107,7 @@ It's a tie!
 Result is:
 Bowser (22 XP, 100 HP)
 Mario (22 XP, 100 HP)
-[p19t655@csci112 lab10]$ ./lab10 Bowser 40 100 Mario 22 100
+[g73x595@csci112 lab10]$ ./lab10 Bowser 40 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (40 XP, 100 HP) vs. Mario (22 XP, 100 HP)
 Bowser deals 18 damage to Mario
