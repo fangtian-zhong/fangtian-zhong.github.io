@@ -81,8 +81,8 @@ location: "Bozeman, Montana"
 |Wednesday 04/17|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240417.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
 |Friday 04/19| help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/22|[Dynamic data structures (Dynamic Arrays)]((https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240422.pdf))||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
-|Wednesday 04/24|[Memory profiling with valgrind]((https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240424.pdf))||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
+|Monday 04/22|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240422.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
+|Wednesday 04/24|[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240424.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
 |Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240429.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
