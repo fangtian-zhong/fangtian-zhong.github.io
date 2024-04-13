@@ -98,7 +98,7 @@ Mario deals 13 damage to Bowser
 
 Result is:
 Bowser (33 XP, 87 HP)
-Mario (36 XP, 100 HP)
+Mario (37 XP, 100 HP)
 [g73x595@csci112 lab10]$ ./lab10 Bowser 22 100 Mario 22 100
 ### LET'S FIGHT ###
 Bowser (22 XP, 100 HP) vs. Mario (22 XP, 100 HP)
