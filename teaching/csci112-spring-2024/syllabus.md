@@ -78,7 +78,7 @@ location: "Bozeman, Montana"
 |Friday 04/12|||Quiz5|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/15|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240415.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b456927-ef63-4ee1-88b1-b15300f70d9f)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
-|Wednesday 04/17|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240417.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
+|Wednesday 04/17|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240417.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9b23b673-9a9a-4f83-8eea-b15500f75698)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
 |Friday 04/19| help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/22|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240422.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
