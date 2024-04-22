@@ -11,9 +11,10 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Current Students
 
-1. [Hongyi Miao](): B.S. Northeast Normal University
-2. [Zhuoyun Qian](): B.S. Northeast Normal University
-3. [Luyang Xiong](): B.S. Shandong University
+1. [Oscar Oropeza](): B.S. Montana State University
+2. [Hongyi Miao](): B.S. Northeast Normal University
+3. [Zhuoyun Qian](): B.S. Northeast Normal University
+4. [Luyang Xiong](): B.S. Shandong University
 
 
 ## Alumni
