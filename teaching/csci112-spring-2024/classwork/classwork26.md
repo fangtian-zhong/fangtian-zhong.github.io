@@ -22,7 +22,7 @@ title: "Classwork 26"
 and `mon` if necessary.
 * Copy the file `/public/classwork/week15/mon/realloc.c` into your directory.
 
-Fill in the three `TODO` items so that the program attempts too allocate an
+Fill in the three `TODO` items so that the program attempts to allocate an
 array of ints on the heap, and if successful, then attempts to reallocate the same data to
 a different sized array of ints on the heap. Be sure to `free` memory as
 needed! You may need to think about how to ensure that all memory is freed in
