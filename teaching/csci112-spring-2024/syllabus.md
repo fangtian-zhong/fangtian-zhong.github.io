@@ -82,7 +82,7 @@ location: "Bozeman, Montana"
 |Friday 04/19| help session for Lab 11;[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f339bfcb-fa30-405a-b7be-b15700f80f6e)|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/22|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240422.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=682e82b2-f3be-4a51-a7ec-b15a00f8f1aa)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
-|Wednesday 04/24|[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240424.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
+|Wednesday 04/24|[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240424.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181df471-f328-49a3-af5d-b15c00f75be4)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
 |Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240429.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
