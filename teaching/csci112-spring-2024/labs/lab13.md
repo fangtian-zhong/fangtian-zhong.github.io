@@ -47,7 +47,7 @@ it to `0`, and toggling a bit means setting it to whatever it was not before.
 Whenever you print a number in decimal, you should also print it in binary and
 in hex.
 
-You may optionally start with the starter code in `/public/labs/lab13/`, in
+You may optionally start with the starter code in `/public/labs/lab13/lab13_starter.c`, in
 which case you just need to implement the functions `print_binary`,
 `print_hex`, and `modify_bit`.
 
