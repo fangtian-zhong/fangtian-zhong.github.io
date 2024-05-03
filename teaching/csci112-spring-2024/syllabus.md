@@ -87,7 +87,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240429.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4b51819-9878-4546-a76e-b16100f7302c)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
 |Wednesday 05/01|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240501.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ff32691-ebbf-4583-98fd-b16300f81380)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
-|Friday 05/03|Lab 13 help session|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
+|Friday 05/03|Lab 13 help session;[final](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/ProgrammingwithC.pdf)|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
 |<span style="color:red;">Week17</span>|||||
 |Wednesday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
 
