@@ -11,11 +11,12 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Current Students
 
-1. [Jeff Simpson](): B.S. from Montana State University
-2. [Oscar Oropeza](): B.S. from Montana State University
-3. [Hongyi Miao]():  B.S. from Northeast Normal University
-4. [Zhuoyun Qian](): B.S from Northeast Normal University
-5. [Luyang Xiong](): B.S. from Shandong University
+1. [Jake Hopkins](): B.S from Montana State University
+2. [Jeff Simpson](): B.S. from Montana State University
+3. [Oscar Oropeza](): B.S. from Montana State University
+4. [Hongyi Miao]():  B.S. from Northeast Normal University
+5. [Zhuoyun Qian](): B.S from Northeast Normal University
+6. [Luyang Xiong](): B.S. from Shandong University
 
 
 ## Alumni
