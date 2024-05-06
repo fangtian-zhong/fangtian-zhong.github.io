@@ -19,8 +19,8 @@ He enjoys developing novel and beautiful solutions to software security issues i
 </a>
 
 
-<a href="https://www.cs.montana.edu/REU/">
+<!--<a href="https://www.cs.montana.edu/REU/">
   <span style="color:red;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-weight:800;font-size:21px">
     Algorithms research experience for undergraduates (REU) is also available! 
   </span>
-</a>
+</a>-->
