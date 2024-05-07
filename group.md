@@ -11,17 +11,16 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Undergrad Researcher
 
-1. [Leon Birdhat](): B.S from Montana State University, McNair Scholars
-2. [Jake Hopkins](): B.S from Montana State University
-3. [Jeff Simpson](): B.S. from Montana State University
-4. [Oscar Oropeza](): B.S. from Montana State University
-5. [Hongyi Miao]():  B.S. from Northeast Normal University
-6. [Zhuoyun Qian](): B.S from Northeast Normal University
-7. [Luyang Xiong](): B.S. from Shandong University
-
+1. [Leon Birdhat](): McNair Scholars
+2. [Jake Hopkins](): 
+3. [Jeff Simpson](): 
+4. [Oscar Oropeza]():
+5. [Hongyi Miao]():  
+6. [Zhuoyun Qian](): 
+7. [Luyang Xiong](): 
 ## Grad Researcher
-1. [Asibul Islam](): M.S. Montana State University, B.S. American International University-Bangladesh 
-2. [Shahnaj Mou](): M.S. Montana State University, B.S. American International University-Bangladesh
+1. [Asibul Islam]():
+2. [Shahnaj Mou](): 
 
 
 ## Alumni
