@@ -17,7 +17,8 @@ This page serves as a directory for the students I am working/ worked with.
 4. [Oscar Oropeza]():
 5. [Hongyi Miao]():  
 6. [Zhuoyun Qian](): 
-7. [Luyang Xiong](): 
+7. [Luyang Xiong]():
+
 ## Grad Researcher
 1. [Asibul Islam]():
 2. [Shahnaj Mou](): 
