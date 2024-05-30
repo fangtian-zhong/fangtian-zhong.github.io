@@ -11,13 +11,14 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Undergrad Researcher
 
-1. [Leon Birdhat](): McNair Scholars
-2. [Jake Hopkins](): 
-3. [Jeff Simpson](): 
-4. [Oscar Oropeza]():
-5. [Hongyi Miao]():  
-6. [Zhuoyun Qian](): 
-7. [Luyang Xiong]():
+1. [Micheal Crapse]():REU Scholars
+2. [Leon Birdhat](): McNair Scholars
+3. [Jake Hopkins](): 
+4. [Jeff Simpson](): 
+5. [Oscar Oropeza]():
+6. [Hongyi Miao]():  
+7. [Zhuoyun Qian](): 
+8. [Luyang Xiong]():
 
 ## Grad Researcher
 1. [Asibul Islam]():
