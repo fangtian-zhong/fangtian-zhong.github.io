@@ -43,8 +43,6 @@ Yizhen Jia, **Fangtian Zhong✉**, Arwa Alrawais, Bei Gong, Xiuzhen Cheng. (2020
 
 [BBE]()   
 
-[BBSS]()  
-
 [AndVul]()
 
 [WinVul]()
