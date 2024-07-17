@@ -11,11 +11,11 @@ His research primarily focuses on software security, program analysis, ,machine 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 Jianan Chen, Qin Hu, **Fangtian Zhong**. (2024) Unlearning Federal learning, IEEE INFOCOM (In Submission), **CCF A**
 
-Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE VTC (In Submission)
-
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Jiguo Yu. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, IEEE Transactions on Computers (In Submission), **CCF A**
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission), **CCF A**
+
+Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE VTC 
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Cheng Zhang, Dinghao Wu✉. (2024) BBSS: Scalable Malware Analysis Based on Basic Blocks, IEEE Transactions on Information Forensics and Security, **CCF A**
 
