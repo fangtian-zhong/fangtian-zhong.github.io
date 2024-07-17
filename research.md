@@ -15,7 +15,7 @@ Jianan Chen, Qin Hu, **Fangtian Zhong**. (2024) Unlearning Federal learning, IEE
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission), **CCF A**
 
-Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE Conference on Vehicular Technology 
+Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE Conference on Vehicular Technology **Core B**
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Cheng Zhang, Dinghao Wu✉. (2024) BBSS: Scalable Malware Analysis Based on Basic Blocks, IEEE Transactions on Information Forensics and Security, **CCF A**
 
