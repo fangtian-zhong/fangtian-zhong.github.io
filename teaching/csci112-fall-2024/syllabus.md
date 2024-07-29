@@ -26,70 +26,70 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 01/17|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI_112_Programming_with_C_20240117.pptx) / [course slack](https://join.slack.com/t/csci112-spring-2024/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
-|Friday 01/19|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
+|Wednesday 08/21|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI_112_Programming_with_C_20240117.pptx) / [course slack](https://join.slack.com/t/csci112-spring-2024/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork1)||
+|Friday 08/23|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
-|Monday 01/22|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork3)|
-|Wednesday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4)|
-|Friday 01/26|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240126.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab1)|
+|Monday 08/26|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork3)|
+|Wednesday 08/28|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4)|
+|Friday 08/30|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240126.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
-|Monday 01/29| [Functions](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240129.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork5)||
-|Wednesday 01/31|[Functions](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240131.pdf)|3.1-3.5|[Quiz 1]||
-|Friday 02/02|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240202.pdf)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork6)|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab2)|
+|Monday 09/02| No class ||||
+|Wednesday 09/04|||||
+|Friday 09/06|||||
 |<span style="color:red;">Week4</span>|||||
-|Monday 02/05|More [logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240205.pdf)||[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork7)||
-|Wednesday 02/07|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240207.pdf)|5.1-5.8|||
-|Friday 02/09|[Loops](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240207.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork8)|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab3)|
+|Monday 09/09|||||
+|Wednesday 09/11|||||
+|Friday 09/13|||||
 |<span style="color:red;">Week5</span>|||||
-|Monday 02/12|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240212.pdf); [redirection](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork9)|
-|Wednesday 02/14|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240214_1.pdf); |7|[Quiz 2]||
-|Friday 02/16|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240216.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork10)|[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab4)|
+|Monday 09/16||||
+|Wednesday 09/18|||||
+|Friday 09/20|||||
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/19|Presidents Day (no classes)||||
-|Wednesday 02/21|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240221.pdf); [recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=afaf01c9-95cb-44ce-b294-b11d0107c46c)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork11)||
-|Friday 02/23|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240223.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6e466e80-b554-4374-943e-b11f01080157)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab5)|
+|Wednesday 02/21|||||
+|Friday 02/23|||||
 |<span style="color:red;">Week7</span>|||||
-|Monday 02/26|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240226.pdf); [recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ecee3cd-0243-4769-93dd-b122010a16bf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork12)||
-|Wednesday 02/28|[Pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240228.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2335367-e008-44b5-9f5f-b124012b7ae1)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork13)--note that due date is Friday AoE||
-|Friday 03/01|[More pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240301.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f2fe862-83d7-4bb9-810d-b1260107c323)|6|[Quiz 3]|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab6)|
+|Monday 02/26|||||
+|Wednesday 02/28|||||
+|Friday 03/01|||||
 |<span style="color:red;">Week8</span>|||||
-|Monday 03/04|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240304.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=01802c97-f843-4e5c-a8b3-b1290107f6c2)|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork14)||
-|Wednesday 03/06|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240306.pdf)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork15)||
-|Friday 03/08|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240308.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0005454-b58e-489b-ab4e-b12d0108acf0)|8||[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab7)|
+|Monday 03/04|||||
+|Wednesday 03/06|||||
+|Friday 03/08|||||
 |<span style="color:red;">Week9</span>|||||
-|Monday 03/11|Spring Break (no classes)||||
-|Wednesday 03/13|Spring Break (no classes)||||
-|Friday 03/15|Spring Break (no classes)||||
+|Monday 03/11|||||
+|Wednesday 03/13|||||
+|Friday 03/15|||||
 |<span style="color:red;">Week10</span>|||||
-|Monday 03/18|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240318.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9fa1f243-912f-4f05-81dd-b13501498294)||10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork16)||
-|Wednesday 03/20|Fangtian Gone (quiz and classwork)|10|Quiz 4 and [Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork17)||
-|Friday 03/22|[Structs](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240322.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d2fc2a46-93a0-467b-8991-b13b00f785b4)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab8)|
+|Monday 03/18||||||
+|Wednesday 03/20|||||
+|Friday 03/22|||||
 |<span style="color:red;">Week11</span>|||||
-|Monday 03/25|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_202400325.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb6e567e-b41c-4e42-9e74-b13e00f74a26)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork18)||
-|Wednesday 03/27|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240327.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e584856-724c-4e12-b61b-b14000f70da8)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork19)||
-|Friday 03/29|University Day (no classes)||||
+|Monday 03/25|||||
+|Wednesday 03/27|||||
+|Friday 03/29|||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 04/01|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240401.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f2bc94b-87a5-4ac6-9562-b14500f74518)|||[Mid-course survey]|
-|Wednesday 04/03|[Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240403.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d356768-5ec6-4df4-ae1d-b14700f756d9)||[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork20)||
-|Friday 04/05|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240405.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bd487f6-12a5-47a7-ae54-b14900f71515)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork21)|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab9)|
+|Monday 04/01|||||
+|Wednesday 04/03|||||
+|Friday 04/05|||||
 |<span style="color:red;">Week13</span>|||||
-|Monday 04/08|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240408.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=727c32d7-6670-4a54-ba37-b14c00f71102)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork22)||
-|Wednesday 04/10|[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240410.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dce2a6b7-c6a1-454a-892a-b14e00f715d1)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork23)||
-|Friday 04/12|||Quiz5|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab10)|
+|Monday 04/08|||||
+|Wednesday 04/10|||||
+|Friday 04/12|||||
 |<span style="color:red;">Week14</span>|||||
-|Monday 04/15|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240415.pdf);[recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b456927-ef63-4ee1-88b1-b15300f70d9f)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork24)||
-|Wednesday 04/17|[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240417.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork25)||
-|Friday 04/19| help session for Lab 11|||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab11)|
+|Monday 04/15|||||
+|Wednesday 04/17|||||
+|Friday 04/19| ||||
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/22|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240422.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork26)||
-|Wednesday 04/24|[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240424.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork27)||
-|Friday 04/26|||Quiz 6|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab12)|
+|Monday 04/22|||||
+|Wednesday 04/24|||||
+|Friday 04/26|||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 04/29|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240429.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork28)
-|Wednesday 05/01|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/ppts/CSCI112_20240501.pdf)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork29)||
-|Friday 05/03|Lab 13 help session|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/labs/lab13)|
+|Monday 04/29|||||
+|Wednesday 05/01|||||
+|Friday 05/03|||||
 |<span style="color:red;">Week17</span>|||||
-|Wednesday 05/08, 8:00-9:50am|Optional final (to replace quiz grade) in lecture classroom||||
+|Wednesday 05/08, 8:00-9:50am|||||
 
 ## Catalog description
 
