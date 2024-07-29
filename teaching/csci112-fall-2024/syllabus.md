@@ -3,7 +3,7 @@ title: "CSCI 112: Programming With C"
 collection: teaching
 type: "Undergraduate course"
 venue: "Montana State University, Computer Science"
-date: 2024-01-17
+date: 2024-08-21
 location: "Bozeman, Montana"
 ---
 
