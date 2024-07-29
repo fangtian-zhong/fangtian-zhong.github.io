@@ -171,8 +171,8 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 29 classwork assignments (lowest five dropped): 20%
-* 13 labs (lowest two dropped): 60%
-* 6 in-class quizzes (or replace with final): 20%
+* 13 labs (lowest two dropped): 40%
+* 12 in-class quizzes (lowest two dropped): 40%
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
