@@ -88,7 +88,7 @@ location: "Bozeman, Montana"
 |Wednesday 12/04|||||
 |Friday 12/06|||||
 |<span style="color:red;">Week17</span>|||||
-|Wednesday 05/08, 8:00-9:50am|||||
+|Wednesday 12/11, 8:00-9:50am|||||
 
 ## Catalog description
 
