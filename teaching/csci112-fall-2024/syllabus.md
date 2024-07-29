@@ -72,7 +72,7 @@ location: "Bozeman, Montana"
 |Wednesday 11/06|||||
 |Friday 11/08|||||
 |<span style="color:red;">Week13</span>|||||
-|Monday 11/11|||||
+|Monday 11/11|No Class||||
 |Wednesday 11/13|||||
 |Friday 11/15|||||
 |<span style="color:red;">Week14</span>|||||
@@ -80,9 +80,9 @@ location: "Bozeman, Montana"
 |Wednesday 11/20|||||
 |Friday 11/22| ||||
 |<span style="color:red;">Week15</span>|||||
-|Monday 11/25|||||
-|Wednesday 11/27|||||
-|Friday 11/29|||||
+|Monday 11/25|No Class||||
+|Wednesday 11/27|No Class||||
+|Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
 |Monday 12/02|||||
 |Wednesday 12/04|||||
