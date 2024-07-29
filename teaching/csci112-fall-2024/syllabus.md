@@ -99,12 +99,12 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-9:00-9:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use
+8:00-8:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use
 Slack as the primary method of course communication, and all course
 information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab on Fridays from 10:00 am to 4:00 pm in BARNAR 254 that you may attend to get extra help.
+There is an *optional* lab on Fridays from 12:00pm to 4:00 pm in BARNAR 254 that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
@@ -126,7 +126,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/tools).
+page](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools).
 
 ### Optional open lab and TAs
 
@@ -137,8 +137,8 @@ when no lab is due, there will still be TAs in the lab to help you.
 
 ### Instructor office hours
 
-My office hours are 10:00am-10:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
-different meeting time, and join the slack by [the link](https://join.slack.com/t/slack-dat8296/shared_invite/zt-2al6rqd6a-KD8O3vPBUiA7wHxlhPwGrg), or drop by my office (Barnard 352) if my door is open.
+My office hours are 9:00am-9:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
+different meeting time, and join the slack by [the link](), or drop by my office (Barnard 352) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
@@ -189,12 +189,13 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Additional work throughout the semester
 
-Since five classworks and two labs are dropped, your work on dropped
+Since five classworks, two labs and two quizzes are dropped, your work on dropped
 assignments may
 be counted as a bonus. You get:
 
-* 1 point for a score of 75% or more on any lab beyond your required 11, and
+* 0.5 point for a score of 80% or more on any lab beyond your required 11, and
 * 0.1 point for any completed classwork beyond your required 24.
+* 0.5 point for a score of 80% or more on any quiz beyond your required 10
 
 #### Course survey and evaluation
 
