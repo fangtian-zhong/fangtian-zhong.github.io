@@ -30,7 +30,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week2</span>|||||
 |Monday 08/26|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork3)|
 |Wednesday 08/28|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4)|
-|Friday 08/30|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240126.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab1)|
+|Friday 08/30|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240830.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 09/02| No class ||||
 |Wednesday 09/04|||||
