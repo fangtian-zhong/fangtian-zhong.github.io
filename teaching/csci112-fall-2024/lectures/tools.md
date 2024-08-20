@@ -60,7 +60,7 @@ ssh g73x595@csci112vm.cs.montana.edu
 The first time you log in to the server, you will see a message like this:
 
 ```
-The authenticity of host 'csci112.cs.montana.edu (153.90.127.188)' can't be established.
+The authenticity of host 'csci112vm.cs.montana.edu (153.90.127.188)' can't be established.
 ECDSA key fingerprint is SHA256:HtAKyENKuEBa6mILkLwhMdqqUBvw5QYltXuq2VzEB08.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
