@@ -47,14 +47,14 @@ open up a terminal (on Mac or Linux) or command prompt
 (secure shell) command to log in using our netid, like so:
 
 ```
-ssh <netid>@csci112.cs.montana.edu
+ssh <netid>@csci112vm.cs.montana.edu
 ```
 
 Note that whenever you see something in angle brackets (`<` and `>`), it means you should replace whatever's in them *and* them with something else. (In this case, your netid). So, for example, with the netid `g73x595`, the command would be
 
 
 ```
-ssh g73x595@csci112.cs.montana.edu
+ssh g73x595@csci112vm.cs.montana.edu
 ```
 
 The first time you log in to the server, you will see a message like this:
@@ -83,7 +83,7 @@ The server is using an operating system called Linux. Linux can be used with a G
 The command prompt looks something like this:
 
 ```
-[username@csci112 ~]$
+[username@csci112vm ~]$
 ```
 
 Here are a number of important commands (or equivalently, programs) that you'll
@@ -162,7 +162,7 @@ For example, suppose I have a program that prints the numbers 1 through 5,
 compiled into the executable `print_nums`:
 
 ```
-[g73x595@csci112 ~]$ ./print_nums
+[g73x595@csci112vm ~]$ ./print_nums
 1 2 3 4 5
 ```
 
@@ -170,13 +170,13 @@ If I want to save this to a file called `nums.txt`, I can do the following.
 Note that nothing is print to the screen.
 
 ```
-[g73x595@csci112 ~]$ ./print_nums > nums.txt
+[g73x595@csci112vm ~]$ ./print_nums > nums.txt
 ```
 
 But if I `cat` the file `nums.txt`, I see that it has content:
 
 ```
-[g73x595@csci112 ~]$ cat nums.txt
+[g73x595@csci112vm ~]$ cat nums.txt
 1 2 3 4 5
 ```
 
@@ -184,7 +184,7 @@ Similarly, if I have an executable `read_nums` that reads in five integers (for
 example, using `scanf` in C), I can enter those at the console:
 
 ```
-[g73x595@csci112 ~]$ ./read_nums
+[g73x595@csci112vm ~]$ ./read_nums
 Enter five integer numbers, separated by spaces:
 1 2 3 4 5
 You entered the following numbers:
@@ -195,7 +195,7 @@ But I can also use redirection to use a file to enter them. (Recall that our
 file `nums.txt` contains `1 2 3 4 5`).
 
 ```
-[g73x595@csci112 ~]$ ./read_nums < nums.txt
+[g73x595@csci112vm ~]$ ./read_nums < nums.txt
 Enter five integers:
 The numbers you entered are 1, 2, 3, 4, 5
 ```
@@ -207,7 +207,7 @@ computer. **Note that you need to do this from your own computer, not from the
 server!** The first argument is where to copy from and the second is where to
 copy to. For example,
 ```
-scp <netid>@csci112.cs.montana.edu:/home/<netid>/myfile.txt myfile.txt
+scp <netid>@csci112vm.cs.montana.edu:/home/<netid>/myfile.txt myfile.txt
 ```
 would copy the file `myfile.txt` from your home directory (`/home/<netid>`) on
 the server into a file called `myfile.txt`, *in whatever directory you are in
@@ -218,10 +218,10 @@ To copy from your computer to the server, you would reverse the order of the
 arguments.
 
 Some useful examples:
-* `scp -r <netid>@csci112.cs.montana.edu:/home/<netid>/classwork classwork`
+* `scp -r <netid>@csci112vm.cs.montana.edu:/home/<netid>/classwork classwork`
 	would copy your entire `classwork` directory to a directory called
 	`classwork` on your computer
-* `scp <netid>@csci112.cs.montana.edu:/public/classwork/week10/mon/solution.c program.c` would copy week 10 Monday's classwork solution to a file called `program.c`
+* `scp <netid>@csci112vm.cs.montana.edu:/public/classwork/week10/mon/solution.c program.c` would copy week 10 Monday's classwork solution to a file called `program.c`
 
 ### Additional resources
 
