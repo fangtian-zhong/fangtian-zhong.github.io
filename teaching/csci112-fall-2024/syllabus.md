@@ -99,12 +99,10 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-8:00-8:50am in REID Hall 108. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use
-Slack as the primary method of course communication, and all course
-information will be posted on this website or on the Slack server; D2L will
+8:00-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use Slack as the primary method of course communication, and all course information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab on Fridays from 12:00pm to 4:00 pm in BARNAR 254 that you may attend to get extra help.
+There is an *optional* lab on Fridays from 12:00pm to 4:00 pm in ROBERT 111 that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
@@ -130,15 +128,15 @@ page](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools
 
 ### Optional open lab and TAs
 
-There is an optional lab on Fridays from 10:00 am to 4:00 pm in BARNAR 254.
-*Note that there is no lab during the first week of classes (Friday, January 19th)!* However, after this week, even
+There is an optional lab on Fridays from 12:00 to 16:00 pm in ROBERT 111.
+*Note that there is no lab during the first week of classes (Friday, August 23rd)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
 
 ### Instructor office hours
 
 My office hours are 9:00am-9:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
-different meeting time, and join the slack by [the link](), or drop by my office (Barnard 352) if my door is open.
+different meeting time, and join the slack by [the link](https://join.slack.com/t/montana-izi8174/shared_invite/zt-2oyzs4ewy-5yrdf~RtrHUR6FVjKEcF~w), or drop by my office (Barnard 352) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
