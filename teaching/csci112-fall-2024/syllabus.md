@@ -15,7 +15,9 @@ location: "Bozeman, Montana"
      
 ## Lab Assistant
     
-     
+## Announcement
+Hey, guys. Please don't forget to turn in your first classwork. It is acceptable to be late for the first time. I will collect the feedback for this course.
+
 ## Course schedule
 
 <!---
