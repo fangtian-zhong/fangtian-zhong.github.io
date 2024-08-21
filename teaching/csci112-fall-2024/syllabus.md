@@ -25,7 +25,7 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 08/21|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240117.pptx) / [course slack](https://join.slack.com/t/montana-izi8174/shared_invite/zt-2oyzs4ewy-5yrdf~RtrHUR6FVjKEcF~w)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork1)||
+|Wednesday 08/21|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240821.pptx) / [course slack](https://join.slack.com/t/montana-izi8174/shared_invite/zt-2oyzs4ewy-5yrdf~RtrHUR6FVjKEcF~w)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork1)||
 |Friday 08/23|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
 |Monday 08/26|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork3)|
