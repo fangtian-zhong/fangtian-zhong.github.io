@@ -13,7 +13,7 @@ He enjoys developing statistically/mathematically beautiful solutions to softwar
 
 <a href="https://fangtian-zhong.github.io/openings/">
   <span style="color:red;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-weight:800;font-size:21px">
-    PhD, research interns and visiting scholars Positions! 
+    PhD Positions! 
   </span>
 </a>
 
