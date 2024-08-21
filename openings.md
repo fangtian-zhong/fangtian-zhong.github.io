@@ -16,6 +16,6 @@ Email format: "Interested in {position, e.g., Ph.D.} at {expected time, e.g., Fa
 - Transcripts: including all college transcripts.
 - Research: Summarize any projects, publications, and open-source software you have done.
 - English Proficiency: TOEFL, IELTS, etc.
-- Why Us?: Any research work from me that you are interested in. Mention any new topics that you would like to explore.
+- Why Us?: Any research work from me that you are interested in and potential improvement of my research work. Mention any new topics that you would like to explore.
 
 <hr style="clear:both;visibility: hidden;" />
