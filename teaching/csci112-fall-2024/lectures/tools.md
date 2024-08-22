@@ -41,7 +41,7 @@ It's kinda like that expression... "no glove, no love," except in this case it i
 ## Course server
 
 We will write our programs on the course server, a Linux computer that we
-access remotely from our own computers. Its hostname is `csci112.cs.montana.edu`. To access it, we can
+access remotely from our own computers. Its hostname is `csci112vm.cs.montana.edu`. To access it, we can
 open up a terminal (on Mac or Linux) or command prompt
 (on Windows) and run the `ssh`
 (secure shell) command to log in using our netid, like so:
