@@ -4,7 +4,7 @@ title: "Lab 2"
 ---
 
 ## Logistics
-* Due: Friday, Feburary 2nd AoE.
+* Due: Friday, September 6th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab2.c` in your `~/csci112_fall2024/labs/lab2`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
