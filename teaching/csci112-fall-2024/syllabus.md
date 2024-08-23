@@ -42,8 +42,8 @@ Hey, guys. You can find the course website here:&nbsp;https://fangtian-zhong.git
 |Wednesday 09/11|More logical operators; if and switch statements||||
 |Friday 09/13|Loops||||
 |<span style="color:red;">Week5</span>|||||
-|Monday 09/16|Conditional operator; redirection|||
-|Wednesday 09/18|Arrays||||
+|Monday 09/16|Loops|||
+|Wednesday 09/18|Conditional operator; redirection||||
 |Friday 09/20|Arrays||||
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|||||
