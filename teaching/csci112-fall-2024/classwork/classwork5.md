@@ -4,7 +4,7 @@ title: "Classwork 5"
 ---
 
 ## Logistics
-* Due: Monday, September 2nd AoE.
+* Due: Monday, September 4th AoE.
 * Submission instructions: make sure that the required file (`remainder.c`) is in your
 	`/classwork/week3/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
