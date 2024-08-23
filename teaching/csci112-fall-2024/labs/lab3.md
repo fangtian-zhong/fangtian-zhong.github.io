@@ -6,16 +6,16 @@ title: "Lab 3"
 ## Logistics
 * Due: Friday, Feburary 9th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab3.c` in your `~/csci112_spring2024/labs/lab3`
+	grade in a file called `lab3.c` in your `~/csci112_fall2024/labs/lab3`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab3`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4).)
+	tagged as `lab3`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
 
 ## Outside resources
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
 are having trouble writing your program, please go to lab (Fridays, 12-4 in
-Roberts 111) or post in Discord to
+Roberts 111) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -71,7 +71,7 @@ value `x` and returns 1 meaning true if `data` is within `x`% of `ref` --- that
 is, (`ref - x% * ref`) $\leq$ `data` $\leq$  (`ref + x% * ref`). Otherwise
 `within_x_percent` should return zero, meaning false. For example, the call
 `within_x_percent(357, 323, 10)` would return 1 for true, since 10% of 357 is 35.7,
-and 323 springs between 321.3 and 392.7. **You must use this function to decide
+and 323 falls between 321.3 and 392.7. **You must use this function to decide
 what the substance is.**
 
 You may optionally start from the starter code in
@@ -83,7 +83,7 @@ observed substance is water.
 
 ```
 [g73x595@csci112 lab3]$ pwd
-/home/g73x595/csci112_spring2024/labs/lab3
+/home/g73x595/csci112_fall2024/labs/lab3
 [g73x595@csci112 lab3]$ gcc -o lab3 -Wall lab3.c
 [g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 101
