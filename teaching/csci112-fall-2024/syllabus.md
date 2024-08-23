@@ -35,8 +35,8 @@ Hey, guys. You can find the course website here:&nbsp;https://fangtian-zhong.git
 |Friday 08/30|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240830.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 09/02| No class ||||
-|Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf)||||
-|Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)||||
+|Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf)|3.1-3.5|[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork5)||
+|Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)|3.1-3.5|[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork6)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 09/09|||||
 |Wednesday 09/11|||||
