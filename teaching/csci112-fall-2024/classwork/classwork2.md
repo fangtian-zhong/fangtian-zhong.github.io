@@ -29,7 +29,7 @@ for help in any way, including use of AI tools like ChatGPT.
 	the Command Prompt program on Windows) and type
 
 ```
-ssh <netid>@csci112.cs.montana.edu
+ssh <netid>@csci112vm.cs.montana.edu
 ```
 
 * Enter your netid password when prompted.
