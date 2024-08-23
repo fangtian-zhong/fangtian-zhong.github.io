@@ -38,9 +38,9 @@ Hey, guys. You can find the course website here:&nbsp;https://fangtian-zhong.git
 |Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork5)||
 |Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)|3.1-3.5||
 |<span style="color:red;">Week4</span>|||||
-|Monday 09/09|||||
-|Wednesday 09/11|||||
-|Friday 09/13|||||
+|Monday 09/09|Logical operators; if and switch statements||||
+|Wednesday 09/11|More logical operators; if and switch statements||||
+|Friday 09/13|Loops||||
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16||||
 |Wednesday 09/18|||||
