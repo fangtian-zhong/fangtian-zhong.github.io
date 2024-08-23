@@ -11,12 +11,12 @@ location: "Bozeman, Montana"
      Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 9:00am - 9:50am (not available during holiday/university day)
      
 ## TAs
-    
+    A
      
 ## Lab Assistant
     
 ## Announcement
-Hey, guys. Please don't forget to turn in your first classwork. It is acceptable to be late for the first time. I will collect the feedback for this course.
+Hey, guys. You can find the course website here:&nbsp;https://fangtian-zhong.github.io/teaching/csci112-fall-2024/syllabus&nbsp;the class notes here:&nbsp;https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools. Please remember to submit your Classwork 2 on the Linux server before tomorrow at 6am. Additionally, you can run the autograder to check if you’ve earned full credit.
 
 ## Course schedule
 
