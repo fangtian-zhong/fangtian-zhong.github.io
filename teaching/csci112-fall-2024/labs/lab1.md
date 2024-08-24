@@ -36,7 +36,7 @@ questions by going to lab or posting on Discord anyway.
 
 In a file called `lab1.c` in your `csci112_fall2024/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
 Celsius) given the elapsed time (hours) since a power failure. Assume this
-temperature ($T$) is given by
+temperature (T) is given by
 
 \[T = \frac{3t^2}{t+1} - 10\]
 
