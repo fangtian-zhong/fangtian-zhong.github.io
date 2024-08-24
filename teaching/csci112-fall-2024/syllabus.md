@@ -11,7 +11,7 @@ location: "Bozeman, Montana"
      Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 9:00am - 9:50am (not available during holiday/university day)
      
 ## TAs
-    A
+    Necz, Andras, email: andras.necz@student.montana.edu, office hours: Wednesdays, 11am - 1pm
      
 ## Lab Assistant
     
