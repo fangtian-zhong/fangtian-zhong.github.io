@@ -38,7 +38,9 @@ In a file called `lab1.c` in your `csci112_fall2024/labs/lab1` directory, write 
 Celsius) given the elapsed time (hours) since a power failure. Assume this
 temperature ($T$) is given by
 
-$$T = \frac{3t^2}{t+1} - 10$$
+\[
+T = \frac{3t^2}{t+1} - 10
+\]
 
 where $t$ is the time since the power failure. Your program should prompt the
 user to enter how long it has been since the start of the power failure in
