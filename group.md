@@ -20,7 +20,7 @@ This page serves as a directory for the students I am working/ worked with.
 7. [Zhuoyun Qian](): 
 
 ## Grad Researcher
-1. Prakriti Baral (Fall 2024), Benjamin Fellowship Awardee
+1. Prakriti Baral, Benjamin Fellowship Awardee
 
 ## Alumni
 
