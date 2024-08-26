@@ -16,7 +16,7 @@ location: "Bozeman, Montana"
 ## Lab Assistant
     
 ## Announcement
-Hey, guys. You can find the course website here:&nbsp;https://fangtian-zhong.github.io/teaching/csci112-fall-2024/syllabus;the class notes here:https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools. Please remember to submit your Classwork 2 on the Linux server before tomorrow at 6am. Additionally, you can run the autograder to check if you’ve earned full credit. <span style="color: red;">Course server: csci112vm.cs.montana.edu</span>
+Hey, guys. You can find the linux commands here:https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools. Please remember to submit your Classwork 3 on the Linux server before tomorrow at 6am. Additionally, you can run the autograder to check if you’ve earned full credit. <span style="color: red;">Course server: csci112vm.cs.montana.edu</span>. If you want to use the codes in the class, please download here: [codes in class](./lectures/add.c)
 
 ## Course schedule
 
