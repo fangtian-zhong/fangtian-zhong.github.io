@@ -12,7 +12,7 @@ location: "Bozeman, Montana"
      
 ## TAs
     Necz, Andras, email: andras.necz@student.montana.edu, office hours: Wednesdays, 11am - 1pm
-    Sulzbacher, Nicholas, email:nicholas.sulzbacher@ecat1.montana.edu, office hours: 
+    Sulzbacher, Nicholas, email:nicholas.sulzbacher@ecat1.montana.edu, office hours: to be specified
      
 ## Lab Assistant
     
