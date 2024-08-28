@@ -12,10 +12,10 @@ location: "Bozeman, Montana"
      
 ## TAs
     Necz, Andras, email: andras.necz@student.montana.edu, office hours: Wednesdays, 11am - 1pm
-    Sulzbacher, Nicholas, email:nicholas.sulzbacher@ecat1.montana.edu
      
 ## Lab Assistant
-    
+    Sulzbacher, Nicholas, email:nicholas.sulzbacher@ecat1.montana.edu
+
 ## Announcement
 Hey, guys. You can find the class notes here:[class notes](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/git). Please remember to submit your Classwork 4 on the Linux server before tomorrow at 6am (August 29th). Additionally, you can run the autograder to check if you’ve earned full credit. <span style="color: red;">Course server: csci112vm.cs.montana.edu</span>.
 
