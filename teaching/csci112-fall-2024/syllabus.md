@@ -43,7 +43,7 @@ Hey, guys. You can find the class notes here:[class notes](https://fangtian-zhon
 |Wednesday 09/11|[More logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240911.pdf)|4.1-4.8|||
 |Friday 09/13|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|5.1-5.8|||
 |<span style="color:red;">Week5</span>|||||
-|Monday 09/16|Loops|||
+|Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|||
 |Wednesday 09/18|Conditional operator; redirection||||
 |Friday 09/20|Arrays||||
 |<span style="color:red;">Week6</span>|||||
