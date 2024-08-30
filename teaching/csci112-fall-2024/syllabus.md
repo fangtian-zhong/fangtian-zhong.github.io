@@ -37,7 +37,7 @@ Hey, guys. You can find the class notes here:[class notes](https://fangtian-zhon
 |<span style="color:red;">Week3</span>|||||
 |Monday 09/02| No class ||||
 |Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork5)||
-|Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)|3.1-3.5||
+|Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)|3.1-3.5||[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 09/09|Logical operators; if and switch statements|4.1-4.8|||
 |Wednesday 09/11|More logical operators; if and switch statements|4.1-4.8|||
