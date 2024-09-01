@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey, guys. You can find the class notes here:[class notes](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/git). Please remember to submit your Classwork 4 on the Linux server before tomorrow at 6am (August 29th). Additionally, you can run the autograder to check if you’ve earned full credit. <span style="color: red;">Course server: csci112vm.cs.montana.edu</span>.
+Hey guys, your grade will change after Monday. I let Andras regrade the lab1. No worries.
 
 ## Course schedule
 
