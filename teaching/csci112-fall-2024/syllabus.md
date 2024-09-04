@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, your grade will change after Monday. I let Andras regrade the lab1. No worries.
+Hey guys, the class codes are now available at the following links: [divide_conquer.c](./programs/divide_conquer.c) and [print_area_circum.c](./programs/print_area_circum.c). Kindly ensure that your Classwork 5 is submitted by 6 AM tomorrow, September 5th.
 
 ## Course schedule
 
