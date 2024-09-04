@@ -40,8 +40,8 @@ Hey guys, the class codes are now available at the following links: [divide_conq
 |Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork5)||
 |Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf)|3.1-3.5||[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
-|Monday 09/09|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240909.pdf)|4.1-4.8|||
-|Wednesday 09/11|[More logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240911.pdf)|4.1-4.8|||
+|Monday 09/09|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240909.pdf)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork6)||
+|Wednesday 09/11|[More logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240911.pdf)|4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork7)||
 |Friday 09/13|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|5.1-5.8|||
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|||
