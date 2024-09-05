@@ -45,7 +45,7 @@ Hey guys, the class codes are now available at the following links: [divide_conq
 |Friday 09/13|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|||
-|Wednesday 09/18|Conditional operator; redirection||||
+|Wednesday 09/18|Conditional operator; [redirection](./lectures/tools#redirection)||||
 |Friday 09/20|Arrays||||
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|||||
