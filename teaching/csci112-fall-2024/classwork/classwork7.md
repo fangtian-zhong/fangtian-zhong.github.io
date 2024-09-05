@@ -4,7 +4,7 @@ title: "Classwork 7"
 ---
 
 ## Logistics
-* Due: Monday, Feburary 5th AoE.
+* Due: Monday, September 11th AoE.
 * Submission instructions: make sure that the required file (`grade.c`) is in your
 	`/classwork/week4/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
