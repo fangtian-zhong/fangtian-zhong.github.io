@@ -166,4 +166,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Monday, Feburary 12th.
+Scores will be uploaded to D2L by class time on Monday, September 16th.
