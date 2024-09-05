@@ -4,7 +4,7 @@ title: "Lab 3"
 ---
 
 ## Logistics
-* Due: Friday, Feburary 9th AoE.
+* Due: Friday, September 13th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab3.c` in your `~/csci112_fall2024/labs/lab3`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
@@ -14,7 +14,7 @@ title: "Lab 3"
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4 in
+are having trouble writing your program, please go to lab (Fridays, 12-4pm in
 Roberts 111) or post in Slack to
 get help.
 
