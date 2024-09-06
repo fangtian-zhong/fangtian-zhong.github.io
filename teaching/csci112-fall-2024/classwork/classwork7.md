@@ -16,9 +16,9 @@ title: "Classwork 7"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `classwork/week4/mon/`, creating directories `week4` and `mon` if necessary.
+* From your home directory, navigate to `classwork/week4/wed/`, creating directories `week4` and `wed` if necessary.
 * You may optionally start with starter code in
-	`/public/classwork/week4/mon/grade_starter.c`.
+	`/public/classwork/week4/wed/grade_starter.c`.
 * Inside this directory, create a file called `grade.c`. In it, write a
 	program solving the following problem.
 
@@ -46,7 +46,7 @@ You earned at least 63 points in the class.
 
 You can run the autograder by running
 ```
-/public/classwork/week4/mon/autograder.sh
+/public/classwork/week4/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
