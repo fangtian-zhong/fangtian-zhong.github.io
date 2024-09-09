@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [abs](./programs/abs.c) and [mathlib](./programs/mathlib.c). Kindly ensure that your lab2  is submitted by 6 AM tomorrow, September 7th.
+Hey guys, the class codes are now available at the following links: [test.c](./programs/test.c) and [if_statement](./programs/if_statement.c) and [comparison.c](./programs/comparison.c). Kindly ensure that your lab2  is submitted by 6 AM tomorrow, September 7th.
 
 ## Course schedule
 
