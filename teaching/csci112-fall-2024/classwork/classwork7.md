@@ -32,7 +32,7 @@ the class."
 ```
 [g73x595@csci112 wed]$ ./exe
 Enter the grade you got: 5
-You earned an unknown number of points in the class.
+You had an unknown number of points in the class.
 [g73x595@csci112 wed]$ ./exe
 Enter the grade you got: A
 You had 93 or above points in the class.
