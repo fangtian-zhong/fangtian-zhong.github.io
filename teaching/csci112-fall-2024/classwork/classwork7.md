@@ -19,7 +19,7 @@ title: "Classwork 7"
 * From your home directory, navigate to `classwork/week4/wed/`, creating directories `week4` and `wed` if necessary.
 * You may optionally start with starter code in
 	`/public/classwork/week4/wed/grade_starter.c`.
-* Inside this directory, create a file called `grade.c`. In it, write a
+* Inside this directory, create a file called `cscigrade.c`. In it, write a
 	program solving the following problem.
 
 Prompt the user for their grade. Then, using a `switch` statement, report back
