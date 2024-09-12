@@ -46,7 +46,7 @@ Hey guys, the class codes are now available at the following links: [cal_tax](./
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork8)||
 |Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf); [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)||
-|Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||Lab 4|
+|Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|||||
 |Wednesday 09/25|||||
