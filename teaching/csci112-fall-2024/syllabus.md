@@ -49,9 +49,9 @@ Hey guys, the class codes are now available at the following links: [cal_tax](./
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|Arrays|7|Classwork 10||
-|Wednesday 09/25|Arrays as function arguments|7|||
-|Friday 09/27|Searching, sorting arrays|7|Classwork 11||
-|<span style="color:red;">Week7</span>||||Lab 5|
+|Wednesday 09/25|Arrays as function arguments|7|Classwork 11||
+|Friday 09/27|Searching, sorting arrays|7||Lab 5|
+|<span style="color:red;">Week7</span>|||||
 |Monday 09/30|||||
 |Wednesday 10/02|||||
 |Friday 10/04|||||
