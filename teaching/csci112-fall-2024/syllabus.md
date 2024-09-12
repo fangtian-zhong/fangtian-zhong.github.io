@@ -48,10 +48,10 @@ Hey guys, the class codes are now available at the following links: [cal_tax](./
 |Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf); [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)||
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
-|Monday 09/23|||||
-|Wednesday 09/25|||||
-|Friday 09/27|||||
-|<span style="color:red;">Week7</span>|||||
+|Monday 09/23|Arrays|7|Classwork 10||
+|Wednesday 09/25|Arrays as function arguments|7|||
+|Friday 09/27|Searching, sorting arrays|7|Classwork 11||
+|<span style="color:red;">Week7</span>||||Lab 5|
 |Monday 09/30|||||
 |Wednesday 10/02|||||
 |Friday 10/04|||||
