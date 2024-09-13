@@ -21,7 +21,7 @@ title: "Classwork 8"
 * Inside this directory, create a file called `get_num.c`. In it, write a
 	program solving the following problem.
 
-Write a program that prompts the user to enter a number <= 0 and >= 100, and
+Write a program that prompts the user to enter a number < 0 and > 100, and
 keeps prompting them as long as they enter numbers that are outside that range.
 If they don't enter a number, print a message saying so. Otherwise, once they
 do enter a number in the range, print it out with two decimal places. **You may
