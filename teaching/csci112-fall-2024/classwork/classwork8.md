@@ -21,7 +21,7 @@ title: "Classwork 8"
 * Inside this directory, create a file called `get_num.c`. In it, write a
 	program solving the following problem.
 
-Write a program that prompts the user to enter a number between 0 and 100, and
+Write a program that prompts the user to enter a number <= 0 and >= 100, and
 keeps prompting them as long as they enter numbers that are outside that range.
 If they don't enter a number, print a message saying so. Otherwise, once they
 do enter a number in the range, print it out with two decimal places. **You may
@@ -33,12 +33,12 @@ exactly.
 ```
 [g73x595@csci112 fri]$ gcc get_num.c -Wall
 [g73x595@csci112 fri]$ ./a.out
-Enter a number between 0 and 100: (decimals okay): -95
-Enter a number between 0 and 100: (decimals okay): 101.22
-Enter a number between 0 and 100: (decimals okay): 55.5
-You entered 55.50
+Enter a number outside of 0 and 100: (decimals okay): 55.5
+Enter a number outside of and 100: (decimals okay): 99.22
+Enter a number outside of 0 and 100: (decimals okay): -95
+You entered -95.00
 [g73x595@csci112 fri]$ ./a.out
-Enter a number between 0 and 100: (decimals okay): x
+Enter a number outside of 0 and 100: (decimals okay): x
 You didn't enter a number
 ```
 
