@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [factorial.c](./programs/factorial.c) and [sum.c](./programs/sum.c) and [nested_loop.c](./programs/nested_loop.c). Kindly ensure that your classwork7  is submitted by 6 AM tomorrow, September 12th.
+Hey guys, the class codes are now available at the following links: [factorial.c](./programs/factorial.c) and [sum.c](./programs/sum.c) and [nested_loop.c](./programs/nested_loop.c). Kindly ensure that your classwork8  is submitted by 6 AM tomorrow, September 17th.
 
 ## Course schedule
 
