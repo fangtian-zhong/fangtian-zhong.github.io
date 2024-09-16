@@ -34,7 +34,7 @@ exactly.
 [g73x595@csci112 fri]$ gcc get_num.c -Wall
 [g73x595@csci112 fri]$ ./a.out
 Enter a number outside of 0 and 100: (decimals okay): 55.5
-Enter a number outside of and 100: (decimals okay): 99.22
+Enter a number outside of 0 and 100: (decimals okay): 99.22
 Enter a number outside of 0 and 100: (decimals okay): -95
 You entered -95.00
 [g73x595@csci112 fri]$ ./a.out
