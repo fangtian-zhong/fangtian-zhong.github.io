@@ -52,9 +52,9 @@ Hey guys, the class codes are now available at the following links: [factorial.c
 |Wednesday 09/25|Arrays as function arguments|7|Classwork 11||
 |Friday 09/27|Searching, sorting arrays|7||Lab 5|
 |<span style="color:red;">Week7</span>|||||
-|Monday 09/30|||||
-|Wednesday 10/02|||||
-|Friday 10/04|||||
+|Monday 09/30|Pointers; file i/o|6| 	Classwork 12||
+|Wednesday 10/02| 	Pointers|6|Classwork 13||
+|Friday 10/04| 	More pointers|6|| 	Lab 6|
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|||||
 |Wednesday 10/09|||||
