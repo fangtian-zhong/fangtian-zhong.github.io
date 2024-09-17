@@ -56,9 +56,9 @@ Hey guys, the class codes are now available at the following links: [factorial.c
 |Wednesday 10/02| 	Pointers|6|Classwork 13||
 |Friday 10/04| 	More pointers|6|| 	Lab 6|
 |<span style="color:red;">Week8</span>|||||
-|Monday 10/07|||||
-|Wednesday 10/09|||||
-|Friday 10/11|||||
+|Monday 10/07|C type strings|8|Classwork 14||
+|Wednesday 10/09| 	C type strings|8|Classwork 15||
+|Friday 10/11| 	C type strings|8|| 	Lab 7|
 |<span style="color:red;">Week9</span>|||||
 |Monday 10/14|||||
 |Wednesday 10/16|||||
