@@ -60,9 +60,9 @@ Hey guys, the class codes are now available at the following links: [factorial.c
 |Wednesday 10/09| 	C type strings|8|Classwork 15||
 |Friday 10/11| 	C type strings|8|| 	Lab 7|
 |<span style="color:red;">Week9</span>|||||
-|Monday 10/14|||||
-|Wednesday 10/16|||||
-|Friday 10/18|||||
+|Monday 10/14|Structs|10|Classwork 16||
+|Wednesday 10/16|Structs|10|Classwork 17||
+|Friday 10/18|Structs|10||Lab 8|
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21||||||
 |Wednesday 10/23|||||
