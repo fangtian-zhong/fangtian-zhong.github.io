@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [factorial.c](./programs/factorial.c) and [sum.c](./programs/sum.c) and [nested_loop.c](./programs/nested_loop.c). Kindly ensure that your classwork8  is submitted by 6 AM tomorrow, September 17th.
+Hey guys, the class codes are now available at the following links: [cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c). Kindly ensure that your classwork8  is submitted by 6 AM tomorrow, September 19th.
 
 ## Course schedule
 
@@ -45,7 +45,7 @@ Hey guys, the class codes are now available at the following links: [factorial.c
 |Friday 09/13|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf);codes:[compound.c](./programs/compound.c) and [do_while.c](./programs/do_while.c) and [forloop.c](./programs/forloop.c)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf);codes:[factorial.c](./programs/factorial.c) and [sum.c](./programs/sum.c) and [nested_loop.c](./programs/nested_loop.c)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork8)||
-|Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf); [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)|quiz3|
+|Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf);codes:[cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c) [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)|quiz3|
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240923.pdf)|7|Classwork 10||
