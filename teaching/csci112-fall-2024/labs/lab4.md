@@ -37,7 +37,7 @@ average temperature.
 
 ### Example output
 If you type in the numbers directly to the console, your output should look
-like this (result would be rounded, such as 61.25 rounded to 61.3):
+like this (result would be <span style="color:red;">rounded</span>, such as 61.25 rounded to 61.3):
 ```
 [g73x595@csci112 lab4]$ ./a.out
 Enter a high temp reading (-99 to quit)> 56
