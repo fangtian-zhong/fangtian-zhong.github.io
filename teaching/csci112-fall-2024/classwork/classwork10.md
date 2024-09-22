@@ -49,8 +49,8 @@ code into a file called `exe`, you would run
 For example, compiling and running your program should look like this:
 
 ```
-[g73x595@csci112 fri]$ gcc -o exe -Wall 2d.c
-[g73x595@csci112 fri]$ ./exe < /public/classwork/week6/mon/input.txt
+[g73x595@csci112 mon]$ gcc -o exe -Wall 2d.c
+[g73x595@csci112 mon]$ ./exe < /public/classwork/week6/mon/input.txt
 Row 0 has total 50.
 Row 1 has total 71.
 Row 2 has total 123.
