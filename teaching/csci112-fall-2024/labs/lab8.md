@@ -4,11 +4,11 @@ title: "Lab 8"
 ---
 
 ## Logistics
-* Due: Friday, March 22th AoE.
+* Due: Friday, October 18th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab8.c` in your `~/csci112_spring2024/labs/lab8`
+	grade in a file called `lab8.c` in your `~/csci112_fall2024/labs/lab8`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab8`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/classwork/classwork4).)
+	tagged as `lab8`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
 
 ## Outside resources
 
