@@ -48,9 +48,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf);codes:[cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c) [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)|quiz3|
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
-|Monday 09/23|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240923.pdf)|7|Classwork 10||
-|Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|Classwork 11||
-|Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||Lab 5|
+|Monday 09/23|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240923.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork10)||
+|Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)||
+|Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
 |Monday 09/30|Pointers; file i/o|6| 	Classwork 12||
 |Wednesday 10/02| 	Pointers|6|Classwork 13||
