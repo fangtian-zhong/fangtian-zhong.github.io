@@ -52,9 +52,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)||
 |Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
-|Monday 09/30|Pointers; file i/o|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
-|Wednesday 10/02| 	Pointers|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
-|Friday 10/04| 	More pointers|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
+|Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
+|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
+|Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|C type strings|8|Classwork 14||
 |Wednesday 10/09| 	C type strings|8|Classwork 15||
