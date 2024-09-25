@@ -54,7 +54,7 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |<span style="color:red;">Week7</span>|||||
 |Monday 09/30|Pointers; file i/o|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
 |Wednesday 10/02| 	Pointers|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
-|Friday 10/04| 	More pointers|6|| 	Lab 6|
+|Friday 10/04| 	More pointers|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|C type strings|8|Classwork 14||
 |Wednesday 10/09| 	C type strings|8|Classwork 15||
