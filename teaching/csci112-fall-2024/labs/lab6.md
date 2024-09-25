@@ -14,8 +14,8 @@ title: "Lab 6"
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
-Barnard 254) or post in Discord to
+are having trouble writing your program, please go to lab (Fridays, 12-4pm in
+Roberts 111) or post in Discord to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -46,7 +46,7 @@ In general, the file will have up to 100 doubles separated by whitespace. You mu
 read the file using `fscanf`, *not* using redirection and `scanf`, and you
 should store the doubles in an array.
 
-Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
+Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
 write them to a new file called `outdata.txt` in the directory where the program
 is being run. You should use `fprintf` to write to the file.
 
