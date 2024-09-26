@@ -4,7 +4,7 @@ title: "Classwork 14"
 ---
 
 ## Logistics
-* Due: Monday, March 4th AoE.
+* Due: Monday, October 7th AoE.
 * Submission instructions: make sure that the required file (`read.c`) is in your
 	`/classwork/week8/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -17,7 +17,7 @@ title: "Classwork 14"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2024` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
+* From your `csci11_fall2024` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
 * Copy the file `read.c` from the `/public/classwork/week8/mon`
 	directory.
 
