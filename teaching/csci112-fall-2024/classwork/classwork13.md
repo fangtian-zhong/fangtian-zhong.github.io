@@ -16,7 +16,7 @@ title: "Classwork 13"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2024` directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
+* From your `csci11_fall2024` directory, navigate to `classwork/week7/wed/`, creating directories `week7` and `wed` if necessary.
 * Copy the file `pass_by_ref_starter.c` from the `/public/classwork/week7/wed`
 	directory. Make sure to rename it to `pass_by_ref.c`.
 
