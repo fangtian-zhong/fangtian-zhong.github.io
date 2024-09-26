@@ -4,7 +4,7 @@ title: "Classwork 15"
 ---
 
 ## Logistics
-* Due: Wednesday, March 6th AoE.
+* Due: Wednesday, October 9th AoE.
 * Submission instructions: make sure that the required file (`tokenize.c`) is in your
 	`/classwork/week8/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
@@ -16,7 +16,7 @@ title: "Classwork 15"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2024` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
+* From your `csci11_fall2024` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
 * Copy the file `tokenize.c` from the `/public/classwork/week8/wed`
 	directory.
 
