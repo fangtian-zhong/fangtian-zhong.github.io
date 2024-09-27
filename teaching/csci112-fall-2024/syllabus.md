@@ -68,9 +68,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 10/23|Compilation review + Makefiles||||
 |Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28|||||
-|Wednesday 10/30|||||
-|Friday 11/01|||||
+|Monday 10/28| Command line arguments||||
+|Wednesday 10/30|Sorting an array of pointers||||
+|Friday 11/01|Pointer arithmetic||||
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04|||||
 |Wednesday 11/06|||||
