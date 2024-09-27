@@ -74,7 +74,7 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	Dynamic memory allocation||||
 |Wednesday 11/06| Dynamic data structures (Linked List)||||
-|Friday 11/08| 	Dynamic data structures||| 	Lab 11|
+|Friday 11/08| 	Dynamic data structures (Linked List)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
 |Wednesday 11/13|||||
