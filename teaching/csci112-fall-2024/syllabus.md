@@ -66,7 +66,7 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21|Splitting C program into multiple files|||||
 |Wednesday 10/23|Compilation review + Makefiles||||
-|Friday 10/25|Makefiles||||
+|Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/28|||||
 |Wednesday 10/30|||||
