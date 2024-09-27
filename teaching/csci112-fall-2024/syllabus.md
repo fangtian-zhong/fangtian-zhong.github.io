@@ -49,7 +49,7 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 09/23|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240923.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork10)||
-|Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)||
+|Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)|quiz4|
 |Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
 |Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
@@ -64,9 +64,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 10/16|Structs|10|Classwork 17||
 |Friday 10/18|Structs|10||Lab 8|
 |<span style="color:red;">Week10</span>|||||
-|Monday 10/21||||||
-|Wednesday 10/23|||||
-|Friday 10/25|||||
+|Monday 10/21|Splitting C program into multiple files|||||
+|Wednesday 10/23|Compilation review + Makefiles||||
+|Friday 10/25|Makefiles||||
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/28|||||
 |Wednesday 10/30|||||
