@@ -69,7 +69,7 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/28| Command line arguments||||
-|Wednesday 10/30|Sorting an array of pointers||||
+|Wednesday 10/30|Sorting an array of pointers|||Mid-course survey|
 |Friday 11/01|Pointer arithmetic||||
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	Dynamic memory allocation||||
