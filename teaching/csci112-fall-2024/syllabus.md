@@ -72,9 +72,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 10/30|Sorting an array of pointers||||
 |Friday 11/01|Pointer arithmetic||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 11/04|||||
-|Wednesday 11/06|||||
-|Friday 11/08|||||
+|Monday 11/04| 	Dynamic memory allocation||||
+|Wednesday 11/06| Dynamic data structures (Linked List)||||
+|Friday 11/08| 	Dynamic data structures|||Lab 10|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
 |Wednesday 11/13|||||
