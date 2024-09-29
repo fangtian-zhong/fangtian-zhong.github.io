@@ -56,9 +56,9 @@ Hey guys, the class codes are now available at the following links: [cond_operat
 |Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
 |Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
-|Monday 10/07|C type strings|8|Classwork 14||
-|Wednesday 10/09| 	C type strings|8|Classwork 15||
-|Friday 10/11| 	C type strings|8|| 	Lab 7|
+|Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf)|8|Classwork 14||
+|Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf)|8|Classwork 15||
+|Friday 10/11| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241011.pdf)|8|| 	Lab 7|
 |<span style="color:red;">Week9</span>|||||
 |Monday 10/14|Structs|10|Classwork 16||
 |Wednesday 10/16|Structs|10|Classwork 17||
