@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c). Kindly ensure that your classwork8  is submitted by 6 AM tomorrow, September 19th.
+Hey guys, the class codes are now available at the following links: [sizeofp.c](./programs/sizeofp.c) and [fpinout.c](./programs/fpinout.c). Kindly ensure that your Classwork 12  is submitted by 6 AM tomorrow, October 1st.
 
 ## Course schedule
 
