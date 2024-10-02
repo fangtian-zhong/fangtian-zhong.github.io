@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nopointer.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c). Kindly ensure that your Classwork 13  is submitted by 6 AM tomorrow, October 3rd.
+Hey guys, the class codes are now available at the following links: [nofile.c](./programs/nofile.c) and [nullp.c](./programs/nullp.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c). Kindly ensure that your Classwork 13  is submitted by 6 AM tomorrow, October 3rd.
 
 ## Course schedule
 
@@ -53,7 +53,7 @@ Hey guys, the class codes are now available at the following links: [nofile.c](.
 |Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
 |Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf);codes:[sizeofp.c](./programs/sizeofp.c) and [fpinout.c](./programs/fpinout.c)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
-|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf);codes:[nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nopointer.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
+|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf);codes:[nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nullp.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
 |Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf);|8|Classwork 14||
