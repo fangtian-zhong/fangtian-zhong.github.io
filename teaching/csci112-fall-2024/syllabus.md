@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [sizeofp.c](./programs/sizeofp.c) and [fpinout.c](./programs/fpinout.c). Kindly ensure that your Classwork 12  is submitted by 6 AM tomorrow, October 1st.
+Hey guys, the class codes are now available at the following links: [nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nopointer.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c). Kindly ensure that your Classwork 13  is submitted by 6 AM tomorrow, October 3rd.
 
 ## Course schedule
 
@@ -52,11 +52,11 @@ Hey guys, the class codes are now available at the following links: [sizeofp.c](
 |Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)|quiz4|
 |Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
-|Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
-|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
+|Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf);codes:[sizeofp.c](./programs/sizeofp.c) and [fpinout.c](./programs/fpinout.c)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
+|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf);codes:[nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nopointer.c) and [noarray](./programs/noarray.c) and [separatenum](separatenum.c)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
 |Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
-|Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf)|8|Classwork 14||
+|Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf);|8|Classwork 14||
 |Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf)|8|Classwork 15||
 |Friday 10/11| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241011.pdf)|8|| 	Lab 7|
 |<span style="color:red;">Week9</span>|||||
