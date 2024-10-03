@@ -68,8 +68,8 @@ Hey guys, the class codes are now available at the following links: [nofile.c](.
 |Wednesday 10/23|Compilation review + Makefiles||Classwork 19||
 |Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28| Command line arguments|||Mid-course survey|
-|Wednesday 10/30|Sorting an array of pointers||||
+|Monday 10/28| Command line arguments||Classwork 20|Mid-course survey|
+|Wednesday 10/30|Sorting an array of pointers||Classwork 21||
 |Friday 11/01|Pointer arithmetic|||Lab 10|
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	Dynamic memory allocation||||
