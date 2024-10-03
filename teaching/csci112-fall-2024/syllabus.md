@@ -64,7 +64,7 @@ Hey guys, the class codes are now available at the following links: [nofile.c](.
 |Wednesday 10/16|Structs|10|Classwork 17||
 |Friday 10/18|Structs|10||Lab 8|
 |<span style="color:red;">Week10</span>|||||
-|Monday 10/21|Splitting C program into multiple files|||Classwork 18||
+|Monday 10/21|Splitting C program into multiple files||Classwork 18||
 |Wednesday 10/23|Compilation review + Makefiles||Classwork 19||
 |Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
