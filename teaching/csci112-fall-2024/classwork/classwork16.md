@@ -6,7 +6,7 @@ title: "Classwork 16"
 ## Logistics
 * Due: Monday, October 14th AoE.
 * Submission instructions: make sure that the required file (`struct.c`) is in your
-	`/classwork/week10/mon/` directory.
+	`/classwork/week9/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,7 +16,7 @@ title: "Classwork 16"
 ## Assignment
 
 * Log in to the server.
-* Copy the file `struct.c` from the `/public/classwork/week10/mon`
+* Copy the file `struct.c` from the `/public/classwork/week9/mon`
 	directory.
 
 In the file `struct.c`, fill the code needed to define a `Point`. You'll need to look at how a `Point` is used to see what its fields' names and data types are.
@@ -35,7 +35,7 @@ this.
 You can run the autograder by running
 
 ```
-/public/classwork/week10/mon/autograder.sh
+/public/classwork/week9/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
