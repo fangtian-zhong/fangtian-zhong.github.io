@@ -4,7 +4,7 @@ title: "Classwork 14"
 ---
 
 ## Logistics
-* Due: Monday, October 7th AoE.
+* Due: Tuesday, October 8th AoE.
 * Submission instructions: make sure that the required file (`read.c`) is in your
 	`/classwork/week8/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
