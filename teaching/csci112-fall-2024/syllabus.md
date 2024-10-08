@@ -77,7 +77,7 @@ Hey guys, the class codes are now available at the following links: [nofile.c](.
 |Friday 11/08| 	Dynamic data structures (Linked List)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
-|Wednesday 11/13|Fangtian out for a conference||||
+|Wednesday 11/13|||||
 |Friday 11/15|Fangtian out for a conference||||
 |<span style="color:red;">Week14</span>|||||
 |Monday 11/18|||||
