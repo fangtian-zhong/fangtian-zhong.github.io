@@ -62,7 +62,7 @@ Hey guys, the class codes are now available at the following links: codes:[fgets
 |<span style="color:red;">Week9</span>|||||
 |Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork16)||
 |Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
-|Friday 10/18|Structs|10||[Lab 8]()|
+|Friday 10/18|Structs|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21|Splitting C program into multiple files||Classwork 18||
 |Wednesday 10/23|Compilation review + Makefiles||Classwork 19||
