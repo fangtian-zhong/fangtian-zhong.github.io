@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [nofile.c](./programs/nofile.c) and [nullp.c](./programs/nullp.c) and [noarray](./programs/noarray.c) and [separatenum](./programs/separatenum.c). Kindly ensure that your Classwork 13  is submitted by 6 AM tomorrow, October 3rd.
+Hey guys, the class codes are now available at the following links: [codes](./programs/week8/wed). Kindly ensure that your Classwork 15 is submitted by 6 AM tomorrow, October 10th.
 
 ## Course schedule
 
@@ -57,7 +57,7 @@ Hey guys, the class codes are now available at the following links: [nofile.c](.
 |Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|quiz5| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf);|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork14)||
-|Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork15)||
+|Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf);[codes](./programs/week8/wed)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork15)||
 |Friday 10/11| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241011.pdf)|8|| 	[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
 |Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf)|10|Classwork 16||
