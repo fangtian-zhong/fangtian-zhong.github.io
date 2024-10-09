@@ -60,9 +60,9 @@ Hey guys, the class codes are now available at the following links: codes:[fgets
 |Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf);codes: [fgets.c](./programs/week8/wed/fgets.c) and [fgetsfile.c](./programs/week8/wed/fgetsfile.c) and [scanf.c](./programs/week8/wed/scanf.c) and [strassign.c](./programs/week8/wed/strassign.c) and [strcat.c](./programs/week8/wed/strcat.c) and [token.c](./programs/week8/wed/token.c)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork15)||
 |Friday 10/11| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241011.pdf)|8|| 	[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
-|Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf)|10|Classwork 16||
-|Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|Classwork 17||
-|Friday 10/18|Structs|10||Lab 8|
+|Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork16)||
+|Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
+|Friday 10/18|Structs|10||[Lab 8]()|
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21|Splitting C program into multiple files||Classwork 18||
 |Wednesday 10/23|Compilation review + Makefiles||Classwork 19||
