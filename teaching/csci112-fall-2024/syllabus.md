@@ -80,15 +80,15 @@ Hey guys, the class codes are now available at the following links: codes:[fgets
 |Wednesday 11/13|Dynamic data structures (Dynamic Arrays)||||
 |Friday 11/15|||||
 |<span style="color:red;">Week14</span>|||||
-|Monday 11/18|||||
-|Wednesday 11/20|||||
+|Monday 11/18| 	Memory profiling with valgrind||||
+|Wednesday 11/20|Bit operators; binary and hexadecimal||||
 |Friday 11/22| ||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
 |Wednesday 11/27|No Class||||
 |Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 12/02|||||
+|Monday 12/02|Bit masking||||
 |Wednesday 12/04|||||
 |Friday 12/06|||||
 |<span style="color:red;">Week17</span>|||||
