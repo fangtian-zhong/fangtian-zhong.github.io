@@ -68,11 +68,11 @@ Hey guys, the class codes are now available at the following links: codes:[fgets
 |Wednesday 10/23|Compilation review + Makefiles||Classwork 19||
 |Friday 10/25|Makefiles|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28| Command line arguments||Classwork 20|Mid-course survey|
+|Monday 10/28| Command line arguments|12|Classwork 20|Mid-course survey|
 |Wednesday 10/30|Sorting an array of pointers||Classwork 21||
 |Friday 11/01|Pointer arithmetic|||Lab 10|
 |<span style="color:red;">Week12</span>|||||
-|Monday 11/04| 	Dynamic memory allocation||||
+|Monday 11/04| 	Dynamic memory allocation|13|||
 |Wednesday 11/06| Dynamic data structures (Linked List)||||
 |Friday 11/08| 	Dynamic data structures (Linked List)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
