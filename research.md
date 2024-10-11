@@ -12,7 +12,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Jiguo Yu. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, IEEE Transactions on Computers (In Submission), **Core Rank A**
 
-**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission), **Core Rank A**
+**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission), **Core Rank A***
 
 Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Yili Ren, Xiuzhen Cheng. (2024) Vulnerability Analysis Across Platform Landscapes, ACM Computing Surveys (In Submission), **Core Rank A**
 
@@ -24,7 +24,7 @@ Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised 
 
 Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Chong Yu. (2024) Detecting Poisoning Attacks with DynaDetect, ISICN
 
-**Fangtian Zhong**, Xiuzhen Cheng, Dongxiao Yu, Bei Gong, Shuaiwen Song, Jiguo Yu✉. (2023). [MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors](https://ieeexplore.ieee.org/abstract/document/10017127/). *IEEE Transactions on Computers*, **Core Rank A**
+**Fangtian Zhong**, Xiuzhen Cheng, Dongxiao Yu, Bei Gong, Shuaiwen Song, Jiguo Yu✉. (2023). [MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors](https://ieeexplore.ieee.org/abstract/document/10017127/). *IEEE Transactions on Computers*, **Core Rank A***
 
 **Fangtian Zhong**, Pengfei Hu✉, Guoming Zhang, Hong Li, Xiuzhen Cheng. (2022). [Reinforcement learning based adversarial malware example generation against black-box detectors](https://ieeexplore.ieee.org/abstract/document/9090824). *Computers & Security*, **Core Rank B**
 
@@ -33,7 +33,7 @@ Jiguo Yu,  Suhui Liu✉, Minghui Xu, Hechuan Guo, **Fangtian Zhong**, Wei Cheng(
 Zekai Chen, **Fangtian Zhong**, Qi Luo, Xiao Zhang, Yanwei Zheng✉. (2022). [EdgeViT: Efficient Visual Modeling for Edge Computing
 ](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_33). *International Conference on Wireless Algorithm, Systems, ,Applications* 
 
-**Fangtian Zhong**, Zekai Chen, Minghui Xu, Guoming Zhang, Dongxiao Yu, Xiuzhen Cheng✉. (2022) [Malware-on-the-Brain: Illuminating Malware Byte Codes with Images for Malware Classification](https://ieeexplore.ieee.org/abstract/document/9737370). *IEEE Transactions on Computers*, **Core Rank A**
+**Fangtian Zhong**, Zekai Chen, Minghui Xu, Guoming Zhang, Dongxiao Yu, Xiuzhen Cheng✉. (2022) [Malware-on-the-Brain: Illuminating Malware Byte Codes with Images for Malware Classification](https://ieeexplore.ieee.org/abstract/document/9737370). *IEEE Transactions on Computers*, **Core Rank A***
 
 Zekai Chen, **Fangtian Zhong**, Zhumin Chen, Xiao Zhang, Robert Pless, Xiuzhen Cheng✉. (2021) [DCAP: Deep Cross Attentional Product Network for User Response Prediction](https://dl.acm.org/doi/abs/10.1145/3459637.3482246). *Proceedings of the 30th ACM International Conference on Information ,Knowledge Management (CIKM &#39 21)*,  **Core Rank A**
 
