@@ -14,6 +14,8 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Exploring Malware Analysis: An Insider's Perspective, The ACM Conference on Computer and Communications Security (In Submission), **Core Rank A**
 
+Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Yili Ren, Xiuzhen Cheng. (2024) Vulnerability Analysis Across Platform Landscapes, ACM Computing Surveys (In Submission), **JCR 1**
+
 Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024) Improving Detection Accuracy of Data Poisoning Attacks, IEEE Cyber Awareness and Research Symposium
 
 Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE Conference on Vehicular Technology **Core Rank B**
