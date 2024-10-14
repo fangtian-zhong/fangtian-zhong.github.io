@@ -28,7 +28,7 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 In this lab, you will build off of your Lab 7 solution (or the solution
-provided in `/public/labs/lab7/solution.c` by class time on Monday, October
+provided in `/public/labs/lab7/solution.c` by class time on Friday, October
 16th) to build an interactive database of counties, where a user can
 search for counties within a population range or by county seat.
 
