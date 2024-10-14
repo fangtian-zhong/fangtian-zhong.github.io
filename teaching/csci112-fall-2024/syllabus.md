@@ -18,7 +18,10 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [planet.c](./programs/week9/mon/planet.c) and [student.c](./programs/week9/mon/student.c). Kindly ensure that your Classwork16 is submitted by 6 AM tomorrow, October 15th.
+Hey guys, the class codes are now available at the following links: [planet.c](./programs/week9/mon/planet.c) and [student.c](./programs/week9/mon/student.c). Kindly ensure that your Classwork16 is submitted by 6 AM tomorrow, October 15th. 
+
+## Quiz7
+Quiz7 will cover C type string on week8. Please review the codes and slides provided.
 
 ## Course schedule
 
