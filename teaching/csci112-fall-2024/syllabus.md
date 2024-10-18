@@ -71,9 +71,9 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork19)||
 |Friday 10/25|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241025.pdf)|||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab9)|
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28| Command line arguments|12|Classwork 20|Mid-course survey|
-|Wednesday 10/30|Sorting an array of pointers||Classwork 21||
-|Friday 11/01|Pointer arithmetic|||Lab 10|
+|Monday 10/28| [Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241028.pdf)|12|Classwork 20|Mid-course survey|
+|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf)||Classwork 21||
+|Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241021.pdf)|||Lab 10|
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	Dynamic memory allocation|13|||
 |Wednesday 11/06| Dynamic data structures (Linked List)||||
