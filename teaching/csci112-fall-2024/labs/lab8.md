@@ -55,7 +55,7 @@ County add_county(char* name, char* seat, int pop)
 or
 
 ```
-County add_county(char name[100], char seat[20], int pop)
+County add_county(char name[100], char seat[25], int pop)
 ```
 
 Additionally, you must use `sscanf` to convert the population from a string to
