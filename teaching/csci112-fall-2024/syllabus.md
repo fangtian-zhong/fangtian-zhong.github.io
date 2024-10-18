@@ -80,7 +80,7 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |Friday 11/08| 	Dynamic data structures (Linked List)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
-|Wednesday 11/13|Dynamic data structures (Linked List)||Classwork 25||
+|Wednesday 11/13|Dynamic data structures (Dynamic Arrays)||Classwork 25||
 |Friday 11/15|Dynamic data structures (Dynamic Arrays)||Classwork 26||
 |<span style="color:red;">Week14</span>|||||
 |Monday 11/18| 	Memory profiling with valgrind||||
