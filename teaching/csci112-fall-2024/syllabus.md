@@ -65,7 +65,7 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |<span style="color:red;">Week9</span>|||||
 |Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf);codes:[planet.c](./programs/week9/mon/planet.c) and [student.c](./programs/week9/mon/student.c)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork16)||
 |Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
-|Friday 10/18|Structs: codes:[arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h).|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
+|Friday 10/18|Structs: codes:[arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h).|10|quiz7|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241021.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork18)||
 |Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork19)||
