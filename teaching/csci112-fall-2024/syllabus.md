@@ -92,8 +92,8 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
 |Monday 12/02|Bit masking||Classwork 29||
-|Wednesday 12/04|||||
-|Friday 12/06|||| 	Lab 13|
+|Wednesday 12/04||||Lab 13|
+|Friday 12/06|||| 	|
 |<span style="color:red;">Week17</span>|||||
 |Wednesday 12/11, 8:00-9:50am|||||
 
