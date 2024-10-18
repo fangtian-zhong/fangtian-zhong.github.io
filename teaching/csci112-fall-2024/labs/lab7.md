@@ -108,4 +108,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time the Wednesday after the due dat.
+Scores will be uploaded to D2L by class time the Wednesday after the due date.

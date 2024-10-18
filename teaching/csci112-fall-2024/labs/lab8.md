@@ -28,8 +28,7 @@ questions by going to lab or posting on Discord anyway.
 ## Assignment
 
 In this lab, you will build off of your Lab 7 solution (or the solution
-provided in `/public/labs/lab7/solution.c` by class time on Monday, October
-16th) to build an interactive database of counties, where a user can
+provided in `/public/labs/lab7/solution.c` to build an interactive database of counties, where a user can
 search for counties within a population range or by county seat.
 
 **Note:** be sure to change from reading from `/public/labs/lab7/counties1.txt`
@@ -56,7 +55,7 @@ County add_county(char* name, char* seat, int pop)
 or
 
 ```
-County add_county(char name[100], char seat[20], int pop)
+County add_county(char name[100], char seat[25], int pop)
 ```
 
 Additionally, you must use `sscanf` to convert the population from a string to

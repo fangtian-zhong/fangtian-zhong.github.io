@@ -67,8 +67,8 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
 |Friday 10/18|Structs|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
-|Monday 10/21|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241021.pdf)||Classwork 18||
-|Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||Classwork 19||
+|Monday 10/21|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241021.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork18)||
+|Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork19)||
 |Friday 10/25|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241025.pdf)|||Lab 9|
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/28| Command line arguments|12|Classwork 20|Mid-course survey|

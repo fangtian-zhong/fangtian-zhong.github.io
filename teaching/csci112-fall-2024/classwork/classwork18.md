@@ -4,9 +4,9 @@ title: "Classwork 18"
 ---
 
 ## Logistics
-* Due: Monday, March 25th AoE.
+* Due: Monday, October 21st AoE.
 * Submission instructions: make sure that the required files (`mor.c`, `location.h`, and `coordinates.h`) are in your
-	`csci112_spring2024/classwork/week11/mon/` directory.
+	`csci112_fall2024/classwork/week11/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,7 +16,7 @@ title: "Classwork 18"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_spring2024/classwork/week11/mon/`, creating directories `week11`
+* From your home directory, navigate to `/csci112_fall2024/classwork/week11/mon/`, creating directories `week11`
 and `mon` if necessary.
 * Copy the `mor.c` file from `/public/classwork/week11/mon` to your directory.
 
