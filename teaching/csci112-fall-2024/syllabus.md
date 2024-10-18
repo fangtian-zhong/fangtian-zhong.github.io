@@ -21,7 +21,7 @@ location: "Bozeman, Montana"
 Hey guys, the class codes are now available at the following links: [arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h). Kindly ensure that your Lab8 is submitted by 6 AM tomorrow, October 19th. 
 
 ## Quiz7
-Quiz7 will cover C type string on week8. Please review the codes and slides provided.
+Quiz8 will cover struct on week9. Please review the codes and slides provided.
 
 ## Course schedule
 
