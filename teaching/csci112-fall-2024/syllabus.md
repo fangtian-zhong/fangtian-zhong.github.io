@@ -83,15 +83,15 @@ Quiz7 will cover C type string on week8. Please review the codes and slides prov
 |Wednesday 11/13|Dynamic data structures (Dynamic Arrays)||Classwork 25||
 |Friday 11/15|Dynamic data structures (Dynamic Arrays)||Classwork 26||
 |<span style="color:red;">Week14</span>|||||
-|Monday 11/18| 	Memory profiling with valgrind||||
-|Wednesday 11/20|Bit operators; binary and hexadecimal||||
+|Monday 11/18| 	Memory profiling with valgrind||Classwork 27||
+|Wednesday 11/20|Bit operators; binary and hexadecimal||Classwork 28||
 |Friday 11/22| ||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
 |Wednesday 11/27|No Class||||
 |Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 12/02|Bit masking||||
+|Monday 12/02|Bit masking||Classwork 29||
 |Wednesday 12/04|||||
 |Friday 12/06|||||
 |<span style="color:red;">Week17</span>|||||
