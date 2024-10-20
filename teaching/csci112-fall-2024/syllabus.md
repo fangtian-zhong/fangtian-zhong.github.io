@@ -94,8 +94,7 @@ Quiz8 will cover struct on week9. Please review the codes and slides provided.
 |Monday 12/02|Bit masking||Classwork 29||
 |Wednesday 12/04||||Lab 13|
 |Friday 12/06|||| 	|
-|<span style="color:red;">Week17</span>|||||
-|Wednesday 12/11, 8:00-9:50am|||||
+
 
 ## Catalog description
 
