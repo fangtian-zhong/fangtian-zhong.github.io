@@ -6,7 +6,7 @@ title: "Classwork 21"
 ## Logistics
 * Due: Wednesday, October 30th AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_fall2024/classwork/week12/fri/` directory.
+	`csci112_fall2024/classwork/week11/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,21 +16,21 @@ title: "Classwork 21"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week12/fri/`, creating directories `week12`
-and `fri` if necessary.
+* From your home directory, navigate to `csci112_fall2024/classwork/week11/wed/`, creating directories `week11`
+and `wed` if necessary.
 * Copy `main.c`, `planet.c`, `sort.c`, `planet.h`, `sort.h`, and `Makefile` from
-	`/public/classwork/week12/fri/`.
+	`/public/classwork/week11/wed/`.
 
 Fill in the `TODO`s in `main.c` so that when you compile and run the program,
 you get:
 
 ```
-[g73x595@csci112 fri]$ make
+[g73x595@csci112 wed]$ make
 gcc -c main.c -Wall
 gcc -c planet.c -Wall
 gcc -c sort.c -Wall
 gcc main.o planet.o sort.o -Wall
-[g73x595@csci112 fri]$ ./a.out
+[g73x595@csci112 wed]$ ./a.out
 The planets are:
 Mercury: 4879 diameter, 0 moons, 0.25 orbit time, 1426.00 rot. time
 Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
@@ -67,7 +67,7 @@ Venus: 12104 diameter, 0 moons, 0.62 orbit time, 5832.00 rot. time
 You can run the autograder by running
 
 ```
-/public/classwork/week12/fri/autograder.sh
+/public/classwork/week11/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
