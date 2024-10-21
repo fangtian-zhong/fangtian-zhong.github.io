@@ -6,7 +6,7 @@ title: "Classwork 20"
 ## Logistics
 * Due: Monday, October 28th AoE.
 * Submission instructions: make sure that the required file (`hi.c`) is in your
-	`csci112_fall2024/classwork/week12/wed/` directory.
+	`csci112_fall2024/classwork/week11/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,8 +16,8 @@ title: "Classwork 20"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week12/wed/`, creating directories `week12`
-and `wed` if necessary.
+* From your home directory, navigate to `csci112_fall2024/classwork/week11/mon/`, creating directories `week11`
+and `mon` if necessary.
 
 Write a C program in the file `hi.c` that takes one argument from the command line and prints
 	`Hello, <arg>`! For example, if you run it with the input `Champ`, it
@@ -34,7 +34,7 @@ Hello, Champ!
 You can run the autograder by running
 
 ```
-/public/classwork/week12/wed/autograder.sh
+/public/classwork/week11/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
