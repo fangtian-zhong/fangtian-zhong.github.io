@@ -4,9 +4,9 @@ title: "Classwork 26"
 ---
 
 ## Logistics
-* Due: Monday, April 22th AoE.
+* Due: Friday, November 15th AoE.
 * Submission instructions: make sure that the required file (`realloc.c`) is in your
-	`csci112_spring2024/classwork/week15/mon/` directory.
+	`csci112_fall2024/classwork/week13/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -18,9 +18,9 @@ title: "Classwork 26"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week15/mon/`, creating directories `week15`
-and `mon` if necessary.
-* Copy the file `/public/classwork/week15/mon/realloc.c` into your directory.
+* From your home directory, navigate to `csci112_fall2024/classwork/week13/fri/`, creating directories `week13`
+and `fri` if necessary.
+* Copy the file `/public/classwork/week13/fri/realloc.c` into your directory.
 
 Fill in the three `TODO` items so that the program attempts too allocate an
 array of ints on the heap, and if successful, then attempts to reallocate the same data to
@@ -31,19 +31,19 @@ the event that your `realloc` call is unsuccessful.
 Here are a few sample runs:
 
 ```
-[g73x595@csci112 mon]$ gcc realloc.c -Wall
-[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 fri]$ gcc realloc.c -Wall
+[g73x595@csci112 fri]$ ./a.out
 How many integers would you like to store? 10
 Allocating space for 10 ints
 How many do you want to store now? 5000
 Allocating space for 5000 ints
-[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 fri]$ ./a.out
 How many integers would you like to store? 1000
 Allocating space for 1000 ints
 How many do you want to store now? 1000000000000
 Allocating space for 1000000000000 ints
 Not enough memory
-[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 fri]$ ./a.out
 How many integers would you like to store? 100000000000
 Allocating space for 100000000000 ints
 Not enough memory
@@ -54,7 +54,7 @@ Not enough memory
 You can run the autograder by running
 
 ```
-/public/classwork/week15/mon/autograder.sh
+/public/classwork/week13/fri/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
