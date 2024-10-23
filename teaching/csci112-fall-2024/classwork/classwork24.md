@@ -27,8 +27,8 @@ linked list. When you are finished, the compiling and running the program
 should look like this:
 
 ```
-[g73x595@csci112 mon]$ gcc digit.c -Wall
-[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 wed]$ gcc digit.c -Wall
+[g73x595@csci112 wed]$ ./a.out
 1->2->3->
 ```
 
