@@ -4,9 +4,9 @@ title: "Classwork 25"
 ---
 
 ## Logistics
-* Due: Wednesday, April 17th AoE.
+* Due: Wednesday, November 13th AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_spring2024/classwork/week14/wed/` directory.
+	`csci112_fall2024/classwork/week13/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 25"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week14/wed/`, creating directories `week14`
+* From your home directory, navigate to `csci112_fall2024/classwork/week13/wed/`, creating directories `week13`
 and `wed` if necessary.
-* Copy the files `main.c`, `team.c`, and `team.h` from the `/public/classwork/week14/wed/` directory into your directory.
+* Copy the files `main.c`, `team.c`, and `team.h` from the `/public/classwork/week13/wed/` directory into your directory.
 
 **You will only need to change `team.c`**.
 
@@ -53,7 +53,7 @@ Bob->Sally->
 You can run the autograder by running
 
 ```
-/public/classwork/week14/wed/autograder.sh
+/public/classwork/week13/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
