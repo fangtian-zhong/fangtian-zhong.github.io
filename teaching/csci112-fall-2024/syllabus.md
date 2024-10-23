@@ -71,9 +71,9 @@ Quiz8 will cover struct and makefile on week9 and week10. Please review the code
 |Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork19)||
 |Friday 10/25|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241025.pdf)|||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab9)|
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28| [Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241028.pdf)|12|Classwork 20|Mid-course survey|
-|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf)||Classwork 21||
-|Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241101.pdf)||Classwork 22|Lab 10|
+|Monday 10/28| [Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241028.pdf)|12|[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork20)|Mid-course survey|
+|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork21)||
+|Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241101.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork22)|Lab 10|
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|Classwork 23||
 |Wednesday 11/06| [Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241106.pdf)||Classwork 24||
