@@ -80,8 +80,8 @@ Quiz8 will cover struct and makefile on week9 and week10. Please review the code
 |Friday 11/08| 	[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241108.pdf)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
-|Wednesday 11/13|Dynamic data structures (Dynamic Arrays)||Classwork 25||
-|Friday 11/15|Dynamic data structures (Dynamic Arrays)||Classwork 26||
+|Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||Classwork 25||
+|Friday 11/15|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||Classwork 26||
 |<span style="color:red;">Week14</span>|||||
 |Monday 11/18| 	Memory profiling with valgrind||Classwork 27||
 |Wednesday 11/20|Bit operators; binary and hexadecimal||Classwork 28||
