@@ -34,7 +34,7 @@ Hello, Champ!
 You can run the autograder by running
 
 ```
-/public/classwork/week11/wed/autograder.sh
+/public/classwork/week11/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
