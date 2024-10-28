@@ -20,8 +20,8 @@ location: "Bozeman, Montana"
 ## Announcement
 Hey guys, If 75% or more of the class completes the mid-semester course survey, the whole class gets 1 bonus point. The survey is under Course Resources on D2L. Kindly ensure that your survey and Classwork 20 are submitted by 6 AM tomorrow, October 29th. 
 
-## Quiz8
-Quiz8 will cover struct and makefile on week9 and week10. Please review the codes and slides provided.
+## Quiz9
+Quiz8 will cover content on week11. Please review the codes and slides provided.
 
 ## Course schedule
 
