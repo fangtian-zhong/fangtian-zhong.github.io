@@ -75,8 +75,8 @@ Quiz8 will cover struct and makefile on week9 and week10. Please review the code
 |Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork21)||
 |Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241101.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork22)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab10)|
 |<span style="color:red;">Week12</span>|||||
-|Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|Classwork 23||
-|Wednesday 11/06| [Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241106.pdf)||Classwork 24||
+|Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork23)||
+|Wednesday 11/06| [Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241106.pdf)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork24)||
 |Friday 11/08| 	[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241108.pdf)||| 	Lab 11|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
