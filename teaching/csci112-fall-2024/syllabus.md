@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, the class codes are now available at the following links: [arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h). Kindly ensure that your Lab8 is submitted by 6 AM tomorrow, October 19th. 
+Hey guys, If 75% or more of the class completes the mid-semester course survey, the whole class gets 1 bonus point. The survey is under Course Resources on D2L. Kindly ensure that your survey and Classwork 20 are submitted by 6 AM tomorrow, October 29th. 
 
 ## Quiz8
 Quiz8 will cover struct and makefile on week9 and week10. Please review the codes and slides provided.
