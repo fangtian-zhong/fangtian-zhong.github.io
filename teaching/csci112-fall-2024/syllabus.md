@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
     Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Hey guys, If 75% or more of the class completes the mid-semester course survey, the whole class gets 1 bonus point. The survey is under Course Resources on D2L. Kindly ensure that your survey and Classwork 20 are submitted by 6 AM tomorrow, October 29th. 
+Class codes: [example.c](../programs/example.c)
 
 ## Quiz9
 Quiz8 will cover content on week11. Please review the codes and slides provided.
@@ -72,7 +72,7 @@ Quiz8 will cover content on week11. Please review the codes and slides provided.
 |Friday 10/25|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241025.pdf)|||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab9)|
 |<span style="color:red;">Week11</span>|||||
 |Monday 10/28| [Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241028.pdf)|12|[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork20);quiz 8|Mid-course survey|
-|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork21)||
+|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf);codes:[example.c](../programs/example.c)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork21)||
 |Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241101.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork22)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab10)|
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork23)||
