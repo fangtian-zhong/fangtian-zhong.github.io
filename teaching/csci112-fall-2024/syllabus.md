@@ -77,7 +77,7 @@ Quiz8 will cover content on week11. Please review the codes and slides provided.
 |<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork23)||
 |Wednesday 11/06| [Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241106.pdf)||[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork24)||
-|Friday 11/08| 	[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241108.pdf)||| 	Lab 11|
+|Friday 11/08| 	[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241108.pdf)||| 	[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab11)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
 |Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||Classwork 25||
