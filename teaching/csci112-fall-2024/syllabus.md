@@ -85,7 +85,7 @@ Quiz10 will cover content on week12. Please review the codes and slides provided
 |<span style="color:red;">Week14</span>|||||
 |Monday 11/18| 	[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241118.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork27)||
 |Wednesday 11/20|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241120.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork28)||
-|Friday 11/22| ||| Lab 12|
+|Friday 11/22| ||| [Lab 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab12)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
 |Wednesday 11/27|No Class||||
