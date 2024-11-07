@@ -38,8 +38,7 @@ Your program will run via the Lab 12 `main.c`, found in
 uncommented; as you implement different parts of your program, you should
 uncomment more of `main` to test them out.
 
-Starting with your `team.h`, and `team.c` from Lab 11 (or the
-solution found in  `/public/labs/lab11/solution/`),
+Starting with your `team.h`, and `team.c` from Lab 11,
 edit the program so that it implements the list of people as a dynamic
 array, rather than a linked list. To do so, implement the following `struct`s
 and functions.
