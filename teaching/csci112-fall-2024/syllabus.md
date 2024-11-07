@@ -83,8 +83,8 @@ Quiz10 will cover content on week12. Please review the codes and slides provided
 |Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork25)||
 |Friday 11/15|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork26)||
 |<span style="color:red;">Week14</span>|||||
-|Monday 11/18| 	[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241118.pdf)||Classwork 27||
-|Wednesday 11/20|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241120.pdf)||Classwork 28||
+|Monday 11/18| 	[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241118.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork27)||
+|Wednesday 11/20|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241120.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork28)||
 |Friday 11/22| ||| Lab 12|
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
