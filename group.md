@@ -12,11 +12,13 @@ This page serves as a directory for the students I am working/ worked with.
 ## Undergrad Researcher
 
 1. [Micheal Crapse]():REU Scholars
-2. [Leon Birdhat](): McNair Scholars
-3. [Jake Hopkins](): 
-4. [Jeff Simpson](): 
-5. [Hongyi Miao]():  
-6. [Zhuoyun Qian]():
+2. [Jake Hopkins](): 
+3. [Jeff Simpson](): 
+4. [Hongyi Miao]():  
+5. [Zhuoyun Qian]():
+6. [Ollie Wold]():
+7. [Joseph Windmann]():
+ 
 
 ## Grad Researcher
 1. Prakriti Baral, Benjamin Fellowship Awardee
@@ -30,6 +32,7 @@ This page serves as a directory for the students I am working/ worked with.
 5. Asibul Islam, M.S. student at Montana State University
 6. Shahnaj Mou, M.S. student at Montana State University
 7. Oscar Oropeza, B.S. student at Montana State University
-
+8. [Leon Birdhat](): McNair Scholars, B.S. student at Montana State University
+9. 
 ## Incoming Students
 1. Abolfazl Sharif Nia (Spring 2025)
