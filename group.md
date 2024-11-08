@@ -33,6 +33,6 @@ This page serves as a directory for the students I am working/ worked with.
 6. Shahnaj Mou, M.S. student at Montana State University
 7. Oscar Oropeza, B.S. student at Montana State University
 8. [Leon Birdhat](): McNair Scholars, B.S. student at Montana State University
-9. 
+   
 ## Incoming Students
 1. Abolfazl Sharif Nia (Spring 2025)
