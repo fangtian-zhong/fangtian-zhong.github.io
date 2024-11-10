@@ -33,7 +33,7 @@ Zekai Chen, **Fangtian Zhong**, Qi Luo, Xiao Zhang, Yanwei Zheng✉. (2022). [Ed
 
 **Fangtian Zhong**, Zekai Chen, Minghui Xu, Guoming Zhang, Dongxiao Yu, Xiuzhen Cheng✉. (2022) [Malware-on-the-Brain: Illuminating Malware Byte Codes with Images for Malware Classification](https://ieeexplore.ieee.org/abstract/document/9737370). *IEEE Transactions on Computers*, **Core Rank A***
 
-Zekai Chen, **Fangtian Zhong**, Zhumin Chen, Xiao Zhang, Robert Pless, Xiuzhen Cheng✉. (2021) [DCAP: Deep Cross Attentional Product Network for User Response Prediction](https://dl.acm.org/doi/abs/10.1145/3459637.3482246). *Proceedings of the 30th ACM International Conference on Information ,Knowledge Management (CIKM &#39 21)*,  **Core Rank A**
+Zekai Chen, **Fangtian Zhong**, Zhumin Chen, Xiao Zhang, Robert Pless, Xiuzhen Cheng✉. (2021) [DCAP: Deep Cross Attentional Product Network for User Response Prediction](https://dl.acm.org/doi/abs/10.1145/3459637.3482246). *Proceedings of the 30th ACM International Conference on Information ,Knowledge Management (CIKM 21)*,  **Core Rank A**
 
 Yizhen Jia, **Fangtian Zhong✉**, Arwa Alrawais, Bei Gong, Xiuzhen Cheng. (2020). [Flowguard: An intelligent edge defense mechanism against IoT DDoS attacks](https://ieeexplore.ieee.org/abstract/document/9090824). *IEEE Internet of Things Journal*, **JCR 1**
 
