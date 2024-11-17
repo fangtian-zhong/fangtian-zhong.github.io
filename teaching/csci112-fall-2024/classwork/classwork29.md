@@ -4,9 +4,9 @@ title: "Classwork 29"
 ---
 
 ## Logistics
-* Due: Wednesday, May 1st AoE.
+* Due: Monday, December 2nd AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_spring2024/classwork/week16/wed/` directory.
+	`csci112_fall2024/classwork/week16/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 29"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2024/classwork/week16/wed/`, creating directories `week16`
-and `wed` if necessary.
-* Copy the file `binary.c` from the `/public/classwork/week16/wed/` directory into your directory.
+* From your home directory, navigate to `csci112_fall2024/classwork/week16/mon/`, creating directories `week16`
+and `mon` if necessary.
+* Copy the file `binary.c` from the `/public/classwork/week16/mon/` directory into your directory.
 
 Implement the function `print_binary` so that it prints all 32 bits of the
 number passed in. For example, the decimal number 50 should print
@@ -40,7 +40,7 @@ one for loop.
 You can run the autograder by running
 
 ```
-/public/classwork/week16/wed/autograder.sh
+/public/classwork/week16/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
