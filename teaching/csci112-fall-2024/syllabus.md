@@ -91,8 +91,8 @@ Quiz11 will cover content on week13 and week14. Please review the codes and slid
 |Wednesday 11/27|No Class||||
 |Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 12/02|Bit masking||Classwork 29||
-|Wednesday 12/04|No Class (Self Study)|||Lab 13|
+|Monday 12/02|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241202.pdf)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork29)||
+|Wednesday 12/04|No Class (Self Study)|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab13)|
 |Friday 12/06|||quiz12 (comprehensive)| 	|
 
 
