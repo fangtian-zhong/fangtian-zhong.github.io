@@ -20,8 +20,8 @@ location: "Bozeman, Montana"
 ## Announcement
 Class codes: [linklist.c](./programs/week12/wed/linklist.c) and [linklist1.c](./programs/week12/wed/linklist1.c)
 
-## Quiz10
-Quiz10 will cover content on week12. Please review the codes and slides provided.
+## Quiz11
+Quiz11 will cover content on week13 and week14. Please review the codes and slides provided.
 
 ## Course schedule
 
