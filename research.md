@@ -28,9 +28,6 @@ Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised 
 
 Jiguo Yu,  Suhui Liu✉, Minghui Xu, Hechuan Guo, **Fangtian Zhong**, Wei Cheng(2022). [An Efficient Revocable ,Searchable MA-ABE Scheme with Blockchain assistance for C-IoT](https://ieeexplore.ieee.org/abstract/document/9920181). *IEEE Internet of Things Journal*,  **JCR 1**
 
-Zekai Chen, **Fangtian Zhong**, Qi Luo, Xiao Zhang, Yanwei Zheng✉. (2022). [EdgeViT: Efficient Visual Modeling for Edge Computing
-](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_33). *International Conference on Wireless Algorithm, Systems, ,Applications* 
-
 **Fangtian Zhong**, Zekai Chen, Minghui Xu, Guoming Zhang, Dongxiao Yu, Xiuzhen Cheng✉. (2022) [Malware-on-the-Brain: Illuminating Malware Byte Codes with Images for Malware Classification](https://ieeexplore.ieee.org/abstract/document/9737370). *IEEE Transactions on Computers*, **Core Rank A***
 
 Zekai Chen, **Fangtian Zhong**, Zhumin Chen, Xiao Zhang, Robert Pless, Xiuzhen Cheng✉. (2021) [DCAP: Deep Cross Attentional Product Network for User Response Prediction](https://dl.acm.org/doi/abs/10.1145/3459637.3482246). *Proceedings of the 30th ACM International Conference on Information ,Knowledge Management (CIKM 21)*,  **Core Rank A**
