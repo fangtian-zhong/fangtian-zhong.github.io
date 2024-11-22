@@ -10,7 +10,7 @@ I regularly take phd students every year. Students with a master degree and stro
     Emails that don't include sufficient materials will not be reviewed! 
   </span>
 
-Email format: "Interested in {position, e.g., Ph.D.} at {expected time, e.g., Fall 2024}”):
+Email format: "Interested in {position, e.g., Ph.D.} at {expected time, e.g., Fall 2025}”):
 
 - CV: Include your background, experiences, and future research interests.
 - Transcripts: including all college transcripts.
