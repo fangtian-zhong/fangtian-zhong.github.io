@@ -75,7 +75,7 @@ Here's a description of the functions you need to have:
     shrink the memory allocated for the array by half. (You will need a call to
     `realloc` for this.) If there are no people on the team, this call should
     do nothing.
-* `decommission_team` should take in a pointer to a `Team` and free any heap memory that is being used by the team.
+* `decommision_team` should take in a pointer to a `Team` and free any heap memory that is being used by the team.
 
 ## Hints
 
