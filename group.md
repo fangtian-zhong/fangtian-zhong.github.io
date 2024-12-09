@@ -11,13 +11,13 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Undergrad Researcher
 
-1. [Micheal Crapse]():REU Scholars
-2. [Jake Hopkins](): 
-3. [Jeff Simpson](): 
+1. Micheal Crapse:REU Scholars
+2. Jake Hopkins: 
+3. Jeff Simpson: 
 4. Hongyi Miao:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:  
 5. Zhuoyun Qian:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:
-6. [Ollie Wold]():
-7. [Joseph Windmann]():
+6. Ollie Wold:
+7. Joseph Windmann:
  
 
 ## Grad Researcher
