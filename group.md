@@ -14,8 +14,8 @@ This page serves as a directory for the students I am working/ worked with.
 1. [Micheal Crapse]():REU Scholars
 2. [Jake Hopkins](): 
 3. [Jeff Simpson](): 
-4. [Hongyi Miao]():  
-5. [Zhuoyun Qian]():
+4. [Hongyi Miao]{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:  
+5. [Zhuoyun Qian]{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:
 6. [Ollie Wold]():
 7. [Joseph Windmann]():
  
