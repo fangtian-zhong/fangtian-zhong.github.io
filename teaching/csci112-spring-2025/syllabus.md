@@ -70,11 +70,11 @@ location: "Bozeman, Montana"
 |Wednesday 03/26|[Splitting C program into multiple files]||||
 |Friday 03/28|[Compilation review + Makefiles]||||
 |<span style="color:red;">Week12</span>|||||
-|Friday 10/25|[Makefiles]||||
-|Monday 10/28| [Command line arguments]|12|||
-|Wednesday 10/30|[Sorting an array of pointers]||||
+|Monday 03/31|[Makefiles]||||
+|Wednesday 04/02| [Command line arguments]|12|||
+|Friday 04/04|[Sorting an array of pointers]||||
+|<span style="color:red;">Week13</span>|||||
 |Friday 11/01|[Pointer arithmetic]||||
-|<span style="color:red;">Week12</span>|||||
 |Monday 11/04| 	[Dynamic memory allocation]|13|||
 |Wednesday 11/06| [Dynamic data structures (Linked List)]|13|||
 |Friday 11/08| 	[Dynamic data structures (Linked List)]||| |
