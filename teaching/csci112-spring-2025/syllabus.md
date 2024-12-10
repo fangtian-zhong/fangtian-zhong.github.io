@@ -43,16 +43,16 @@ location: "Bozeman, Montana"
 |Friday 09/13|[Loops]|5.1-5.8|||
 |<span style="color:red;">Week5</span>|||||
 |Monday 09/16|[Loops]|5|||
-|Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf);codes:[cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c) [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)|quiz3|
-|Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
+|Wednesday 09/18|[Conditional operator]|Appendix C-4, C-5|||
+|Friday 09/20|[Arrays]||||
 |<span style="color:red;">Week6</span>|||||
-|Monday 09/23|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240923.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork10)||
-|Wednesday 09/25|[Arrays as function arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240925.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork11)|quiz4|
-|Friday 09/27|[Searching, sorting arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240927.pdf)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab5)|
+|Monday 09/23|[Arrays]|7|||
+|Wednesday 09/25|[Arrays as function arguments]|7|||
+|Friday 09/27|[Searching, sorting arrays]|7|||
 |<span style="color:red;">Week7</span>|||||
-|Monday 09/30|[Pointers; file i/o](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240930.pdf);codes:[sizeofp.c](./programs/sizeofp.c) and [fpinout.c](./programs/fpinout.c)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork12)||
-|Wednesday 10/02| 	[Pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241002.pdf);codes:[nofile.c](./programs/nofile.c) and [nopointer.c](./programs/nullp.c) and [noarray](./programs/noarray.c) and [separatenum](./programs/separatenum.c)|6|[Classwork 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork13)||
-|Friday 10/04| 	[More pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241004.pdf)|6|quiz5| 	[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab6)|
+|Monday 09/30|[Pointers; file i/o]|6|||
+|Wednesday 10/02| 	[Pointers]|6|||
+|Friday 10/04| 	[More pointers]|6|| |
 |<span style="color:red;">Week8</span>|||||
 |Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf);|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork14)||
 |Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf);codes: [fgets.c](./programs/week8/wed/fgets.c) and [fgetsfile.c](./programs/week8/wed/fgetsfile.c) and [scanf.c](./programs/week8/wed/scanf.c) and [strassign.c](./programs/week8/wed/strassign.c) and [strcat.c](./programs/week8/wed/strcat.c) and [token.c](./programs/week8/wed/token.c)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork15)||
