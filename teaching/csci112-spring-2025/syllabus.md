@@ -58,15 +58,19 @@ location: "Bozeman, Montana"
 |Wednesday 03/05|[C type strings]|8|||
 |Friday 03/07| 	[C type strings])|8|||
 |<span style="color:red;">Week9</span>|||||
-|Friday 10/11| 	[C type strings]|8|| 	|
-|Monday 10/14|[Structs]|10|||
-|Wednesday 10/16|[Structs]|10|||
-|Friday 10/18|Structs|10|||
+|Monday 03/10| 	[C type strings]|8|| 	|
+|Wednesday 03/12|[Structs]|10|||
+|Friday 03/14|[Structs]|10|||
 |<span style="color:red;">Week10</span>|||||
-|Monday 10/21|[Splitting C program into multiple files]||||
-|Wednesday 10/23|[Compilation review + Makefiles]||||
-|Friday 10/25|[Makefiles]||||
+|Monday 03/17|No Class||||
+|Wednesday 03/19|No Class||||
+|Friday 03/21|No Class||||
 |<span style="color:red;">Week11</span>|||||
+|Monday 03/24|Structs|10|||
+|Wednesday 03/26|[Splitting C program into multiple files]||||
+|Friday 03/28|[Compilation review + Makefiles]||||
+|<span style="color:red;">Week12</span>|||||
+|Friday 10/25|[Makefiles]||||
 |Monday 10/28| [Command line arguments]|12|||
 |Wednesday 10/30|[Sorting an array of pointers]||||
 |Friday 11/01|[Pointer arithmetic]||||
