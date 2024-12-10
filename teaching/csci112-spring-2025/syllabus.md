@@ -38,26 +38,27 @@ location: "Bozeman, Montana"
 |Wednesday 01/29|[Functions]|3.1-3.5|||
 |Friday 01/31|[Functions] |3.1-3.5|||
 |<span style="color:red;">Week4</span>|||||
-|Monday 09/09|[Logical operators; if and switch statements] |4.1-4.8|||
-|Wednesday 09/11|[More logical operators; if and switch statements] |4.1-4.8|||
-|Friday 09/13|[Loops]|5.1-5.8|||
+|Monday 02/03|[Logical operators; if and switch statements] |4.1-4.8|||
+|Wednesday 02/05|[More logical operators; if and switch statements] |4.1-4.8|||
+|Friday 02/07|[Loops]|5.1-5.8|||
 |<span style="color:red;">Week5</span>|||||
-|Monday 09/16|[Loops]|5|||
-|Wednesday 09/18|[Conditional operator]|Appendix C-4, C-5|||
-|Friday 09/20|[Arrays]||||
+|Monday 02/10|[Loops]|5|||
+|Wednesday 02/12|[Conditional operator]|Appendix C-4, C-5|||
+|Friday 02/14|[Arrays]||||
 |<span style="color:red;">Week6</span>|||||
-|Monday 09/23|[Arrays]|7|||
-|Wednesday 09/25|[Arrays as function arguments]|7|||
-|Friday 09/27|[Searching, sorting arrays]|7|||
+|Monday 02/17|No class||||
+|Wednesday 02/19|[Arrays]|7|||
+|Friday 02/21|[Arrays as function arguments]|7|||
 |<span style="color:red;">Week7</span>|||||
-|Monday 09/30|[Pointers; file i/o]|6|||
-|Wednesday 10/02| 	[Pointers]|6|||
-|Friday 10/04| 	[More pointers]|6|| |
+|Monday 02/24|[Searching, sorting arrays]|7|||
+|Wednesday 02/26|[Pointers; file i/o]|6|||
+|Friday 02/28| 	[Pointers]|6|||
 |<span style="color:red;">Week8</span>|||||
-|Monday 10/07|[C type strings]|8|||
-|Wednesday 10/09| 	[C type strings])|8|||
-|Friday 10/11| 	[C type strings]|8|| 	|
+|Monday 03/03| 	[More pointers]|6|| |
+|Wednesday 03/05|[C type strings]|8|||
+|Friday 03/07| 	[C type strings])|8|||
 |<span style="color:red;">Week9</span>|||||
+|Friday 10/11| 	[C type strings]|8|| 	|
 |Monday 10/14|[Structs]|10|||
 |Wednesday 10/16|[Structs]|10|||
 |Friday 10/18|Structs|10|||
