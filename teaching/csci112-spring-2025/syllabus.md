@@ -34,10 +34,9 @@ location: "Bozeman, Montana"
 |Wednesday 01/22|[Intro to C]; more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
 |Friday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|
 |<span style="color:red;">Week3</span>|||||
-|Monday 01/27|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
-|Monday 09/02| No class ||||
-|Wednesday 09/04|[Functions]|3.1-3.5|||
-|Friday 09/06|[Functions] |3.1-3.5|||
+|Monday 01/27|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)||
+|Wednesday 01/29|[Functions]|3.1-3.5|||
+|Friday 01/31|[Functions] |3.1-3.5||[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 09/09|[Logical operators; if and switch statements] |4.1-4.8|||
 |Wednesday 09/11|[More logical operators; if and switch statements] |4.1-4.8|||
