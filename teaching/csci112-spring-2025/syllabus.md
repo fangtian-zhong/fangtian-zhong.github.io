@@ -3,25 +3,20 @@ title: "CSCI 112: Programming With C"
 collection: teaching
 type: "Undergraduate course"
 venue: "Montana State University, Computer Science"
-date: 2024-08-21
+date: 2025-01-15
 location: "Bozeman, Montana"
 ---
 
 ## Instructor
-     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 9:00am - 9:50am (not available during holiday/university day)
+     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 10:00am - 10:50am (not available during holiday/university day)
      
 ## TAs
-    Necz, Andras, email: andras.necz@student.montana.edu, office hours: Wednesdays, 11am - 1pm
      
 ## Lab Assistant
-    Sulzbacher, Nicholas, email:nicholas.sulzbacher@ecat1.montana.edu
-    Costello, Shane, email:shanecost2002@gmail.com 
 
 ## Announcement
-Class codes: [linklist.c](./programs/week12/wed/linklist.c) and [linklist1.c](./programs/week12/wed/linklist1.c)
 
-## Quiz11
-Quiz11 will cover content on week13 and week14. Please review the codes and slides provided.
+## Quiz
 
 ## Course schedule
 
@@ -32,16 +27,16 @@ Quiz11 will cover content on week13 and week14. Please review the codes and slid
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 08/21|[Intro & syllabus](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240821.pptx) / [course slack](https://join.slack.com/t/montana-izi8174/shared_invite/zt-2oyzs4ewy-5yrdf~RtrHUR6FVjKEcF~w)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork1)||
-|Friday 08/23|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork2)|
+|Wednesday 08/21|[Intro & syllabus]() / [course slack]()||
+|Friday 08/23|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
-|Monday 08/26|[Intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools), [codes in class](./lectures/add.c)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork3)|
-|Wednesday 08/28|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4)|
-|Friday 08/30|[More intro to C](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI_112_Programming_with_C_20240830.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab1)|
+|Monday 08/26|[Intro to C](); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools), [codes in class]()|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
+|Wednesday 08/28|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|
+|Friday 08/30|[More intro to C]()|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 09/02| No class ||||
-|Wednesday 09/04|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240904.pdf),codes:[divide_conquer.c](./programs/divide_conquer.c) and [print_area_circum.c](./programs/print_area_circum.c)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork5)||
-|Friday 09/06|[Functions](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240906.pdf), codes: [abs](./programs/abs.c) and [mathlib](./programs/mathlib.c)|3.1-3.5|quiz1|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab2)|
+|Wednesday 09/04|[Functions](),codes:[divide_conquer.c](./programs/divide_conquer.c) and [print_area_circum.c]()|3.1-3.5|[Classwork 5]()||
+|Friday 09/06|[Functions](), codes: |3.1-3.5|quiz1|[Lab 2]()|
 |<span style="color:red;">Week4</span>|||||
 |Monday 09/09|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240909.pdf);codes: [test.c](./programs/test.c) and [if_statement](./programs/if_statement.c) and [comparison.c](./programs/comparison.c)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork6)||
 |Wednesday 09/11|[More logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240911.pdf);codes: [cal_tax](./programs/cal_tax.c) and [ship](./programs/ship.c)|4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork7)|quiz2|
