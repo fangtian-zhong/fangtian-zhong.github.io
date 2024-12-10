@@ -86,13 +86,13 @@ location: "Bozeman, Montana"
 |Wednesday 04/23| 	[Memory profiling with valgrind]||||
 |Friday 04/25|[Bit operators; binary and hexadecimal]||||
 |<span style="color:red;">Week15</span>|||||
-|Monday 11/25|No Class||||
-|Wednesday 11/27|No Class||||
-|Friday 11/29|No Class||||
+|Monday 04/28|[Bit masking]||||
+|Wednesday 04/30|||||
+|Friday 05/02|||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 12/02|[Bit masking]||||
-|Wednesday 12/04|||||
-|Friday 12/06||| 	|
+|Monday 05/05|||||
+|Wednesday 05/07|||||
+|Friday 05/09||| 	|
 
 
 ## Catalog description
