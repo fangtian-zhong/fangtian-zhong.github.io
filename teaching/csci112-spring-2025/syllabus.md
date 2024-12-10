@@ -27,12 +27,12 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 08/21|[Intro & syllabus]() / [course slack]()||
-|Friday 08/23|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
+|Wednesday 01/15|[Intro & syllabus] / [course slack]()||
+|Friday 01/17|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
-|Monday 08/26|[Intro to C](); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
-|Wednesday 08/28|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|
-|Friday 08/30|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
+|Monday 01/20|[Intro to C]; more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
+|Wednesday 01/22|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|
+|Friday 01/24|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 09/02| No class ||||
 |Wednesday 09/04|[Functions]|3.1-3.5|||
