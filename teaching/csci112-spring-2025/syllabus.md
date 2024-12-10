@@ -74,18 +74,17 @@ location: "Bozeman, Montana"
 |Wednesday 04/02| [Command line arguments]|12|||
 |Friday 04/04|[Sorting an array of pointers]||||
 |<span style="color:red;">Week13</span>|||||
-|Friday 11/01|[Pointer arithmetic]||||
-|Monday 11/04| 	[Dynamic memory allocation]|13|||
-|Wednesday 11/06| [Dynamic data structures (Linked List)]|13|||
-|Friday 11/08| 	[Dynamic data structures (Linked List)]||| |
-|<span style="color:red;">Week13</span>|||||
-|Monday 11/11|No Class||||
-|Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)]||||
-|Friday 11/15|[Dynamic data structures (Dynamic Arrays)]||||
+|Monday 04/07|[Pointer arithmetic]||||
+|Wednesday 04/09| 	[Dynamic memory allocation]|13|||
+|Friday 04/11| [Dynamic data structures (Linked List)]|13|||
 |<span style="color:red;">Week14</span>|||||
-|Monday 11/18| 	[Memory profiling with valgrind]||||
-|Wednesday 11/20|[Bit operators; binary and hexadecimal]||||
-|Friday 11/22| ||||
+|Monday 04/14| 	[Dynamic data structures (Linked List)]||| |
+|Wednesday 04/16|[Dynamic data structures (Dynamic Arrays)]||||
+|Friday 04/18|No class||||
+|<span style="color:red;">Week14</span>|||||
+|Monday 04/21|[Dynamic data structures (Dynamic Arrays)]||||
+|Wednesday 04/23| 	[Memory profiling with valgrind]||||
+|Friday 04/25|[Bit operators; binary and hexadecimal]||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
 |Wednesday 11/27|No Class||||
