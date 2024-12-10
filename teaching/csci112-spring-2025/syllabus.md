@@ -62,33 +62,33 @@ location: "Bozeman, Montana"
 |Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
 |Friday 10/18|Structs: codes:[arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h).|10|quiz7|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
-|Monday 10/21|[Splitting C program into multiple files](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241021.pdf)||[Classwork 18](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork18)||
-|Wednesday 10/23|[Compilation review + Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241023.pdf)||[Classwork 19](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork19)||
-|Friday 10/25|[Makefiles](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241025.pdf)|||[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab9)|
+|Monday 10/21|[Splitting C program into multiple files]||||
+|Wednesday 10/23|[Compilation review + Makefiles]||||
+|Friday 10/25|[Makefiles]||||
 |<span style="color:red;">Week11</span>|||||
-|Monday 10/28| [Command line arguments](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241028.pdf)|12|[Classwork 20](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork20);quiz 8|Mid-course survey|
-|Wednesday 10/30|[Sorting an array of pointers](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241030.pdf);codes:[example.c](./programs/example.c)||[Classwork 21](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork21)||
-|Friday 11/01|[Pointer arithmetic](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241101.pdf)||[Classwork 22](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork22)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab10)|
+|Monday 10/28| [Command line arguments]|12|||
+|Wednesday 10/30|[Sorting an array of pointers]||||
+|Friday 11/01|[Pointer arithmetic]||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 11/04| 	[Dynamic memory allocation](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241104.pdf)|13|[Classwork 23](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork23)|quiz9|
-|Wednesday 11/06| [Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241106.pdf);codes: [linklist.c](./programs/week12/wed/linklist.c) and [linklist1.c](./programs/week12/wed/linklist1.c)|13|[Classwork 24](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork24)||
-|Friday 11/08| 	[Dynamic data structures (Linked List)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241108.pdf)||| 	[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab11)|
+|Monday 11/04| 	[Dynamic memory allocation]|13|||
+|Wednesday 11/06| [Dynamic data structures (Linked List)]|13|||
+|Friday 11/08| 	[Dynamic data structures (Linked List)]||| |
 |<span style="color:red;">Week13</span>|||||
 |Monday 11/11|No Class||||
-|Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||[Classwork 25](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork25)||
-|Friday 11/15|[Dynamic data structures (Dynamic Arrays)](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241113.pdf)||[Classwork 26](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork26)||
+|Wednesday 11/13|[Dynamic data structures (Dynamic Arrays)]||||
+|Friday 11/15|[Dynamic data structures (Dynamic Arrays)]||||
 |<span style="color:red;">Week14</span>|||||
-|Monday 11/18| 	[Memory profiling with valgrind](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241118.pdf)||[Classwork 27](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork27)||
-|Wednesday 11/20|[Bit operators; binary and hexadecimal](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241120.pdf)||[Classwork 28](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork28)||
-|Friday 11/22| ||| [Lab 12](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab12)|
+|Monday 11/18| 	[Memory profiling with valgrind]||||
+|Wednesday 11/20|[Bit operators; binary and hexadecimal]||||
+|Friday 11/22| ||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 11/25|No Class||||
 |Wednesday 11/27|No Class||||
 |Friday 11/29|No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Monday 12/02|[Bit masking](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241202.pdf)||[Classwork 29](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork29)||
-|Wednesday 12/04|No Class (Self Study)|||[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab13)|
-|Friday 12/06|||quiz12 (comprehensive)| 	|
+|Monday 12/02|[Bit masking]||||
+|Wednesday 12/04|||||
+|Friday 12/06||| 	|
 
 
 ## Catalog description
