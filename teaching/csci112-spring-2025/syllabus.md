@@ -38,11 +38,11 @@ location: "Bozeman, Montana"
 |Wednesday 09/04|[Functions](),codes:[divide_conquer.c](./programs/divide_conquer.c) and [print_area_circum.c]()|3.1-3.5|[Classwork 5]()||
 |Friday 09/06|[Functions](), codes: |3.1-3.5|quiz1|[Lab 2]()|
 |<span style="color:red;">Week4</span>|||||
-|Monday 09/09|[Logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240909.pdf);codes: [test.c](./programs/test.c) and [if_statement](./programs/if_statement.c) and [comparison.c](./programs/comparison.c)|4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork6)||
-|Wednesday 09/11|[More logical operators; if and switch statements](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240911.pdf);codes: [cal_tax](./programs/cal_tax.c) and [ship](./programs/ship.c)|4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork7)|quiz2|
-|Friday 09/13|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf);codes:[compound.c](./programs/compound.c) and [do_while.c](./programs/do_while.c) and [forloop.c](./programs/forloop.c)|5.1-5.8||[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab3)|
+|Monday 09/09|[Logical operators; if and switch statements]();codes: |4.1-4.8|[Classwork 6]()||
+|Wednesday 09/11|[More logical operators; if and switch statements]();codes: |4.1-4.8|[Classwork 7]()|quiz2|
+|Friday 09/13|[Loops]();codes:|5.1-5.8||[Lab 3]()|
 |<span style="color:red;">Week5</span>|||||
-|Monday 09/16|[Loops](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240913.pdf);codes:[factorial.c](./programs/factorial.c) and [sum.c](./programs/sum.c) and [nested_loop.c](./programs/nested_loop.c)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork8)||
+|Monday 09/16|[Loops]();codes:|5|[Classwork 8]()||
 |Wednesday 09/18|[Conditional operator](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240918.pdf);codes:[cond_operator.c](./programs/cond_operator.c) and [print_nums.c](./programs/print_nums.c) and [read_nums.c](./programs/read_nums.c) [redirection](./lectures/tools.md#redirection)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork9)|quiz3|
 |Friday 09/20|[Arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20240920.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
