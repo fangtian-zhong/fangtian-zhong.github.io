@@ -54,13 +54,13 @@ location: "Bozeman, Montana"
 |Wednesday 10/02| 	[Pointers]|6|||
 |Friday 10/04| 	[More pointers]|6|| |
 |<span style="color:red;">Week8</span>|||||
-|Monday 10/07|[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241007.pdf);|8|[Classwork 14](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork14)||
-|Wednesday 10/09| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241009.pdf);codes: [fgets.c](./programs/week8/wed/fgets.c) and [fgetsfile.c](./programs/week8/wed/fgetsfile.c) and [scanf.c](./programs/week8/wed/scanf.c) and [strassign.c](./programs/week8/wed/strassign.c) and [strcat.c](./programs/week8/wed/strcat.c) and [token.c](./programs/week8/wed/token.c)|8|[Classwork 15](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork15)||
-|Friday 10/11| 	[C type strings](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241011.pdf);codes: [pstr.c](./programs/week8/fri/pstr.c)|8|quiz6| 	[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab7)|
+|Monday 10/07|[C type strings]|8|||
+|Wednesday 10/09| 	[C type strings])|8|||
+|Friday 10/11| 	[C type strings]|8|| 	|
 |<span style="color:red;">Week9</span>|||||
-|Monday 10/14|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241014.pdf);codes:[planet.c](./programs/week9/mon/planet.c) and [student.c](./programs/week9/mon/student.c)|10|[Classwork 16](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork16)||
-|Wednesday 10/16|[Structs](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/ppts/CSCI112_20241016.pdf)|10|[Classwork 17](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork17)||
-|Friday 10/18|Structs: codes:[arraypointer.c](./programs/week9/fri/arraypointer.c) and [student.c](./programs/week9/fri/student.c) and [student.h](./programs/week9/fri/student.h).|10|quiz7|[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/labs/lab8)|
+|Monday 10/14|[Structs]|10|||
+|Wednesday 10/16|[Structs]|10|||
+|Friday 10/18|Structs|10|||
 |<span style="color:red;">Week10</span>|||||
 |Monday 10/21|[Splitting C program into multiple files]||||
 |Wednesday 10/23|[Compilation review + Makefiles]||||
