@@ -12,12 +12,11 @@ This page serves as a directory for the students I am working/ worked with.
 ## Undergrad Researcher
 
 1. Micheal Crapse:REU Scholars
-2. Jake Hopkins: 
-3. Jeff Simpson: 
-4. Hongyi Miao:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:  
-5. Zhuoyun Qian:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:
-6. Ollie Wold:
-7. Joseph Windmann:
+2. Jake Hopkins:
+3. Hongyi Miao:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:  
+4. Zhuoyun Qian:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:
+5. Ollie Wold:
+6. Joseph Windmann:
  
 
 ## Grad Researcher
@@ -33,6 +32,7 @@ This page serves as a directory for the students I am working/ worked with.
 6. Shahnaj Mou, M.S. student at Montana State University
 7. Oscar Oropeza, B.S. student at Montana State University
 8. [Leon Birdhat](): McNair Scholars, B.S. student at Montana State University
+9. Jeff Simpson: B.S. student at Montana State University
    
 ## Incoming Students
 1. Abolfazl Sharif Nia (Spring 2025)
