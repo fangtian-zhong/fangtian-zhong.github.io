@@ -30,7 +30,7 @@ This page serves as a directory for the students I am working/ worked with.
 5. Asibul Islam, M.S. student at Montana State University
 6. Shahnaj Mou, M.S. student at Montana State University
 7. Oscar Oropeza, B.S. student at Montana State University
-8. [Leon Birdhat](): McNair Scholars, B.S. student at Montana State University
+8. Leon Birdhat: McNair Scholars, B.S. student at Montana State University
 9. Jeff Simpson: B.S. student at Montana State University
 10. Jake Hopkins: B.S. student at Montana State University
   
