@@ -17,9 +17,9 @@ Perspective, IEEE Transactions on Information Forensics and Security (In Submiss
 
 Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Mengfei Ren, Xiuzhen Cheng. (2024) Vulnerability Analysis Across Platform Landscapes, ACM Computing Surveys (In Submission), **Core Rank A***
 
-Jianan Chen, Qin Hu, Fangtian Zhong, Yan Zhuang, Minghui Xu. (2024) Upcycling Noise for Federated Unlearning, IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
+Jianan Chen, Qin Hu, Fangtian Zhong, Yan Zhuang, Minghui Xu. (2024) [Upcycling Noise for Federated Unlearning](https://arxiv.org/abs/2412.05529), IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
-Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024) Improving Detection Accuracy of Data Poisoning Attacks, IEEE Cyber Awareness and Research Symposium, **Best Paper Award**
+Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024) [Improving Detection Accuracy of Data Poisoning Attacks](https://ieeexplore.ieee.org/abstract/document/10778755), IEEE Cyber Awareness and Research Symposium, **Best Paper Award**
 
 Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) [Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10757542), IEEE Conference on Vehicular Technology **Core Rank B**
 
