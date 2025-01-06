@@ -10,7 +10,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Jiguo Yu. (2024) Unveiling Malware Patterns: A Self-analysis
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2024) Unveiling Malware Patterns: A Self-analysis
 Perspective, IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security (In Submission), **Core Rank A***
