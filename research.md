@@ -21,7 +21,7 @@ Jianan Chen, Qin Hu, Fangtian Zhong, Yan Zhuang, Minghui Xu. (2024) Upcycling No
 
 Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024) Improving Detection Accuracy of Data Poisoning Attacks, IEEE Cyber Awareness and Research Symposium, **Best Paper Award**
 
-Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks, IEEE Conference on Vehicular Technology **Core Rank B**
+Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) [Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10757542), IEEE Conference on Vehicular Technology **Core Rank B**
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Cheng Zhang, Dinghao Wu✉. (2024) [BBSS: Scalable Malware Analysis Based on Basic Blocks](https://ieeexplore.ieee.org/document/10609414?source=authoralert), IEEE Transactions on Information Forensics and Security, **Core Rank A**
 
