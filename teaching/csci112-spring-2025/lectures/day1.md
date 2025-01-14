@@ -80,8 +80,8 @@ in this class, so I want them to have the opportunity to finish the assignments.
 * what's up with the optional final/labs?
 
 *Labs are optional because many students will be able to complete the lab
-assignments without additional help. Your quiz grade will be the maximum of
-your average quiz grade over the six in-class quizzes, or your final grade.
+assignments without additional help. Your quiz grade will be 
+your average quiz grade over the 12 in-class quizzes.
 This means that if you are happy with your quiz grade, you do not need to take
 the final.*
 
