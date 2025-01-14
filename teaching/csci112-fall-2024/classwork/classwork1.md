@@ -14,7 +14,7 @@ title: "Classwork 1: group syllabus activity"
 ## Assignment
 
 See
-[handout](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/first_day_activity_112.docx).
+[handout](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/first_day_activity_112.docx).
 
 ## Grading turnaround
 
@@ -23,4 +23,4 @@ Scores will be on D2L before the next class period.
 ## Results
 
 The questions, things people were looking forward to, and things people were
-worried about are recorded [here](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/lectures/day1).
+worried about are recorded [here](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/day1).
