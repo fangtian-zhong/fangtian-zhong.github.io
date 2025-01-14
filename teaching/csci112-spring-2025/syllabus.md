@@ -104,10 +104,10 @@ PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming
 ## Course Info
 
 This course meets for lectures on Mondays, Wednesdays, and Fridays from
-8:00-8:50am in Leon Johnson Hall 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes will be spent on small programming assignments (or on short quizzes). We will use Slack as the primary method of course communication, and all course information will be posted on this website or on the Slack server; D2L will
+9:00-9:50am in REID HALL 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes may be spent on  short quizzes. We will use Slack as the primary method of course communication, and all course information will be posted on this website or on the Slack server; D2L will
 be used *only* for grading.
 
-There is an *optional* lab on Fridays from 12:00pm to 4:00 pm in ROBERT 111 that you may attend to get extra help.
+There is an *optional* lab on Fridays from 10:00am to 4:00 pm in BARNARD HALL 254 that you may attend to get extra help.
 
 Note that this class is for Computer Science and Computer Engineering majors.
 If you are not one of those majors, you should take CSCI 109 instead of this
@@ -129,7 +129,7 @@ You can find free PDFs of the textbook online.
 
 We have a shared course server for you to develop, compile, and run your C
 programs on. Details for how to access the server can be found on the [lecture 1
-page](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/tools).
+page](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools).
 
 ### Optional open lab and TAs
 
@@ -141,7 +141,7 @@ when no lab is due, there will still be TAs in the lab to help you.
 ### Instructor office hours
 
 My office hours are 9:00am-9:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
-different meeting time, and join the slack by [the link](https://join.slack.com/t/montana-izi8174/shared_invite/zt-2oyzs4ewy-5yrdf~RtrHUR6FVjKEcF~w), or drop by my office (Barnard 352) if my door is open.
+different meeting time, and join the slack by [the link](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA), or drop by my office (Barnard 356) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
 ### SmartyCats
@@ -173,9 +173,10 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 29 classwork assignments (lowest five dropped): 20%
+* 27 classwork assignments (lowest three dropped): 15%
 * 13 labs (lowest two dropped): 40%
-* 12 in-class quizzes (lowest two dropped): 40%
+* 12 in-class quizzes (lowest two dropped): 30%
+* Attendance: 15%
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -186,19 +187,9 @@ There are three ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
-If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-in-course-material` channel on Slack. I will decide whether
+If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-capture` channel on Slack. I will decide whether
 it's truly an error and not a duplicate. If it is really an error, you get a
 quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
-
-#### Additional work throughout the semester
-
-Since five classworks, two labs and two quizzes are dropped, your work on dropped
-assignments may
-be counted as a bonus. You get:
-
-* 0.5 point for a score of 80% or more on any lab beyond your required 11, and
-* 0.1 point for any completed classwork beyond your required 24.
-* 0.5 point for a score of 80% or more on any quiz beyond your required 10
 
 #### Course survey and evaluation
 
