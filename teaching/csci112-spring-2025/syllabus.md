@@ -27,7 +27,7 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 01/15|[Intro & syllabus](./lectures/ppts/CSCI_112_Programming_with_C_20240115.pdf) / [course slack](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA)||
+|Wednesday 01/15|[Intro & syllabus](./lectures/ppts/CSCI_112_Programming_with_C_20240115.pdf) / [course slack](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA)|[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork1)|
 |Friday 01/17|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
 |Monday 01/20|No class|||
