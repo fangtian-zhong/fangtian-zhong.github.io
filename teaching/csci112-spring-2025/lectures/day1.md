@@ -16,10 +16,7 @@ assignments.*
 
 * how best to prepare for class quizzes
 
-*My plan is for the quizzes to be easy enough that if you are doing the
-classwork and labs, you should get close to 100% even without spending extra
-time studying. If you aren't able to do the classwork or labs without
-significant help, whether that's from humans or from Googling/using generative
+*My plan is for the quizzes to be hard enough that you have a deep understanding of the C programming language. If you aren't able to do the classwork or labs without significant help, whether that's from humans or from Googling/using generative
 AI, then you should review the lectures and consider getting extra help.*
 
 * are quizzes on computer or paper? **
