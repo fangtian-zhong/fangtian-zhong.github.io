@@ -4,9 +4,9 @@ title: "Classwork 3: Hello, world!"
 ---
 
 ## Logistics
-* Due: Monday, August 26th AoE (Tuesday 6am Bozeman time).
+* Due: Monday, January 22nd AoE (Tuesday 6am Bozeman time).
 * Submission instructions: make sure that the required file (`hello_world.c`) is in your
-	`csci112_fall2024/classwork/week2/mon/` directory.
+	`csci112_spring2025/classwork/week2/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -21,7 +21,7 @@ for help in any way, including use of AI tools like ChatGPT.
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week2/mon/` creating directories `week2` and `mon` if necessary.
+* From your home directory, navigate to `csci112_spring2025/classwork/week2/mon/` creating directories `week2` and `mon` if necessary.
 * Inside this directory, create a file called `hello_world.c`.
 * Type or paste the following:
 
@@ -43,7 +43,7 @@ int main(void) {
 
 * You can run the autograder by running
 ```
-/public/classwork/week2/mon/autograder.sh
+/public/classwork/week2/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
