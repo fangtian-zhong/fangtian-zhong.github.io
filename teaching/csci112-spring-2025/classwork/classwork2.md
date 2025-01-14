@@ -4,9 +4,9 @@ title: "Classwork 2: Getting started with Linux, vim, and the course server"
 ---
 
 ## Logistics
-* Due: Friday, August 23th AoE (Saturday 6am Bozeman time).
+* Due: Friday, January 17th AoE (Saturday 6am Bozeman time).
 * Submission instructions: make sure that the required file is in your
-	`csci112_fall2024/classwork/week1/fri/` directory.
+	`csci112_spring2025/classwork/week1/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 * You get 10 points if your file is in the correct place with the correct name
@@ -33,8 +33,8 @@ ssh <netid>@csci112vm.cs.montana.edu
 ```
 
 * Enter your netid password when prompted.
-* Use `mkdir` to create a `csci112_fall2024` directory.
-* Use `cd` to navigate into the `csci112_fall2024` directory.
+* Use `mkdir` to create a `csci112_spring2025` directory.
+* Use `cd` to navigate into the `csci112_spring2025` directory.
 * Use `mkdir` to create a `classwork` directory.
 * Use `cd` to navigate into the `classwork` directory.
 * Repeat the same process to create a `week1` directory and navigate into it.
