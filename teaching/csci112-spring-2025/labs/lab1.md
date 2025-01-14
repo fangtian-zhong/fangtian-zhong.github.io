@@ -4,18 +4,17 @@ title: "Lab 1"
 ---
 
 ## Logistics
-* Due: Friday, August 30th AoE.
+* Due: Friday, January 24th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab1.c` in your `~/csci112_fall2024/labs/lab1`
+	grade in a file called `lab1.c` in your `~/csci112_spring2025/labs/lab1`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
+	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
 
 ## Outside resources
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12:10am-2pm or 2:10pm-4pm in
-ROBERTS 111) or post in Slack to
+are having trouble writing your program, please go to lab (Fridays, 10am-4pm in BARNARD 254) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -34,7 +33,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-In a file called `lab1.c` in your `csci112_fall2024/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
+In a file called `lab1.c` in your `csci112_fall2025/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
 Celsius) given the elapsed time (hours) since a power failure. Assume this
 temperature (T) is given by
 
@@ -100,4 +99,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Wednesday, September 6th.
+Scores will be uploaded to D2L by class time on Wednesday, January 29th.
