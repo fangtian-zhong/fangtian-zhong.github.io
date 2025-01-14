@@ -126,7 +126,7 @@ the final.*
 * Pointers *
 * Memory management \*\*\*\*\*
 * using command line *
-* class at 8am \*\*\*\*\*\*\*\*\*\*\*\*\*\*
+* class at 9am \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 * classwork
 * accidentally using code from a different (language?)
 * time management
