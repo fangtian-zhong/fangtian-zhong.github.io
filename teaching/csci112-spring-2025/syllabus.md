@@ -27,11 +27,11 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 01/15|[Intro & syllabus](./lectures/ppts/CSCI_112_Programming_with_C_20240115.pdf) / [course slack](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork1)|
+|Wednesday 01/15|[Intro & syllabus](./lectures/ppts/CSCI_112_Programming_with_C_20250115.pdf) / [course slack](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork1)|
 |Friday 01/17|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
 |Monday 01/20|No class|||
-|Wednesday 01/22|[Intro to C]; more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
+|Wednesday 01/22|[Intro to C](./lectures/ppts/CSCI112_20250122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
 |Friday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/27|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)||
