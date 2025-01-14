@@ -27,8 +27,7 @@ AI, then you should review the lectures and consider getting extra help.*
 
 *Grade-wise, you only need to be in class for the quizzes, and in fact, you
 could not take any of the quizzes and just take the final instead. Most people
-will have a better chance of succeeding in the class by coming to lecture, but
-it is possible to do it all online.*
+will have a better chance of succeeding in the class by coming to lecture.*
 
 * what does the homework look like
 
