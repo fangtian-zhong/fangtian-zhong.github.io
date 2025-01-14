@@ -33,7 +33,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-In a file called `lab1.c` in your `csci112_fall2025/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
+In a file called `lab1.c` in your `csci112_spring2025/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
 Celsius) given the elapsed time (hours) since a power failure. Assume this
 temperature (T) is given by
 
