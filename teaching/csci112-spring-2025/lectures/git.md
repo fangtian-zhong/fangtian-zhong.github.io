@@ -41,7 +41,7 @@ csci112_spring2025/
 │   │       ├── autograder.txt
 │   │       └── example.txt
 │   └── week2
-│       └── mon
+│       └── wed
 │           ├── autograder.txt
 │           ├── hello_world.c
 │           └── out.txt
@@ -163,9 +163,9 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 	new file:   classwork/week1/fri/autograder.txt
 	new file:   classwork/week1/fri/example.txt
-	new file:   classwork/week2/mon/autograder.txt
-	new file:   classwork/week2/mon/hello_world.c
-	new file:   classwork/week2/mon/out.txt
+	new file:   classwork/week2/wed/autograder.txt
+	new file:   classwork/week2/wed/hello_world.c
+	new file:   classwork/week2/wed/out.txt
 ```
 This means that all of the files in your repository have been staged.
 
@@ -181,9 +181,9 @@ And then we see a message like this:
  5 files changed, 30 insertions(+)
  create mode 100644 classwork/week1/fri/autograder.txt
  create mode 100644 classwork/week1/fri/example.txt
- create mode 100644 classwork/week2/mon/autograder.txt
- create mode 100644 classwork/week2/mon/hello_world.c
- create mode 100644 classwork/week2/mon/out.txt
+ create mode 100644 classwork/week2/wed/autograder.txt
+ create mode 100644 classwork/week2/wed/hello_world.c
+ create mode 100644 classwork/week2/wed/out.txt
 ```
 Running `git status` again shows that we have no unsaved changes:
 ```
@@ -198,7 +198,7 @@ to see a history of all of  our commits. In this case, it looks something like
 ```
 commit 9a8c77c95593a302436dfb9509663658271f43e9 (HEAD -> master)
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Sun Jan 10 18:40:50 2025 -0600
+Date:   Fri Jan 10 18:40:50 2025 -0600
 
     Add previous classworks
 ```
@@ -223,7 +223,7 @@ and see
 ```
 commit 2c82f20e9b41b4fe09b6c142d381dce32f95abe3 (HEAD -> master, tag: example_tag)
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Thu Jan 26 19:55:31 2025 -0700
+Date:   Fri Jan 10 19:55:31 2025 -0700
 
     Add example.txt file
 ```
@@ -250,25 +250,25 @@ run `git log` and see something like this:
 [g73x595@csci112 csci112_spring2025]$ git log
 commit 71203455057227331ac8384f3f2c2a1910ef5094 (HEAD -> master)
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Fri Feb 10 09:08:12 2025 -0700
+Date:   Fri Jan 10 09:08:12 2025 -0700
 
     Add a example file
 
 commit aa08bd749ec35221abd90ce0908fa7279714e3c1 (origin/master)
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Wed Feb 8 16:38:34 2025 -0700
+Date:   Fri Jan 10 16:38:34 2025 -0700
 
     Update
 
 commit 3601b167efb9a1c6ed3f384c55a720c740f4ab07
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Thu Jan 26 20:19:37 2025 -0700
+Date:   Fri Jan 10 20:19:37 2025 -0700
 
     lab1
 
 commit 5170dff5f9795001a837407645ed55cae24e43d9
 Author: fangtian.zhong <fangtian.zhong@montana.edu>
-Date:   Thu Jan 26 20:18:53 2025 -0700
+Date:   Fri Jan 10 20:18:53 2025 -0700
 
     Update
 ```
