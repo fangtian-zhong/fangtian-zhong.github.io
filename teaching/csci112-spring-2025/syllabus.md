@@ -133,14 +133,14 @@ page](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/too
 
 ### Optional open lab and TAs
 
-There is an optional lab on Fridays from 12:00 to 16:00 pm in ROBERT 111.
-*Note that there is no lab during the first week of classes (Friday, August 23rd)!* However, after this week, even
+There is an optional lab on Fridays from 10:00 to 16:00 pm in BARNARD HALL 254.
+*Note that there is no lab during the first week of classes (Friday, January 17th)!* However, after this week, even
 when no lab is due, there will still be TAs in the lab to help you.
 
 
 ### Instructor office hours
 
-My office hours are 9:00am-9:50am on Mondays, Wednesdays and Fridays in the Barnard 352. You can also contact me on Slack to set up a
+My office hours are 10:00am-10:50am on Mondays, Wednesdays and Fridays in the Barnard 356. You can also contact me on Slack to set up a
 different meeting time, and join the slack by [the link](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA), or drop by my office (Barnard 356) if my door is open.
 You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
 
@@ -243,9 +243,9 @@ In line with the [MSU student code of conduct](https://www.montana.edu/policy/st
 ## Important dates
 
 The last day to drop the course online (with no instructor or advisor approval)
-is September 4th. The last day to drop without a W grade (instructor or advisor
-approval required) is September 11th. The last day to drop with a W grade
-(instructor and advisor approval required) is November 13th. See the full
+is January 28th. The last day to drop without a W grade (instructor or advisor
+approval required) is Feburary 4th. The last day to drop with a W grade
+(instructor and advisor approval required) is April 16th. See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
