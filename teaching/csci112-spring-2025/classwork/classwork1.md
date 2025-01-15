@@ -1,12 +1,11 @@
 ---
 collection: teaching
-title: "Classwork 1: group syllabus activity"
+title: "Classwork 1: syllabus activity"
 ---
 
 ## Logistics
-* Due: end of class on Wednesday, January 15th.
-* Submission instructions: make sure that your name is listed at the top of
-	your group's hand out and it is turned in.
+* Due: Wednesday, January 15th, AOE.
+* Submission instructions: make sure that you submit it to D2L. This is only assignment that needs to submit to D2L.
 
 ## Learning outcomes
 * Understand the course syllabus and structure.
