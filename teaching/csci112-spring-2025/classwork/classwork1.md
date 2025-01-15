@@ -5,7 +5,7 @@ title: "Classwork 1: syllabus activity"
 
 ## Logistics
 * Due: Wednesday, January 15th, AOE.
-* Submission instructions: make sure that you submit it to D2L. This is only assignment that needs to be submited to D2L.
+* Submission instructions: make sure that you submit it to D2L. This is only assignment that needs to be submitted to D2L.
 
 ## Learning outcomes
 * Understand the course syllabus and structure.
