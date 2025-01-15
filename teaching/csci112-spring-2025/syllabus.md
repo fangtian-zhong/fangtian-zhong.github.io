@@ -98,7 +98,7 @@ location: "Bozeman, Montana"
 ## Catalog description
 
 3 Credits.
-PREREQUISITE: CSCI 127. Programming knowledge. Introduces imperative programming and the C standard library. Course covers pointers, memory management and structures.
+PREREQUISITE: CSCI 127 Joy and Beauty of Data. Introduces imperative programming and the C standard library. Course covers pointers, memory management and structures.
 
 
 ## Course Info
