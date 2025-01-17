@@ -15,6 +15,33 @@ location: "Bozeman, Montana"
 ## Lab Assistant
 
 ## Announcement
+A peer note taker is needed in this course. Taking notes for another student benefits both students.  Note takers usually find the quality of their notes improves when they know someone else will be reading them.  They may include this service on a resume, and know they are delivering a needed accommodation for a fellow student.
+
+To be a peer note taker, you should meet these three criteria:
+
+• Commit to regularly attend class
+
+• Type all notes during or after class. Math and some science courses may be handwritten and scanned
+
+• Be in good academic standing and have strong note taking skills
+
+This position is PAID, and more hours may be available outside of the regular class time. You must have identification for hiring purposes immediately available (passport OR driver's license, military or state identification AND social security card or birth certificate) 
+
+If you meet these criteria and are interested in this paid position, please contact the Office of Disability Services in person 137 Romney Hall, notetaking@montana.edu or 406-994-2824.
+
+ 
+
+ACCOMMODATION-RECEIVING STUDENT RESPONSIBILITIES:
+
+ 
+
+Students must attend class regularly in order to receive notes unless otherwise notified by ODS staff.
+
+Students should show instructors their blue card and talk about the appropriateness of note taking assistance in their class.
+
+Students are told to contact ODS as soon as possible if they are having any difficulty with their note taking request.
+
+
 
 ## Quiz
 
