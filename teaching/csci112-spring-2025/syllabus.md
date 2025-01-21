@@ -63,7 +63,7 @@ Students are told to contact ODS as soon as possible if they are having any diff
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/27|[More intro to C]|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)||
 |Wednesday 01/29|[Functions]|3.1-3.5|||
-|Friday 01/31|[Functions] |3.1-3.5|||
+|Friday 01/31|[Functions] |3.1-3.5|Quiz1||
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/03|[Logical operators; if and switch statements] |4.1-4.8|||
 |Wednesday 02/05|[More logical operators; if and switch statements] |4.1-4.8|||
