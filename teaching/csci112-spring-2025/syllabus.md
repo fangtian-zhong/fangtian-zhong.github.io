@@ -46,7 +46,7 @@ Students are told to contact ODS as soon as possible if they are having any diff
 
 
 ## Quiz
-
+Quiz 1 will cover Linux commands, Github commands and basic grammar about writing a C program.
 ## Course schedule
 
 <!---
