@@ -4,7 +4,7 @@ title: "Classwork 3: Hello, world!"
 ---
 
 ## Logistics
-* Due: Wednesday, January 22nd AoE (Tuesday 6am Bozeman time).
+* Due: Wednesday, January 22nd AoE (Thursday 6am Bozeman time).
 * Submission instructions: make sure that the required file (`hello_world.c`) is in your
 	`csci112_spring2025/classwork/week2/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
