@@ -39,7 +39,7 @@ Quiz 1 will cover Linux commands, Github commands and basic grammar about writin
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/27|[More intro to C](./lectures/ppts/CSCI112_20250127.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)||
 |Wednesday 01/29|[Functions](./lectures/ppts/CSCI112_20250129.pdf)|3.1-3.5|||
-|Friday 01/31|[Functions](./lectures/ppts/CSCI112_20250131.pdf) |3.1-3.5|Quiz1|Lab 2|
+|Friday 01/31|[Functions](./lectures/ppts/CSCI112_20250131.pdf) |3.1-3.5|Quiz1|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/03|[Logical operators; if and switch statements] |4.1-4.8|||
 |Wednesday 02/05|[More logical operators; if and switch statements] |4.1-4.8|||
