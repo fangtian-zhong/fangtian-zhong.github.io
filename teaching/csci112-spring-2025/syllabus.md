@@ -92,10 +92,6 @@ Quiz 1 will cover Linux commands, Github commands and basic grammar about writin
 |Monday 04/28|[Bit masking]||||
 |Wednesday 04/30|||||
 |Friday 05/02|||||
-|<span style="color:red;">Week16</span>|||||
-|Monday 05/05|||||
-|Wednesday 05/07|||||
-|Friday 05/09||| 	|
 
 
 ## Catalog description
