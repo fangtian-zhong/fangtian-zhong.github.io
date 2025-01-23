@@ -12,14 +12,15 @@ This page serves as a directory for the students I am working/ worked with.
 ## Undergrad Researcher
 
 1. Micheal Crapse:REU Scholars
-2. Hongyi Miao:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:  
-3. Zhuoyun Qian:{NENU, co-advise with Dr. [Yili Jiang](https://canlabgo.github.io/YiliJIANG/)}:
+2. Hongyi Miao: 
+3. Zhuoyun Qian:
 4. Ollie Wold:
 5. Joseph Windmann:
  
 
 ## Grad Researcher
 1. Prakriti Baral, Benjamin Fellowship Awardee
+2. András Necz
 
 ## Alumni
 
