@@ -43,10 +43,10 @@ Quiz 1 will cover Linux commands, Github commands and basic grammar about writin
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/03|[Logical operators; if and switch statements] |4.1-4.8|||
 |Wednesday 02/05|[More logical operators; if and switch statements] |4.1-4.8|||
-|Friday 02/07|[Loops]|5.1-5.8|||
+|Friday 02/07|[Conditional operator]|5.1-5.8|||
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/10|[Loops]|5|||
-|Wednesday 02/12|[Conditional operator]|Appendix C-4, C-5|||
+|Wednesday 02/12|[Loops]|Appendix C-4, C-5|||
 |Friday 02/14|[Arrays]||||
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/17|No class||||
