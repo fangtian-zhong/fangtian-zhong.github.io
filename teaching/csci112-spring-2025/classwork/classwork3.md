@@ -21,7 +21,7 @@ for help in any way, including use of AI tools like ChatGPT.
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2025/classwork/week2/mon/` creating directories `week2` and `wed` if necessary.
+* From your home directory, navigate to `csci112_spring2025/classwork/week2/wed/` creating directories `week2` and `wed` if necessary.
 * Inside this directory, create a file called `hello_world.c`.
 * Type or paste the following:
 
