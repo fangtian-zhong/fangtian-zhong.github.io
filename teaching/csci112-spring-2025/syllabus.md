@@ -39,7 +39,7 @@ Quiz 1 will cover Linux commands, Github commands and basic grammar about writin
 |<span style="color:red;">Week2</span>|||||
 |Monday 01/20|No class|||
 |Wednesday 01/22|[Intro to C](./lectures/ppts/CSCI112_20250122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools), [video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cc992a4-8f45-46d8-bb38-b26d01078195)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
-|Friday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
+|Friday 01/24|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/git);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e70175c3-2a61-4810-b03c-b26f0107832a)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/27|[More intro to C](./lectures/ppts/CSCI112_20250127.pdf)|2.1-2.6|[Practice Quiz (ungraded)](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/quizzes/practice.pdf)||
 |Wednesday 01/29|[Functions](./lectures/ppts/CSCI112_20250129.pdf)|3.1-3.5|[Classwork 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork5)||
