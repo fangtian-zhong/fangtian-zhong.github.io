@@ -4,7 +4,7 @@ title: "Classwork 7"
 ---
 
 ## Logistics
-* Due: Wednesday, September 11th AoE.
+* Due: Wednesday, Feburary 5th AoE.
 * Submission instructions: make sure that the required file (`cscigrade.c`) is in your
 	`/classwork/week4/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
