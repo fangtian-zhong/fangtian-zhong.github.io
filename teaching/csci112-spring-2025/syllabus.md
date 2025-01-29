@@ -47,7 +47,7 @@ Quiz 1 will cover Linux commands, Github commands and basic grammar about writin
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/03|[Logical operators; if and switch statements](./lectures/ppts/CSCI112_20250203.pdf) |4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork6)||
 |Wednesday 02/05|[More logical operators; if and switch statements](./lectures/ppts/CSCI112_20250205.pdf) |4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork7)||
-|Friday 02/07|[Conditional operator](./lectures/ppts/CSCI112_20250207.pdf)|5.1-5.8|Quiz2|[Lab 3]|
+|Friday 02/07|[Conditional operator](./lectures/ppts/CSCI112_20250207.pdf)|5.1-5.8|Quiz2|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/10|[Loops]|5|||
 |Wednesday 02/12|[Loops]|Appendix C-4, C-5|||
