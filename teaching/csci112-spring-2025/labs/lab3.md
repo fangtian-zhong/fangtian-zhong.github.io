@@ -4,9 +4,9 @@ title: "Lab 3"
 ---
 
 ## Logistics
-* Due: Friday, September 13th AoE.
+* Due: Friday, Feburary 7th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab3.c` in your `~/csci112_fall2024/labs/lab3`
+	grade in a file called `lab3.c` in your `~/csci112_spring2025/labs/lab3`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab3`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
 
@@ -14,8 +14,8 @@ title: "Lab 3"
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4pm in
-Roberts 111) or post in Slack to
+are having trouble writing your program, please go to lab (Fridays, 10-4pm in
+Barnard 254) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -83,7 +83,7 @@ observed substance is water.
 
 ```
 [g73x595@csci112 lab3]$ pwd
-/home/g73x595/csci112_fall2024/labs/lab3
+/home/g73x595/csci112_spring2025/labs/lab3
 [g73x595@csci112 lab3]$ gcc -o lab3 -Wall lab3.c
 [g73x595@csci112 lab3]$ ./lab3
 Observed boiling point (in deg. C)? 101
@@ -166,4 +166,4 @@ You can run the autograder using
 A detailed breakdown of your score will be present in `autograder.txt`.
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Monday, September 16th.
+Scores will be uploaded to D2L by class time on Monday, Feburary 10th.
