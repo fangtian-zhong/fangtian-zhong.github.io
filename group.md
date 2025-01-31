@@ -12,10 +12,10 @@ This page serves as a directory for the students I am working/ worked with.
 ## Undergrad Researcher
 
 1. Micheal Crapse:REU Scholars
-2. Hongyi Miao: 
-3. Zhuoyun Qian:
-4. Ollie Wold:
-5. Joseph Windmann:
+2. Hongyi Miao
+3. Zhuoyun Qian
+4. Ollie Wold
+5. Joseph Windmann
 6. Shengjie Wu
  
 
@@ -37,4 +37,4 @@ This page serves as a directory for the students I am working/ worked with.
 10. Jake Hopkins: B.S. student at Montana State University
   
 ## Incoming Students
-1. Abolfazl Sharif Nia (Spring 2025)
+1. Abolfazl Sharif Nia (Fall 2025)
