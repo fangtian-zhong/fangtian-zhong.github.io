@@ -16,6 +16,7 @@ This page serves as a directory for the students I am working/ worked with.
 3. Zhuoyun Qian:
 4. Ollie Wold:
 5. Joseph Windmann:
+6. Shengjie Wu
  
 
 ## Grad Researcher
