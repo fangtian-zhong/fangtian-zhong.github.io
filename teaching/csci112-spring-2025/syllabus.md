@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz 1 will cover Linux commands, Github commands and basic grammar about writing a C program.
+Quiz 2 will cover Github commands, basic grammar, and logical operators. 
 ## Course schedule
 
 <!---
