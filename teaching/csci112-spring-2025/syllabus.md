@@ -55,7 +55,7 @@ Quiz 2 will cover Github commands, basic grammar, and logical operators.
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/17|No class||||
 |Wednesday 02/19|[Arrays]|7|||
-|Friday 02/21|[Arrays as function arguments]|7|||
+|Friday 02/21|[Arrays as function arguments]|7|Quiz 3||
 |<span style="color:red;">Week7</span>|||||
 |Monday 02/24|[Searching, sorting arrays]|7|||
 |Wednesday 02/26|[Pointers; file i/o]|6|||
