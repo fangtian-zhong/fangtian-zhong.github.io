@@ -51,7 +51,7 @@ Quiz 2 will cover Github commands, basic grammar, and logical operators.
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/10|[Loops](./lectures/ppts/CSCI112_20250210.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork8)||
 |Wednesday 02/12|[Loops](./lectures/ppts/CSCI112_20250212.pdf)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork9)||
-|Friday 02/14|[Arrays](./lectures/ppts/CSCI112_20250214.pdf)||||
+|Friday 02/14|[Arrays](./lectures/ppts/CSCI112_20250214.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/17|No class||||
 |Wednesday 02/19|[Arrays]|7|||
