@@ -46,7 +46,7 @@ Quiz 2 will cover Github commands, basic grammar, and logical operators.
 |Friday 01/31|[Functions](./lectures/ppts/CSCI112_20250131.pdf) |3.1-3.5|Quiz1|[Lab 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab2)|
 |<span style="color:red;">Week4</span>|||||
 |Monday 02/03|[Logical operators; if and switch statements](./lectures/ppts/CSCI112_20250203.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=713c42e7-97cb-47af-95bb-b27901073703) |4.1-4.8|[Classwork 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork6)||
-|Wednesday 02/05|[More logical operators; if and switch statements](./lectures/ppts/CSCI112_20250205.pdf) |4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork7)||
+|Wednesday 02/05|[More logical operators; if and switch statements](./lectures/ppts/CSCI112_20250205.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8fe17360-1e80-41ed-a9e4-b27b010799b1) |4.1-4.8|[Classwork 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork7)||
 |Friday 02/07|[Conditional operator](./lectures/ppts/CSCI112_20250207.pdf)|5.1-5.8|Quiz2|[Lab 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab3)|
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/10|[Loops](./lectures/ppts/CSCI112_20250210.pdf)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork8)||
