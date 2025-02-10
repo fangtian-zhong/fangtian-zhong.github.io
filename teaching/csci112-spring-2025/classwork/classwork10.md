@@ -4,9 +4,9 @@ title: "Classwork 10"
 ---
 
 ## Logistics
-* Due: Monday, September 23rd AoE.
+* Due: Wednesday, February 19th AoE.
 * Submission instructions: make sure that the required file (`2d.c`) is in your
-	`/classwork/week6/mon/` directory.
+	`/classwork/week6/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,11 +16,11 @@ title: "Classwork 10"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2024` directory, navigate to `classwork/week6/mon/`, creating directories `week6` and `mon` if necessary.
+* From your `csci11_spring2025` directory, navigate to `classwork/week6/wed/`, creating directories `week6` and `wed` if necessary.
 * Inside this directory, create a file called `2d.c`. In it, write a
 	program solving the following problem.
 * Note that you can optionally start from the code in
-	`/public/classwork/week6/mon/starter.c`.
+	`/public/classwork/week6/wed/starter.c`.
 
 Write a program that creates a 3 by 5 array of integers and uses it to store data from
 `stdin`. Specifically, you should use `scanf` to read the integers. For
@@ -43,14 +43,14 @@ program as you are developing it. Specifically, if you compiled your source
 code into a file called `exe`, you would run
 
 ```
-./exe < /public/classwork/week6/mon/input.txt
+./exe < /public/classwork/week6/wed/input.txt
 ```
 
 For example, compiling and running your program should look like this:
 
 ```
 [g73x595@csci112 mon]$ gcc -o exe -Wall 2d.c
-[g73x595@csci112 mon]$ ./exe < /public/classwork/week6/mon/input.txt
+[g73x595@csci112 mon]$ ./exe < /public/classwork/week6/wed/input.txt
 Row 0 has total 50.
 Row 1 has total 71.
 Row 2 has total 123.
@@ -58,7 +58,7 @@ Row 2 has total 123.
 
 You can run the autograder by running
 ```
-/public/classwork/week6/mon/autograder.sh
+/public/classwork/week6/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
