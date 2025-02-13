@@ -38,7 +38,7 @@ the input.
 
 After saving the data in the array, print the sum of the numbers in each row.
 
-You can use redirection (`<`) with the file in `/public/classwork/week6/mon/input.txt` to test your
+You can use redirection (`<`) with the file in `/public/classwork/week6/wed/input.txt` to test your
 program as you are developing it. Specifically, if you compiled your source
 code into a file called `exe`, you would run
 
