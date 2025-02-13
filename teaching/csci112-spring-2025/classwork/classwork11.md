@@ -4,9 +4,9 @@ title: "Classwork 11"
 ---
 
 ## Logistics
-* Due: Friday, February 21st AoE.
+* Due: Monday, February 24th AoE.
 * Submission instructions: make sure that the required file (`sum.c`) is in your
-	`/classwork/week6/fri/` directory.
+	`/classwork/week7/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 11"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2025` directory, navigate to `classwork/week6/fri/`, creating directories `week6` and `fri` if necessary.
-* Copy the file `/public/classwork/week6/fri/sum.c` to your
-	`csci11_spring2025/classwork/week6/fri` directory.
+* From your `csci11_spring2025` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
+* Copy the file `/public/classwork/week7/mon/sum.c` to your
+	`csci11_spring2025/classwork/week7/mon` directory.
 
 Write the function `cumulative_sum` to match the call in `main`; that is, it
 must take in two double arrays and an integer.
@@ -41,7 +41,7 @@ third entry is 65.4+76.8+9.2=151.40, etc.
 
 You can run the autograder by running
 ```
-/public/classwork/week6/fri/autograder.sh
+/public/classwork/week7/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
