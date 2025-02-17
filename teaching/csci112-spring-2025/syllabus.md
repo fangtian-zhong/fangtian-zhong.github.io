@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz 2 will cover Github commands, basic grammar, and logical operators. 
+Quiz3 will cover logical operators and loops. 
 ## Course schedule
 
 <!---
