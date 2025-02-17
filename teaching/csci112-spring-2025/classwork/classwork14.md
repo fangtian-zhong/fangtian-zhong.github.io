@@ -4,9 +4,9 @@ title: "Classwork 14"
 ---
 
 ## Logistics
-* Due: Tuesday, October 8th AoE.
+* Due: Wednesday, March 5th AoE.
 * Submission instructions: make sure that the required file (`read.c`) is in your
-	`/classwork/week8/mon/` directory.
+	`/classwork/week8/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -17,8 +17,8 @@ title: "Classwork 14"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2024` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
-* Copy the file `read.c` from the `/public/classwork/week8/mon`
+* From your `csci11_spring2025` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
+* Copy the file `read.c` from the `/public/classwork/week8/wed`
 	directory.
 
 In the file `read.c`, fill in the three `TODO` lines. You should only need to
@@ -26,8 +26,8 @@ add three lines to the file. Once you have fixed the three todos, you should be
 able to compile and run the executable like so:
 
 ```
-[g73x595@csci112 mon]$ gcc read.c -Wall
-[g73x595@csci112 mon]$ ./a.out
+[g73x595@csci112 wed]$ gcc read.c -Wall
+[g73x595@csci112 wed]$ ./a.out
 Enter a name: Bob
 You entered: Bob
 
@@ -46,7 +46,7 @@ Kenya - Nairobi
 You can run the autograder by running
 
 ```
-/public/classwork/week8/mon/autograder.sh
+/public/classwork/week8/wed/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
