@@ -16,7 +16,7 @@ title: "Classwork 10"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2025` directory, navigate to `classwork/week6/wed/`, creating directories `week6` and `wed` if necessary.
+* From your `csci112_spring2025` directory, navigate to `classwork/week6/wed/`, creating directories `week6` and `wed` if necessary.
 * Inside this directory, create a file called `2d.c`. In it, write a
 	program solving the following problem.
 * Note that you can optionally start from the code in
