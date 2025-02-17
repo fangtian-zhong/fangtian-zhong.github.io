@@ -4,18 +4,18 @@ title: "Lab 6"
 ---
 
 ## Logistics
-* Due: Friday, October 4th AoE.
+* Due: Friday, February 28th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab6.c` in your `~/csci112_fall2024/labs/lab6`
+	grade in a file called `lab6.c` in your `~/csci112_spring2025/labs/lab6`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab6`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
+	tagged as `lab6`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
 
 ## Outside resources
 
 On this assignment, you may not use the the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4pm in
-Roberts 111) or post in Discord to
+are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
+Barnard 254) or post in Discord to
 get help.
 
 However, you may use those resources for help with navigating the Linux
@@ -46,7 +46,7 @@ In general, the file will have up to 100 doubles separated by whitespace. You mu
 read the file using `fscanf`, *not* using redirection and `scanf`, and you
 should store the doubles in an array.
 
-Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
+Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
 write them to a new file called `outdata.txt` in the directory where the program
 is being run. You should use `fprintf` to write to the file.
 
