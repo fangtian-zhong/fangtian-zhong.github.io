@@ -63,7 +63,7 @@ Quiz3 will cover logical operators and loops.
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/03| 	[More pointers]|6|Classwork13| |
 |Wednesday 03/05|[C type strings]|8|Classwork14||
-|Friday 03/07| 	[C type strings])|8|||
+|Friday 03/07| 	[C type strings])|8|Quiz 5||
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/10| 	[C type strings]|8|Classwork15| 	|
 |Wednesday 03/12|[Structs]|10|Classwork16||
