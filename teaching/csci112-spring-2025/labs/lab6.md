@@ -46,7 +46,7 @@ In general, the file will have up to 100 doubles separated by whitespace. You mu
 read the file using `fscanf`, *not* using redirection and `scanf`, and you
 should store the doubles in an array.
 
-Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/Chapter7.pdf)) to sort the numbers in ascending order (smallest first) and
+Your program must use selection sort (see [slides on arrays](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/ppts/CSCI112_20250224.pdf)) to sort the numbers in ascending order (smallest first) and
 write them to a new file called `outdata.txt` in the directory where the program
 is being run. You should use `fprintf` to write to the file.
 
