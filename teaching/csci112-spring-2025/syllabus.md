@@ -75,11 +75,11 @@ Quiz3 will cover logical operators and loops.
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/24|[Splitting C program into multiple files]|10|||
 |Wednesday 03/26|[Compilation review + Makefiles]||||
-|Friday 03/28|||||
+|Friday 03/28|[Makefiles]||||
 |<span style="color:red;">Week12</span>|||||
-|Monday 03/31|[Makefiles]||||
-|Wednesday 04/02| [Command line arguments]|12|||
-|Friday 04/04|[Sorting an array of pointers]||||
+|Monday 03/31|[Command line arguments]|12|||
+|Wednesday 04/02| [Sorting an array of pointers]||||
+|Friday 04/04|||||
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/07|[Pointer arithmetic]||||
 |Wednesday 04/09| 	[Dynamic memory allocation]|13|||
