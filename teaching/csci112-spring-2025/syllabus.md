@@ -57,9 +57,9 @@ Quiz 2 will cover Github commands, basic grammar, and logical operators.
 |Wednesday 02/19|[Arrays](./lectures/ppts/CSCI112_20250219.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork10)||
 |Friday 02/21|[Arrays as function arguments](./lectures/ppts/CSCI112_20250221.pdf)|7|Quiz 3|[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
-|Monday 02/24|[Searching, sorting arrays]|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork11)||
-|Wednesday 02/26|[Pointers; file i/o]|6|||
-|Friday 02/28| 	[Pointers]|6|||
+|Monday 02/24|[Searching, sorting arrays](./lectures/ppts/CSCI112_20250224.pdf)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork11)||
+|Wednesday 02/26|[Pointers; file i/o](./lectures/ppts/CSCI112_20250226.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork12)||
+|Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf)|6|||
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/03| 	[More pointers]|6|| |
 |Wednesday 03/05|[C type strings]|8|||
