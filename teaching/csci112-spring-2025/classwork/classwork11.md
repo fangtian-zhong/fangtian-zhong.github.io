@@ -18,7 +18,7 @@ title: "Classwork 11"
 * Log in to the server.
 * From your `csci11_spring2025` directory, navigate to `classwork/week7/mon/`, creating directories `week7` and `mon` if necessary.
 * Copy the file `/public/classwork/week7/mon/sum.c` to your
-	`csci11_spring2025/classwork/week7/mon` directory.
+	`csci112_spring2025/classwork/week7/mon` directory.
 
 Write the function `cumulative_sum` to match the call in `main`; that is, it
 must take in two double arrays and an integer.
