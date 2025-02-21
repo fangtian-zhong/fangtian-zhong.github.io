@@ -11,7 +11,7 @@ title: "Lab 10"
 
 ## Outside resources
 
-On this assignment, you may not use the the internet or generative AI such as
+On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
 are having trouble writing your program, please go to lab (Fridays, 12-4pm in
 Roberts 111) or post in Slack to
