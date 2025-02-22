@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz3 will cover logical operators and loops. 
+Quiz4 will cover loops and arrays. 
 ## Course schedule
 
 <!---
