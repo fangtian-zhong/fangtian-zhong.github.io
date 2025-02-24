@@ -63,7 +63,7 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf)|6|Classwork13| |
 |Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|Classwork14||
-|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5||
+|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5|[Lab 7]|
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/10| 	[C type strings]|8|Classwork15| 	|
 |Wednesday 03/12|[Structs]|10|Classwork16||
