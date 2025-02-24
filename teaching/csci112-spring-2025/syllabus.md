@@ -67,7 +67,7 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/10| 	[C type strings]|8|Classwork15| 	|
 |Wednesday 03/12|[Structs]|10|Classwork16||
-|Friday 03/14|[Structs]|10|||
+|Friday 03/14|[Structs]|10||[Lab 8]|
 |<span style="color:red;">Week10</span>|||||
 |Monday 03/17|No Class||||
 |Wednesday 03/19|No Class||||
