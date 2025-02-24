@@ -51,7 +51,7 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week5</span>|||||
 |Monday 02/10|[Loops](./lectures/ppts/CSCI112_20250210.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99c4254f-addb-4956-9db8-b2800107b31c)|5|[Classwork 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork8)||
 |Wednesday 02/12|[Loops](./lectures/ppts/CSCI112_20250212.pdf)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork9)||
-|Friday 02/14|[Arrays](./lectures/ppts/CSCI112_20250214.pdf)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab4)|
+|Friday 02/14|[Arrays](./lectures/ppts/CSCI112_20250214.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1678fa07-82b9-467a-b0ba-b2840107da77)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
 |Monday 02/17|No class||||
 |Wednesday 02/19|[Arrays](./lectures/ppts/CSCI112_20250219.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork10)||
