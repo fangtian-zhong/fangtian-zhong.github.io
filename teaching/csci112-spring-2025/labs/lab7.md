@@ -29,9 +29,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-In this lab, you will build off of your Lab 6 solution (or the solution
-provided in `/public/labs/` by class time on Monday, March
-3rd) to read in a file of strings (instead of doubles), sort them, and then
+In this lab, you will build off of your Lab 6 solution to read in a file of strings (instead of doubles), sort them, and then
 print information from the strings in a pleasing manner.
 
 Starting from your Lab 6 solution, change from reading the file
