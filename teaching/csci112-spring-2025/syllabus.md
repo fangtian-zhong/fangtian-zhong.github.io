@@ -61,9 +61,9 @@ Quiz4 will cover loops and arrays.
 |Wednesday 02/26|[Pointers; file i/o](./lectures/ppts/CSCI112_20250226.pdf)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork12)||
 |Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf)|6|Quiz 4|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
-|Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf)|6|Classwork13| |
-|Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|Classwork14||
-|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5|[Lab 7]|
+|Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf)|6|[Classwork13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork13)| |
+|Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|[Classwork14](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork14)||
+|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5|[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/10| 	[C type strings]|8|Classwork15| 	|
 |Wednesday 03/12|[Structs]|10|Classwork16||
