@@ -16,7 +16,7 @@ title: "Classwork 13"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2025` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
+* From your `csci112_spring2025` directory, navigate to `classwork/week8/mon/`, creating directories `week8` and `mon` if necessary.
 * Copy the file `pass_by_ref_starter.c` from the `/public/classwork/week8/mon`
 	directory. Make sure to rename it to `pass_by_ref.c`.
 
