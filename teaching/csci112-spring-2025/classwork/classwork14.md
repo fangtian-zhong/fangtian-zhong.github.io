@@ -17,7 +17,7 @@ title: "Classwork 14"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_spring2025` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
+* From your `csci112_spring2025` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
 * Copy the file `read.c` from the `/public/classwork/week8/wed`
 	directory.
 
