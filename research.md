@@ -10,10 +10,12 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
+Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal (In Submission), **JCR 1**
+
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2024) [Unveiling Malware Patterns: A Self-analysis
 Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
-**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security (In Submission), **Core Rank A***
+**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, **Core Rank A***
 
 Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Mengfei Ren, Xiuzhen Cheng. (2024) Vulnerability Analysis Across Platform Landscapes, ACM Computing Surveys (In Submission), **Core Rank A***
 
