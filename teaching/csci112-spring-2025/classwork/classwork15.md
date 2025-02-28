@@ -4,9 +4,9 @@ title: "Classwork 15"
 ---
 
 ## Logistics
-* Due: Wednesday, October 9th AoE.
+* Due: Monday, March 10th AoE.
 * Submission instructions: make sure that the required file (`tokenize.c`) is in your
-	`/classwork/week8/wed/` directory.
+	`/classwork/week9/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,8 +16,8 @@ title: "Classwork 15"
 ## Assignment
 
 * Log in to the server.
-* From your `csci11_fall2024` directory, navigate to `classwork/week8/wed/`, creating directories `week8` and `wed` if necessary.
-* Copy the file `tokenize.c` from the `/public/classwork/week8/wed`
+* From your `csci112_spring2025` directory, navigate to `classwork/week9/mon/`, creating directories `week9` and `mon` if necessary.
+* Copy the file `tokenize.c` from the `/public/classwork/week9/mon`
 	directory.
 
 In the file `tokenize.c`, fill the code needed for the `TODO`. After you have
@@ -25,15 +25,15 @@ filled in the correct code, compiling and running your program should look like
 this.
 
 ```
-[g73x595@csci112 wed]$ gcc tokenize.c -Wall
-[g73x595@csci112 wed]$ ./a.out
+[g73x595@csci112 mon]$ gcc tokenize.c -Wall
+[g73x595@csci112 mon]$ ./a.out
 Bozeman is in MT, USA
 ```
 
 You can run the autograder by running
 
 ```
-/public/classwork/week8/wed/autograder.sh
+/public/classwork/week9/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
