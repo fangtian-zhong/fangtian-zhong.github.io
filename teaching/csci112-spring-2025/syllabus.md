@@ -59,7 +59,7 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week7</span>|||||
 |Monday 02/24|[Searching, sorting arrays](./lectures/ppts/CSCI112_20250224.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f41c87cd-c5ac-4105-acf7-b28e0107716d)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork11)||
 |Wednesday 02/26|[Pointers; file i/o](./lectures/ppts/CSCI112_20250226.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267bdf-50ad-4367-874c-b29001095af1)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork12)||
-|Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf)|6|Quiz 4|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab6)|
+|Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6898e68b-cfa2-45aa-8725-b29201089e68)|6|Quiz 4|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf)|6|[Classwork13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork13)| |
 |Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|[Classwork14](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork14)||
