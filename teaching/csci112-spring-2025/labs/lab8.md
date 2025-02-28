@@ -4,11 +4,11 @@ title: "Lab 8"
 ---
 
 ## Logistics
-* Due: Friday, October 18th AoE.
+* Due: Friday, March 14th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab8.c` in your `~/csci112_fall2024/labs/lab8`
+	grade in a file called `lab8.c` in your `~/csci112_spring2025/labs/lab8`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab8`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4).)
+	tagged as `lab8`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
 
 ## Outside resources
 
@@ -27,8 +27,7 @@ questions by going to lab or posting on Discord anyway.
 
 ## Assignment
 
-In this lab, you will build off of your Lab 7 solution (or the solution
-provided in `/public/labs/lab7/solution.c` to build an interactive database of counties, where a user can
+In this lab, you will build off of your Lab 7 solution where a user can
 search for counties within a population range or by county seat.
 
 **Note:** be sure to change from reading from `/public/labs/lab7/counties1.txt`
