@@ -79,11 +79,11 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/31|[Command line arguments]|12|||
 |Wednesday 04/02| [Sorting an array of pointers]||||
-|Friday 04/04|||||
+|Friday 04/04|||Quiz 7||
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/07|[Pointer arithmetic]||||
 |Wednesday 04/09| 	[Dynamic memory allocation]|13|||
-|Friday 04/11| [Dynamic data structures (Linked List)]|13|||
+|Friday 04/11| [Dynamic data structures (Linked List)]|13|Quiz 8||
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/14| 	[Dynamic data structures (Linked List)]||| |
 |Wednesday 04/16|[Dynamic data structures (Dynamic Arrays)]||||
@@ -91,11 +91,11 @@ Quiz4 will cover loops and arrays.
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/21|[Dynamic data structures (Dynamic Arrays)]||||
 |Wednesday 04/23| 	[Memory profiling with valgrind]||||
-|Friday 04/25|[Bit operators; binary and hexadecimal]||||
+|Friday 04/25|[Bit operators; binary and hexadecimal]||Quiz 9||
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/28|[Bit masking]||||
 |Wednesday 04/30|||||
-|Friday 05/02|||||
+|Friday 05/02|||Quiz 10||
 
 
 ## Catalog description
