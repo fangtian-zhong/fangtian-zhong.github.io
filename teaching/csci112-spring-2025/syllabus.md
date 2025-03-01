@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz4 will cover loops and arrays. 
+Quiz5 will cover arrays and pointers. 
 ## Course schedule
 
 <!---
