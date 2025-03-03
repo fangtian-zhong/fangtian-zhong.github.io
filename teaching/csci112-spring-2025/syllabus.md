@@ -61,7 +61,7 @@ Quiz5 will cover arrays and pointers.
 |Wednesday 02/26|[Pointers; file i/o](./lectures/ppts/CSCI112_20250226.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267bdf-50ad-4367-874c-b29001095af1)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork12)||
 |Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6898e68b-cfa2-45aa-8725-b29201089e68)|6|Quiz 4|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
-|Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf)|6|[Classwork13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork13)| |
+|Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4242769a-4c13-4014-812c-b2950107f3c5)|6|[Classwork13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork13)| |
 |Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|[Classwork14](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork14)||
 |Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5|[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
