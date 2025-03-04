@@ -88,11 +88,11 @@ Quiz5 will cover arrays and pointers.
 |Monday 04/14| 	[Dynamic data structures (Linked List)]||| |
 |Wednesday 04/16|[Dynamic data structures (Dynamic Arrays)]||||
 |Friday 04/18|No class||||
-|<span style="color:red;">Week14</span>|||||
+|<span style="color:red;">Week15</span>|||||
 |Monday 04/21|[Dynamic data structures (Dynamic Arrays)]||||
 |Wednesday 04/23| 	[Memory profiling with valgrind]||||
 |Friday 04/25|[Bit operators; binary and hexadecimal]||Quiz 9||
-|<span style="color:red;">Week15</span>|||||
+|<span style="color:red;">Week16</span>|||||
 |Monday 04/28|[Bit masking]||||
 |Wednesday 04/30|||||
 |Friday 05/02|||Quiz 10||
