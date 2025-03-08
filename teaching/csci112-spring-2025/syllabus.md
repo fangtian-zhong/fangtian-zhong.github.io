@@ -75,7 +75,7 @@ Quiz5 will cover arrays and pointers.
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/24|[Splitting C program into multiple files]|10|||
 |Wednesday 03/26|[Compilation review + Makefiles]||||
-|Friday 03/28|[Makefiles]||Quiz 6||
+|Friday 03/28|[Makefiles]||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9)|
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/31|[Command line arguments]|12|||
 |Wednesday 04/02| [Sorting an array of pointers]||||
