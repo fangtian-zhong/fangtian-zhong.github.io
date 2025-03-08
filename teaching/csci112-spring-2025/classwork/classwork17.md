@@ -6,7 +6,7 @@ title: "Classwork 17"
 ## Logistics
 * Due: Monday, March 24th AoE.
 * Submission instructions: make sure that the required file (`point.c`) is in your
-	`csci112_spring2025/classwork/week9/mon/` directory.
+	`csci112_spring2025/classwork/week11/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 17"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `/csci112_spring2025/classwork/week9/mon/`, creating directories `week9`
+* From your home directory, navigate to `/csci112_spring2025/classwork/week11/mon/`, creating directories `week11`
 and `mon` if necessary.
-* Copy the `point.c` file from `/public/classwork/week9/mon` to your directory.
+* Copy the `point.c` file from `/public/classwork/week11/mon` to your directory.
 
 Fill in the missing function `change_x` so that it changes the value of the `x`
 field in a point that is passed in. Make sure that you define the function to
@@ -39,7 +39,7 @@ this:
 You can run the autograder by running
 
 ```
-/public/classwork/week9/mon/autograder.sh
+/public/classwork/week11/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
