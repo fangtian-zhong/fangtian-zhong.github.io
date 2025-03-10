@@ -62,10 +62,10 @@ Quiz5 will cover arrays and pointers.
 |Friday 02/28| 	[Pointers](./lectures/ppts/CSCI112_20250228.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6898e68b-cfa2-45aa-8725-b29201089e68)|6|Quiz 4|[Lab 6](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab6)|
 |<span style="color:red;">Week8</span>|||||
 |Monday 03/03| 	[More pointers](./lectures/ppts/CSCI112_20250303.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4242769a-4c13-4014-812c-b2950107f3c5)|6|[Classwork13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork13)| |
-|Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf)|8|[Classwork14](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork14)||
-|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf)|8|Quiz 5|[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab7)|
+|Wednesday 03/05|[C type strings](./lectures/ppts/CSCI112_20250305.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54f6b28c-4a3b-48ab-8f36-b2970107aff9)|8|[Classwork14](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork14)||
+|Friday 03/07| 	[C type strings](./lectures/ppts/CSCI112_20250307.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=224c0b2f-cac8-4e61-ae81-b299010784cb)|8|Quiz 5|[Lab 7](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab7)|
 |<span style="color:red;">Week9</span>|||||
-|Monday 03/10| 	[C type strings](./lectures/ppts/CSCI112_20250310.pdf)|8|[Classwork15](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork15)| 	|
+|Monday 03/10| 	[C type strings](./lectures/ppts/CSCI112_20250310.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a187063e-8758-4f17-b274-b29c00f761b4)|8|[Classwork15](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork15)| 	|
 |Wednesday 03/12|[Structs](./lectures/ppts/CSCI112_20250312.pdf)|10|[Classwork16](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork16)||
 |Friday 03/14|[Structs](./lectures/ppts/CSCI112_20250314.pdf)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
