@@ -11,12 +11,10 @@ This page serves as a directory for the students I am working/ worked with.
 
 ## Undergrad Researcher
 
-1. Micheal Crapse:REU Scholars
-2. Hongyi Miao
-3. Zhuoyun Qian
-4. Ollie Wold
-5. Joseph Windmann
-6. Shengjie Wu
+1. Zhuoyun Qian
+2. Ollie Wold
+3. Joseph Windmann
+4. Shengjie Wu
  
 
 ## Grad Researcher
@@ -35,6 +33,8 @@ This page serves as a directory for the students I am working/ worked with.
 8. Leon Birdhat: McNair Scholars, B.S. student at Montana State University
 9. Jeff Simpson: B.S. student at Montana State University
 10. Jake Hopkins: B.S. student at Montana State University
+11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
+12. Hongyi Miao: B.S. student at Northeast Normal University
   
 ## Incoming Students
 1. Abolfazl Sharif Nia (Fall 2025)
