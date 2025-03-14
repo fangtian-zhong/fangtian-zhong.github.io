@@ -63,7 +63,6 @@ an `int`.
 Prompt the user to interact with the database like so:
 
 ```
-~~~Welcome to the county database!
 ~~~To search for a county by seat, press 1.
 ~~~To search for counties within a population range, press 2.
 ~~~To exit, press any other key.
