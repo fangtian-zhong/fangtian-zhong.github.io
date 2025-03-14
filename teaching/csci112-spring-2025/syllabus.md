@@ -67,7 +67,7 @@ Quiz5 will cover arrays and pointers.
 |<span style="color:red;">Week9</span>|||||
 |Monday 03/10| 	[C type strings](./lectures/ppts/CSCI112_20250310.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a187063e-8758-4f17-b274-b29c00f761b4)|8|[Classwork15](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork15)| 	|
 |Wednesday 03/12|[Structs](./lectures/ppts/CSCI112_20250312.pdf)|10|[Classwork16](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork16)||
-|Friday 03/14|[Structs](./lectures/ppts/CSCI112_20250314.pdf)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab8)|
+|Friday 03/14|[Structs](./lectures/ppts/CSCI112_20250314.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c45ccb0-b76d-41cc-abec-b2a000f710cb)|10||[Lab 8](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab8)|
 |<span style="color:red;">Week10</span>|||||
 |Monday 03/17|No Class||||
 |Wednesday 03/19|No Class||||
