@@ -4,17 +4,17 @@ title: "Lab 10"
 ---
 
 ## Logistics
-* Due: Friday, November 1st AoE.
-* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_fall2024/labs/lab10`
+* Due: Friday, April 4th AoE.
+* Submission instructions: ensure that you have the files for this assignment in your `~/csci112_spring2025/labs/lab10`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab10`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/classwork/classwork4/).)
+	tagged as `lab10`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4/).)
 
 ## Outside resources
 
 On this assignment, you may not use the internet or generative AI such as
 ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 12-4pm in
-Roberts 111) or post in Slack to
+are having trouble writing your program, please go to lab (Fridays, 10-4pm in
+Barnard 254) or post in Slack to
 get help.
 
 However, you may use those resources for help with navigating the Linux
