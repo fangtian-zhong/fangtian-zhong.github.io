@@ -94,7 +94,7 @@ Quiz6 will cover pointers and C type string.
 |Friday 04/25|||Quiz 9|[Lab 12]|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||||
-|Wednesday 04/30|||||
+|Wednesday 04/30|Self-study, no class||||
 |Friday 05/02|||Quiz 10|[Lab 13]|
 
 
