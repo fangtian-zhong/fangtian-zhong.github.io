@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz5 will cover arrays and pointers. 
+Quiz6 will cover pointers and C type string. 
 ## Course schedule
 
 <!---
