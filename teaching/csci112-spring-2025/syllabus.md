@@ -77,9 +77,9 @@ Quiz6 will cover pointers and C type string.
 |Wednesday 03/26|[Compilation review + Makefiles](./lectures/ppts/CSCI112_20250326.pdf)||[Classwork18](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork18)||
 |Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9)|
 |<span style="color:red;">Week12</span>|||||
-|Monday 03/31|[Command line arguments]|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
-|Wednesday 04/02| [Sorting an array of pointers]||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
-|Friday 04/04|[Pointer arithmetic]||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
+|Monday 03/31|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
+|Wednesday 04/02| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
+|Friday 04/04|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/07|[Dynamic memory allocation]||||
 |Wednesday 04/09| [Dynamic data structures (Linked List)]	|13|||
