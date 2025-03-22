@@ -79,14 +79,14 @@ Quiz6 will cover pointers and C type string.
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/31|[Command line arguments]|12|||
 |Wednesday 04/02| [Sorting an array of pointers]||||
-|Friday 04/04|||Quiz 7||
+|Friday 04/04|[Pointer arithmetic]||Quiz 7||
 |<span style="color:red;">Week13</span>|||||
-|Monday 04/07|[Pointer arithmetic]||||
-|Wednesday 04/09| 	[Dynamic memory allocation]|13|||
-|Friday 04/11| [Dynamic data structures (Linked List)]|13|Quiz 8||
+|Monday 04/07|[Dynamic memory allocation]||||
+|Wednesday 04/09| [Dynamic data structures (Linked List)]	|13|||
+|Friday 04/11|[Dynamic data structures (Linked List)] |13|Quiz 8||
 |<span style="color:red;">Week14</span>|||||
-|Monday 04/14| 	[Dynamic data structures (Linked List)]||| |
-|Wednesday 04/16|[Dynamic data structures (Dynamic Arrays)]||||
+|Monday 04/14|[Dynamic data structures (Dynamic Arrays)] 	||| |
+|Wednesday 04/16|||||
 |Friday 04/18|No class||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/21|[Dynamic data structures (Dynamic Arrays)]||||
