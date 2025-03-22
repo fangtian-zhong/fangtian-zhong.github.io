@@ -89,8 +89,8 @@ Quiz6 will cover pointers and C type string.
 |Wednesday 04/16|[Dynamic data structures (Dynamic Arrays)]||||
 |Friday 04/18|No class||||
 |<span style="color:red;">Week15</span>|||||
-|Monday 04/21|[Memory profiling with valgrind]||||
-|Wednesday 04/23| Out for a conference||||
+|Monday 04/21|Out for a conference||||
+|Wednesday 04/23|[Memory profiling with valgrind] ||||
 |Friday 04/25|||Quiz 9|[Lab 12]|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||||
