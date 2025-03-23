@@ -75,7 +75,7 @@ Quiz6 will cover pointers and C type string.
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/24|[Splitting C program into multiple files](./lectures/ppts/CSCI112_20250324.pdf)|10|[Classwork17](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork17)||
 |Wednesday 03/26|[Compilation review + Makefiles](./lectures/ppts/CSCI112_20250326.pdf)||[Classwork18](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork18)||
-|Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9)|
+|Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9);Mid-course survey on D2L|
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/31|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
 |Wednesday 04/02| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
