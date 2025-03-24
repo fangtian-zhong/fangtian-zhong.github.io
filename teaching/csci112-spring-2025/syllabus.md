@@ -73,7 +73,7 @@ Quiz6 will cover pointers and C type string.
 |Wednesday 03/19|No Class||||
 |Friday 03/21|No Class||||
 |<span style="color:red;">Week11</span>|||||
-|Monday 03/24|[Splitting C program into multiple files](./lectures/ppts/CSCI112_20250324.pdf)|10|[Classwork17](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork17)||
+|Monday 03/24|[Splitting C program into multiple files](./lectures/ppts/CSCI112_20250324.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32ebc6ee-d799-4afa-ad77-b2aa00f6e6dc)|10|[Classwork17](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork17)||
 |Wednesday 03/26|[Compilation review + Makefiles](./lectures/ppts/CSCI112_20250326.pdf)||[Classwork18](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork18)||
 |Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9);Mid-course survey on D2L|
 |<span style="color:red;">Week12</span>|||||
