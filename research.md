@@ -17,7 +17,8 @@ Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, **Core Rank A***
 
-Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Mengfei Ren, Xiuzhen Cheng. (2024) Vulnerability Analysis Across Platform Landscapes, ACM Computing Surveys (In Submission), **Core Rank A***
+Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Mengfei Ren, Jiguo Yu. (2024) Software Vulnerability Analysis Across Programming
+Language and Program Representation Landscapes: A Survey, ACM Computing Surveys (In Submission), **Core Rank A***
 
 Jianan Chen, Qin Hu, Fangtian Zhong, Yan Zhuang, Minghui Xu. (2024) [Upcycling Noise for Federated Unlearning](https://arxiv.org/abs/2412.05529), IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
