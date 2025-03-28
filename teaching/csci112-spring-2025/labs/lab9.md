@@ -34,7 +34,7 @@ change.
 
 **Note:** you should not need to write any new code in this assignment, except
 perhaps function prototypes. If you use your own Lab
-8 solution and you don't have functions for sorting or any additional utility functions, you
+8 solution (or solution in /public/labs/lab9/solution.c) and you don't have functions for sorting or any additional utility functions, you
 can add those so that you have things to put in the sorting and utility files
 described below. But you should not change the functionality of the program.
 
