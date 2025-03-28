@@ -49,7 +49,7 @@ You will need eight total files for this assignment.
 	prototype for `add_county`.
 * `county.c` should contain the definition of any functions in `county.h`.
 * `sort.h` should contain function prototypes for any sorting-related
-	functions. If you are using the provided Lab 8 solution, these are
+	functions. If you are using your Lab 8 solution, these are
 	`get_min_in_range` and `sort`.
 * `sort.c` should contain the definitions of any functions in `sort.h`.
 * `utils.h` should contain prototypes for any extra "utility" functions. If
