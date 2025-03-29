@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Classwork 23"
+title: "Classwork 21"
 ---
 
 ## Logistics
