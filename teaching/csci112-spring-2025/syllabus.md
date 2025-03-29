@@ -81,8 +81,8 @@ Quiz7 will cover C type string and Structs.
 |Wednesday 04/02| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
 |Friday 04/04|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
 |<span style="color:red;">Week13</span>|||||
-|Monday 04/07|[Dynamic memory allocation]||||
-|Wednesday 04/09| [Dynamic data structures (Linked List)]	|13|||
+|Monday 04/07|[Dynamic memory allocation]||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork23)||
+|Wednesday 04/09| [Dynamic data structures (Linked List)]	|13|[Classwork22](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork24)||
 |Friday 04/11|[Dynamic data structures (Linked List)] |13|Quiz 8|[Lab 11]|
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/14|[Dynamic data structures (Dynamic Arrays)] 	||| |
