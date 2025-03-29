@@ -4,9 +4,9 @@ title: "Classwork 23"
 ---
 
 ## Logistics
-* Due: Monday, November 4th AoE.
+* Due: Monday, April 7th AoE.
 * Submission instructions: make sure that the required file (`dynamic.c`) is in your
-	`csci112_fall2024/classwork/week12/mon/` directory.
+	`csci112_spring2025/classwork/week13/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 23"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week12/mon/`, creating directories `week12`
+* From your home directory, navigate to `csci112_spring2025/classwork/week13/mon/`, creating directories `week13`
 and `mon` if necessary.
-* Copy the file `/public/classwork/week12/mon/dynamic.c` into your directory.
+* Copy the file `/public/classwork/week13/mon/dynamic.c` into your directory.
 
 Fill in the three `TODO` items. You should only need to add four lines of code.
 
@@ -27,7 +27,7 @@ Fill in the three `TODO` items. You should only need to add four lines of code.
 You can run the autograder by running
 
 ```
-/public/classwork/week12/mon/autograder.sh
+/public/classwork/week13/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
