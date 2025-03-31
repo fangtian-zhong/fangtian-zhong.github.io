@@ -75,9 +75,9 @@ Quiz7 will cover C type string and Structs.
 |<span style="color:red;">Week11</span>|||||
 |Monday 03/24|[Splitting C program into multiple files](./lectures/ppts/CSCI112_20250324.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=32ebc6ee-d799-4afa-ad77-b2aa00f6e6dc)|10|[Classwork17](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork17)||
 |Wednesday 03/26|[Compilation review + Makefiles](./lectures/ppts/CSCI112_20250326.pdf)||[Classwork18](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork18)||
-|Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9);Mid-course survey on D2L|
+|Friday 03/28|[Makefiles](./lectures/ppts/CSCI112_20250328.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1ff2bf8-cd6e-4dce-80db-b2b101008fe6)||Quiz 6|[Lab 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab9);Mid-course survey on D2L|
 |<span style="color:red;">Week12</span>|||||
-|Monday 03/31|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
+|Monday 03/31|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a65b2ef-0d98-4b00-83ae-b2b1010083dd)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
 |Wednesday 04/02| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
 |Friday 04/04|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
 |<span style="color:red;">Week13</span>|||||
