@@ -79,7 +79,7 @@ Quiz7 will cover C type string and Structs.
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/31|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a65b2ef-0d98-4b00-83ae-b2b1010083dd)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork19)||
 |Wednesday 04/02| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork21)||
-|Friday 04/04|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
+|Friday 04/04|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4970cfd5-2994-49d2-985c-b2b500f6ff27)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab10)|
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/07|[Dynamic memory allocation](./lectures/ppts/CSCI112_20250407.pdf)||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork23)||
 |Wednesday 04/09| [Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250409.pdf)	|13|[Classwork22](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork24)||
