@@ -1,12 +1,12 @@
 ---
 collection: teaching
-title: "Classwork 25"
+title: "Classwork 23"
 ---
 
 ## Logistics
-* Due: Wednesday, November 13th AoE.
+* Due: Monday, April 14th AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_fall2024/classwork/week13/wed/` directory.
+	`csci112_spring2025/classwork/week14/mon/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,9 +16,9 @@ title: "Classwork 25"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week13/wed/`, creating directories `week13`
-and `wed` if necessary.
-* Copy the files `main.c`, `team.c`, and `team.h` from the `/public/classwork/week13/wed/` directory into your directory.
+* From your home directory, navigate to `csci112_spring2025/classwork/week14/mon/`, creating directories `week14`
+and `mon` if necessary.
+* Copy the files `main.c`, `team.c`, and `team.h` from the `/public/classwork/week14/mon/` directory into your directory.
 
 **You will only need to change `team.c`**.
 
@@ -34,12 +34,12 @@ After you have implemented `insert_person_at_back`, compiling and running your
 code should look like this:
 
 ```
-[g73x595@csci112 wed]$ ls
+[g73x595@csci112 mon]$ ls
 main.c  team.c  team.h
-[g73x595@csci112 wed]$ gcc main.c team.c -Wall
-[g73x595@csci112 wed]$ ls
+[g73x595@csci112 mon]$ gcc main.c team.c -Wall
+[g73x595@csci112 mon]$ ls
 a.out  main.c  team.c  team.h
-[g73x595@csci112 wed]$ ./a.out
+[g73x595@csci112 mon]$ ./a.out
   Enter person's name > Bob
   Enter person's name > Sally
 
@@ -53,7 +53,7 @@ Bob->Sally->
 You can run the autograder by running
 
 ```
-/public/classwork/week13/wed/autograder.sh
+/public/classwork/week14/mon/autograder.sh
 ```
 
 The file `autograder.txt` will be created with your score.
