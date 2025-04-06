@@ -90,11 +90,11 @@ Quiz7 will cover C type string and Structs.
 |Friday 04/18|No class||||
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/21|Out for a conference||||
-|Wednesday 04/23|[Memory profiling with valgrind] ||||
+|Wednesday 04/23|[Memory profiling with valgrind] ||[Classwork25]||
 |Friday 04/25|||Quiz 9|[Lab 12]|
 |<span style="color:red;">Week16</span>|||||
-|Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||||
-|Wednesday 04/30|Self-study, no class||||
+|Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||[Classwork26]||
+|Wednesday 04/30|Self-study, no class||[Classwork27]||
 |Friday 05/02|||Quiz 10|[Lab 13]|
 
 
