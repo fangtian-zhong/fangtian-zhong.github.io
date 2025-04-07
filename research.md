@@ -10,6 +10,10 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
+**Fangtian Zhong**, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) Semantic Bug Identification Using Formal Verification, USENIX Security Symposium (In Submission),  **Core Rank A***
+
+**Fangtian Zhong**, Micheal Crapse, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) What you see may not be true: Deep Bug Detection in Assemly, IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
+
 Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal (In Submission), **JCR 1**
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2024) [Unveiling Malware Patterns: A Self-analysis
