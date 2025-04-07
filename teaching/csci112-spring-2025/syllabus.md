@@ -24,7 +24,7 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz7 will cover C type string and Structs. 
+Quiz8 will cover week9, week11, week12. 
 ## Course schedule
 
 <!---
