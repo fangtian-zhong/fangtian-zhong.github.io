@@ -1,12 +1,12 @@
 ---
 collection: teaching
-title: "Classwork 27"
+title: "Classwork 25"
 ---
 
 ## Logistics
-* Due: Monday, November 18th AoE.
+* Due: Wednesday, April 23rd AoE.
 * Submission instructions: make sure that the required files are in your
-	`csci112_fall2024/classwork/week14/mon/` directory.
+	`csci112_spring2025/classwork/week15/wed/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
 
@@ -16,13 +16,13 @@ title: "Classwork 27"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_fall2024/classwork/week14/mon/`, creating directories `week14`
+* From your home directory, navigate to `csci112_spring2025/classwork/week15/wed/`, creating directories `week15`
 and `mon` if necessary.
-* Copy the file `mem.exe` from the `/public/classwork/week14/mon/` directory into your directory.
+* Copy the file `mem.exe` from the `/public/classwork/week15/wed/` directory into your directory.
 
 This assignment will be graded by hand.
 
-Run `mem.exe` with `valgrind`. In a new file called `mem.txt` in your `csci112_fall2024/classwork/week14/mon/` directory, answer the following questions:
+Run `mem.exe` with `valgrind`. In a new file called `mem.txt` in your `csci112_spring2025/classwork/week15/wed/` directory, answer the following questions:
 
 1. How many memory *errors* are there?
 2. How many memory *leaks* are there?
