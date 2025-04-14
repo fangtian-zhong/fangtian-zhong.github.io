@@ -92,7 +92,7 @@ Quiz9 will cover week13, week14, week15.
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/21|Out for a conference||||
 |Wednesday 04/23|[Memory profiling with valgrind](./lectures/ppts/CSCI112_20250423.pdf) ||[Classwork25](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork27)||
-|Friday 04/25|||Quiz 9|[Lab 12]|
+|Friday 04/25|||Quiz 9|[Lab 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab12)|
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||[Classwork26]||
 |Wednesday 04/30|Self-study, no class||[Classwork27]||
