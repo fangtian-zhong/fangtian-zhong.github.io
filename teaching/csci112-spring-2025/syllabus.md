@@ -24,7 +24,6 @@ Ian Alford, email: ianbalford@gmail.com
 
 
 ## Quiz
-Quiz8 will cover week9, week11, week12. 
 Quiz9 will cover week13, week14, week15.
 ## Course schedule
 
