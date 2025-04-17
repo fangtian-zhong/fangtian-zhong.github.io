@@ -96,7 +96,7 @@ Quiz9 will cover week13, week14, week15.
 |<span style="color:red;">Week16</span>|||||
 |Monday 04/28|[Bit operators; binary and hexadecimal, bit masking]||[Classwork26](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork28)||
 |Wednesday 04/30|Self-study, no class||[Classwork27](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork29)||
-|Friday 05/02|||Quiz 10|[Lab 13]|
+|Friday 05/02|||Quiz 10|[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/labs/lab13)|
 
 
 ## Catalog description
