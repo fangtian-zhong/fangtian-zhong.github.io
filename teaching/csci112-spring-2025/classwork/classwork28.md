@@ -16,8 +16,8 @@ title: "Classwork 26"
 ## Assignment
 
 * Log in to the server.
-* From your home directory, navigate to `csci112_spring2025/classwork/week16/mon/`, creating directories `week14`
-and `wed` if necessary.
+* From your home directory, navigate to `csci112_spring2025/classwork/week16/mon/`, creating directories `week16`
+and `mon` if necessary.
 * Copy the file `/public/classwork/week16/mon/practice.c` into your directory.
 
 Assign values to `x, y, z, a, b, c` using binary and hexadecimal encodings as
