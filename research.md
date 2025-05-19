@@ -30,8 +30,6 @@ Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024
 
 Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) [Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10757542), IEEE Conference on Vehicular Technology **Core Rank B**
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Cheng Zhang, Dinghao Wu✉. (2024) [Enhancing Malware Classification via Self-Similarity Techniques](https://ieeexplore.ieee.org/document/10609414?source=authoralert), IEEE Transactions on Information Forensics and Security, **Core Rank A**
-
 **Fangtian Zhong**, Xiuzhen Cheng, Dongxiao Yu, Bei Gong, Shuaiwen Song, Jiguo Yu✉. (2023). [MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors](https://ieeexplore.ieee.org/abstract/document/10017127/). *IEEE Transactions on Computers*, **Core Rank A***
 
 **Fangtian Zhong**, Pengfei Hu✉, Guoming Zhang, Hong Li, Xiuzhen Cheng. (2022). [Reinforcement learning based adversarial malware example generation against black-box detectors](https://ieeexplore.ieee.org/abstract/document/9090824). *Computers & Security*, **Core Rank B**
