@@ -12,7 +12,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 **Fangtian Zhong**, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) Provable Verification in Semantic Bug Identification, USENIX Security Symposium (In Submission),  **Core Rank A***
 
-Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) isbehavior Detection in Vehicular Networks with Batch Message Verification, IEEE Internet of Things Journal(In submission) **JCR 1**
+Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Misbehavior Detection in Vehicular Networks with Batch Message Verification, IEEE Internet of Things Journal(In submission) **JCR 1**
 
 **Fangtian Zhong**, Micheal Crapse, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) What you see may not be true: Deep Bug Detection in Assemly, IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
