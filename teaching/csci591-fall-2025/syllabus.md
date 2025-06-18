@@ -1,25 +1,15 @@
 ---
-title: "CSCI 112: Programming With C"
+title: "CSCI 591: Malicious Code Analysis"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 venue: "Montana State University, Computer Science"
-date: 2025-01-15
+date: 2025-08-21
 location: "Bozeman, Montana"
 ---
 
 ## Instructor
-     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Mondays, Wednesdays and Fridays, 10:00am - 10:50am (not available during holiday/university day)
+     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Tuesdays: 13:00pm - 14:20pm and Thursdays 10:50am-12:10pm (not available during holiday/university day)
      
-## TAs
-Nishu Nath, email: nishu.nath@student.montana.edu, office hours: Wednesdays 11am-12pm and 1pm-2pm
-
-Aubrey Williams, email: aubjoyw@gmail.com, office hours: Tuesdays, 2pm - 3pm and Wednesdays, 11am - 12pm
-
-Thomas Gaylord, email: thomaswg18@gmail.com
-
-Ian Alford, email: ianbalford@gmail.com
-## Lab Assistant
-
 ## Announcement
 
 
@@ -34,8 +24,7 @@ Quiz9 will cover week13, week14, week15.
 |Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Wednesday 01/15|[Intro & syllabus](./lectures/ppts/CSCI_112_Programming_with_C_20250115.pdf) / [course slack](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA)||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork1)|
-|Friday 01/17|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork2)|
+|Thursday 08/21|[Intro & syllabus](./lectures/ppts/) / [course slack]()||[Classwork 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork1)|
 |<span style="color:red;">Week2</span>|||||
 |Monday 01/20|No class|||
 |Wednesday 01/22|[Intro to C](./lectures/ppts/CSCI112_20250122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools), [Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cc992a4-8f45-46d8-bb38-b26d01078195)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork3)|
