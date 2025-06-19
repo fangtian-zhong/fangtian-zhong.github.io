@@ -70,8 +70,7 @@ Quiz9 will cover week13, week14, week15.
 |<span style="color:red;">Week16</span>|||||
 |Tuesday 12/02|||||
 |Thursday 12/04|||||
-|<span style="color:red;">Week17</span>|||||
-|Tuesday 12/09|||||
+|<span style="color:red;">Final Week</span>|||||
 |Thursday 12/11|Final Exam at 12:00pm - 1:50pm|||
 
 ## Catalog description
