@@ -4,7 +4,7 @@ title: "Assignment 1: syllabus activity"
 ---
 
 ## Logistics
-* Due: Thursday, September 4th, AOE.
+* Due: Thursday, September 4th, AOE (Friday 6am Bozeman time).
 * Submission instructions: make sure that the required file (name matched) is submitted to Canvas.
   
 ## Learning outcomes
