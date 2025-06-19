@@ -4,7 +4,7 @@ title: "Classwork 2: Getting started with Linux, vim, and the course server"
 ---
 
 ## Logistics
-* Due: Friday, January 17th AoE (Saturday 6am Bozeman time).
+* Due: Thursday, September 11th AoE (Friday 6am Bozeman time).
 * Submission instructions: make sure that the required file is in your
 	`csci112_spring2025/classwork/week1/fri/` directory.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
