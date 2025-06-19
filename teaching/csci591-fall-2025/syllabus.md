@@ -99,15 +99,9 @@ Quiz9 will cover week13, week14, week15.
 
 ## Course Info
 
-This course meets for lectures on Mondays, Wednesdays, and Fridays from
-9:00-9:50am in REID HALL 346. The first 30 minutes of lecture will be spent learning new material, and the last 20 minutes may be spent on  short quizzes. We will use Slack as the primary method of course communication, and all course information will be posted on this website or on the Slack server; D2L will
+This course meets for lectures on Tuesdays and Fridays from
+12:15pm to 13:30pm in REID 453. We will use Slack as the primary method of course communication, and all course information will be posted on this website or on the Slack server; Canvas will
 be used *only* for grading.
-
-There is an *optional* lab on Fridays from 10:00am to 4:00 pm in BARNARD HALL 254 that you may attend to get extra help.
-
-Note that this class is for Computer Science and Computer Engineering majors.
-If you are not one of those majors, you should take CSCI 109 instead of this
-course.
 
 ## Course Resources
 
