@@ -108,41 +108,36 @@ be used *only* for grading.
 ### Textbook
 
 The textbook is optional for this course, but is a good resource for anyone who
-is interested. Most classwork and lab programming assignments will come from
-the book, and lectures are based on the content in the book as well.
+is interested. Most lectures are based on the content in the book.
 
-*Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software* by Michael Sikorski, Andrew Honig, No Starch Press, 2012 
-*Windows 64-bit Assembly Language Programming Quick Start: Intel X86-64, SSE, AVX* by Robert Dunne,Gaul Communications, 2018. 
+* Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software* by Michael Sikorski, Andrew Honig, No Starch Press, 2012 
+* Windows 64-bit Assembly Language Programming Quick Start: Intel X86-64, SSE, AVX* by Robert Dunne,Gaul Communications, 2018. 
 
 You can find free PDFs of the textbook online.
 
 
 ### Slack server
 
-All course communication will be through our course Slack server. See D2L
+All course communication will be through our course Slack server. See Canvas
 announcement for link. Please change your nickname to your full name (first
 and last). Additionally, I suggest managing your notification settings. You may also need to manage the application notification settings on your device.
 
 ## Course outcomes
 By the end of the course, students should be able to:
-* Navigate a Linux operating system using the command line.
-* Use `vim` to edit files.
-* Use `git` to version control their work.
-* Write code using C syntax.
-* Build computer programs using the C language.
-* Take advantage of major capabilities of the C language, including pointers, dynamic memory allocation and structs.
-* Apply the power of pointers, structs and strings to C programs.
-* Apply the programming knowledge you learned to solve basic real-world problems.
+* Master the interaction between assembly codes and registers, and memory and manually analyze the changes in the stack by instruction execution.
+* Grasp the rationale for the malware taxonomy and learn to classify malware files manually.
+* Grasp binary retrofitting techniques to modify malware binaries.
+* Analyze and predict the potential malicious operations in different types of malware.
 
 ## Grading
 
 You will be graded on the following:
-* 27 classwork assignments (lowest three dropped): 15%
-* 13 labs (lowest two dropped): 40%
-* 10 in-class quizzes: 30%
-* Attendance: 15%
+* 5 assignments: 20%
+* 5 projects: 40%
+* 2 Exams: 30%
+* Quizzes/Absence (Lowest 5 dropped): 10%
 
-Your grade will be determined by your total score as follows:
+Your grade will be determined by your [total score](https://catalog.montana.edu/curriculum-enrollment-graduation/) as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
 
 ### Bonus
@@ -152,13 +147,12 @@ There are three ways to earn bonus points in this class.
 #### Catch errors in course materials
 
 If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-capture` channel on Slack. I will decide whether
-it's truly an error and not a duplicate. If it is really an error, you get a
-quarter of a point. Only the first person to post about an error gets the points. You can earn a max of 1 total point toward your 100 for the course (for four errors).
+it's truly an error and not a duplicate. If it is really an error, you get half a point. Only the first person to post about an error gets the points. You can earn a max of 2.5 total points toward your 100 for the course (for 5 errors).
 
-#### Course survey and evaluation
+#### Course evaluation
 
-If 75% or more of the class completes the mid-semester course survey, the whole
-class gets 1 bonus point. Same goes for the course evaluation.
+If 75% or more of the class completes the course evaluation, the whole
+class gets 1 bonus point. 
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
@@ -167,7 +161,7 @@ are due, but have some leeway built in. Please read the bullet points below care
 respect the policy, and *get help early if
 you are having any problems.* We want you to succeed!
 
-* You are responsible for any announcements about assignments  made in class, on Slack, on D2L,  and here
+* You are responsible for any announcements about assignments  made in class, on Slack, on Canvas,  and here
 	on the course website.
 * All assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
@@ -176,7 +170,7 @@ you are having any problems.* We want you to succeed!
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
-* Classwork cannot be submitted late.
+* Assignments cannot be submitted late.
 
 ### Missed quiz policy
 
@@ -205,11 +199,7 @@ You may not (unless the assignment explicitly says you can):
 In line with the [MSU student code of conduct](https://www.montana.edu/policy/student_conduct/#academichonesty), if I or the teaching assistants suspect that you have committed academic misconduct, we will schedule a meeting with you to discuss. If, after the meeting, we believe that you did commit academic misconduct, you will receive a 0 on the assignment and I will submit a report to the Dean of Students. It's just not worth it to cheat in this course.
 
 ## Important dates
-
-The last day to drop the course online (with no instructor or advisor approval)
-is January 28th. The last day to drop without a W grade (instructor or advisor
-approval required) is Feburary 4th. The last day to drop with a W grade
-(instructor and advisor approval required) is April 16th. See the full
+See the full
 [add/drop schedule](https://www.montana.edu/registrar/add_drop_schedule.html)
 for more information.
 
