@@ -25,31 +25,24 @@ for help in any way, including use of AI tools like ChatGPT.
 
 ## Assignment
 
-* Log in to the server: open a terminal window (the Terminal program on Mac and
-	the Command Prompt program on Windows) and type
+### 2.1 Develop a assembly program named assignment2-2.asm that can compare two numbers and print their result. It should follow the format below.
+The result of the example code depends on the comparison of the values stored in num1 and num2.
 
-```
-ssh <netid>@csci112vm.cs.montana.edu
-```
+* If num1 is less than num2, the program will print "Comparison result: -1".
+* If num1 is greater than num2, the program will print "Comparison result: 1".
+* If num1 is equal to num2, the program will print "Comparison result: 0".
 
-* Enter your netid password when prompted.
-* Use `mkdir` to create a `csci112_spring2025` directory.
-* Use `cd` to navigate into the `csci112_spring2025` directory.
-* Use `mkdir` to create a `classwork` directory.
-* Use `cd` to navigate into the `classwork` directory.
-* Repeat the same process to create a `week1` directory and navigate into it.
-* Create another directory inside `week1` called `fri` and navigate into that.
-* Inside `fri`, use `vim` to create a file
-	called `example.txt`. Write any text you like inside of it. Note that if
-	you leave the file entirely blank, it will not be created.
-* You can run the autograder by running (that is, pasting the following into
-	your terminal and pressing enter)
-```
-/public/classwork/week1/fri/autograder.sh
-```
+### 2.2 Develop a assembly program named assignment3-1.asm. It has a function to count the length of a string (msg db "Hello, world!") until null terminator is found (hints, using loop). The main function calls the function and prints the length of the string.
 
-The file `autograder.txt` will be created with your score. Use `vim
-autograder.txt` to open it and read its contents.
+After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the length of the string:
+* The length of the string:
+
+### 2.3 Develop a assembly program named assignment3-2.asm. It has a function to print out all ASCII character set (hints, using loop and pushing and poping rcx).
+
+After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the ASCII character set.
+
+## Grading--30 points
+   For each subassignment, you get 10 points if your solution is correct and 0 otherwise.
 
 ## Grading turnaround
 
