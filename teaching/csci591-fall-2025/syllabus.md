@@ -90,10 +90,10 @@ Quiz9 will cover week13, week14, week15.
 ## Catalog description
 
 3 Credits.
-PREREQUISITE: CSCI 112 — C Programming (Required)
-              CSCI 232 — Data Structures and Algorithms (required)
-	      CSCI 460 — Operating Systems (required)
-       CSCI 107 — Python Programming (Required)
+PREREQUISITE: *CSCI 112 — C Programming (Required)
+              *CSCI 232 — Data Structures and Algorithms (required)
+	      *CSCI 460 — Operating Systems (required)
+       *CSCI 107 — Python Programming (Required)
 
 
 ## Course Info
