@@ -47,7 +47,7 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 10/07|Self-study||||
 |Thursday 10/09|Mid-term||||
 |<span style="color:red;">Week9</span>|||||
-|Tuesday 10/14|Bots and Botnets||||
+|Tuesday 10/14|Bots and Botnets|||Project 3|
 |Thursday 10/16|Spyware and Adware||||
 |<span style="color:red;">Week10</span>|||||
 |Tuesday 10/21|Prerequisite for Understanding angr||||
