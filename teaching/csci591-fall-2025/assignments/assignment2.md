@@ -21,19 +21,19 @@ for help in any way, including use of AI tools like ChatGPT.
 
 ## Assignment
 
-### 2.1 Develop a assembly program named assignment2-2.asm that can compare two numbers and print their result. It should follow the format below.
+### 2.1 Develop a assembly program named assignment2-1.asm that can compare two numbers and print their result. It should follow the format below.
 The result of the example code depends on the comparison of the values stored in num1 and num2.
 
 * If num1 is less than num2, the program will print "Comparison result: -1".
 * If num1 is greater than num2, the program will print "Comparison result: 1".
 * If num1 is equal to num2, the program will print "Comparison result: 0".
 
-### 2.2 Develop a assembly program named assignment3-1.asm. It has a function to count the length of a string (msg db "Hello, world!") until null terminator is found (hints, using loop). The main function calls the function and prints the length of the string.
+### 2.2 Develop a assembly program named assignment2-2.asm. It has a function to count the length of a string (msg db "Hello, world!") until null terminator is found (hints, using loop). The main function calls the function and prints the length of the string.
 
 After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the length of the string:
 * The length of the string:
 
-### 2.3 Develop a assembly program named assignment3-2.asm. It has a function to print out all ASCII character set (hints, using loop and pushing and poping rcx).
+### 2.3 Develop a assembly program named assignment2-3.asm. It has a function to print out all ASCII character set (hints, using loop and pushing and poping rcx).
 
 After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the ASCII character set.
 
