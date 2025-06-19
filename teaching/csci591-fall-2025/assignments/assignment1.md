@@ -16,9 +16,9 @@ title: "Assignment 1: syllabus activity"
 
 ### 1.1 Develop a assembly program named assignment1-1.asm to print different types of numbers. For instance:
 
-real_number1 dd 1.234 ; floating-point constant
-real_number2 dq 123.456 ; double-precision float
-real_number_3 dt 1.234567e20 ; extended-precision float
+* real_number1 dd 1.234 ; floating-point constant
+* real_number2 dq 123.456 ; double-precision float
+* real_number_3 dt 1.234567e20 ; extended-precision float
 
 After compiling and linking the assembly program to produce assignment1-1.exe, double clicked
 assignment1-1.exe, it is gonna print out their values:
