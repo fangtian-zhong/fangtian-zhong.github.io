@@ -48,13 +48,8 @@ assignment2-1.exe, it is gonna show you to give numbers (5, 10):
 * Their sum is:
 * Their subtraction is:
 
-## Grading--100 points
-    * 10: source file compiles
-    * 5: prompt to user matches exactly
-    * 5: output reporting temperature matches exactly
-    * 10: prints temperature with exactly 2 decimal places
-    * 10 points each: computes correct temperature for 4 test cases
-
+## Grading--30 points
+   For each subassignment, you get 10 points if your solution is correct and 0 otherwise.
 
 ## Grading turnaround
 
