@@ -21,22 +21,22 @@ Quiz9 will cover week13, week14, week15.
  <> (Schedule subject to change. Find all lecture videos in [this Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5772861a-1645-42f4-b27e-b04b011b0c4a).)
  -->
 
-|Date|Lecture Topic (notes linked)|Assignments Release|Assignments Due|Projects|
+|Date|Lecture Topic (notes linked)|Notes|Assignments Due|Projects|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
 |Thursday 08/21|Course Introduction & Roadmap / [course slack]||||
 |<span style="color:red;">Week2</span>|||||
-|Tuesday 08/26|Intro to Assembly Language: Grammar|[Assignement 1](./assignments/assignment1)|||
+|Tuesday 08/26|Intro to Assembly Language: Grammar||||
 |Thursday 08/28|Intro to Assembly Language: Grammar||||
 |<span style="color:red;">Week3</span>|||||
-|Tuesday 09/02|Intro to Assembly Language: Grammar|[Assignment 2](./assignments/assignment2)|||
+|Tuesday 09/02|Intro to Assembly Language: Grammar||||
 |Thursday 09/04|PE Structure||[Assignement 1](./assignments/assignment1)||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|PE Structure||||
 |Thursday 09/11|Import Table, Import Address Table, and Bound Import Table||[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
 |Tuesday 09/16|Relocation Table and Export, Retrofitting||||
-|Thursday 09/18|Review ||||
+|Thursday 09/18|Review |||Project 1|
 |<span style="color:red;">Week6</span>|||||
 |Tuesday 09/23|Virus||||
 |Thursday 09/25|Worms||||
