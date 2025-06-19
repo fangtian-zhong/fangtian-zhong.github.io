@@ -128,7 +128,7 @@ Your grade will be determined by your [total score](https://catalog.montana.edu/
 
 ### Bonus
 
-There are three ways to earn bonus points in this class.
+There are two ways to earn bonus points in this class.
 
 #### Catch errors in course materials
 
