@@ -27,8 +27,16 @@ real_number_3: 1.234567e20
 * Develop a assembly program named assignment1-2.asm to read numbers from keyboard and save
 them to uninitialized variables with different storage spaces and print out their values.
 resw, resd, resq, rest. That is, we need to read 4 numbers from key board and save their values to
-uninitiated variables uninitializedData1, uninitializedData2, uninitializedData3, uninitializedData4.
-Finally, we have to print them out in their corresponding type formats.
+uninitiated variables uninitializedData1, uninitializedData2, uninitializedData3, uninitializedData4. Finally, we have to print them out in their corresponding type formats.
+
+After compiling and linking the assembly program to produce assignment1-2.exe, double clicked
+assignment1-2.exe, it is gonna show you to give numbers:
+Enter the first number:
+Enter the second number:
+Enter the third number:
+Enter the last number:
+After you give the last number, enter it and then print out them.
+
 
 ## Grading turnaround
 
