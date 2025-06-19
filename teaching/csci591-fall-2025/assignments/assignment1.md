@@ -4,7 +4,7 @@ title: "Assignment 1: syllabus activity"
 ---
 
 ## Logistics
-* Due: Tuesday, September 9th, AOE.
+* Due: Thursday, September 4th, AOE.
 * Submission instructions: make sure that you submit it to Canvas. 
 ## Learning outcomes
 * Understand assembly grammar and develop assembly programs
@@ -42,9 +42,5 @@ assignment2-1.exe, it is gonna show you to give numbers (5, 10):
 
 ## Grading turnaround
 
-Scores will be on D2L before the next class period.
+Scores will be on Canvas before the next class period.
 
-## Results
-
-The questions, things people were looking forward to, and things people were
-worried about are recorded [here](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/day1).
