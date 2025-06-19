@@ -59,14 +59,14 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 11/04|||||
 |Thursday 11/06|||||
 |<span style="color:red;">Week13</span>|||||
-|Tuesday 11/11|||||
+|Tuesday 11/11|Veteran's Day, No Class||||
 |Thursday 11/13|||||
 |<span style="color:red;">Week14</span>|||||
 |Tuesday 11/18|||||
 |Thursday 11/20|||||
 |<span style="color:red;">Week15</span>|||||
-|Tuesday 11/25|||||
-|Thursday 11/27|||||
+|Tuesday 11/25|Fall Break, No Class||||
+|Thursday 11/27|Fall Break, No Class||||
 |<span style="color:red;">Week16</span>|||||
 |Tuesday 12/02|||||
 |Thursday 12/04|||||
