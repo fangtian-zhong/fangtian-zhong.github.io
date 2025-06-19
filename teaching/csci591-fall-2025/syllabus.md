@@ -21,13 +21,13 @@ Quiz9 will cover week13, week14, week15.
  <> (Schedule subject to change. Find all lecture videos in [this Panopto folder](https://montana.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5772861a-1645-42f4-b27e-b04b011b0c4a).)
  -->
 
-|Date|Lecture Topic (notes linked)|Textbook Chapter|Classwork Due/Quiz|Lab Due|
+|Date|Lecture Topic (notes linked)|Slides|Assignments|Projects|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Thursday 08/21|[Course Introduction & Roadmap] / [course slack]()|||
+|Thursday 08/21|Course Introduction & Roadmap / [course slack]()|||
 |<span style="color:red;">Week2</span>|||||
-|Tuesday 08/26|[Intro to Assembly Language: Grammar]|||
-|Thursday 08/28|[Intro to Assembly Language: Grammar]|||
+|Tuesday 08/26|Intro to Assembly Language: Grammar|||
+|Thursday 08/28|Intro to Assembly Language: Grammar|||
 |<span style="color:red;">Week3</span>|||||
 |Tuesday 09/02|||||
 |Thursday 09/04|||||
