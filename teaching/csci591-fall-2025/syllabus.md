@@ -44,8 +44,8 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 09/30|Logic Bombs and Trojan Horse||||
 |Thursday 10/02|Rootkits and Backdoors||||
 |<span style="color:red;">Week8</span>|||||
-|Tuesday 10/07|||||
-|Thursday 10/09|||||
+|Tuesday 10/07|Self-study||||
+|Thursday 10/09|Mid-term||||
 |<span style="color:red;">Week9</span>|||||
 |Tuesday 10/14|||||
 |Thursday 10/16|||||
