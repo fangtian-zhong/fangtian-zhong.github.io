@@ -29,10 +29,10 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 08/26|Intro to Assembly Language: Grammar|slides|||
 |Thursday 08/28|Intro to Assembly Language: Grammar|slides|||
 |<span style="color:red;">Week3</span>|||||
-|Tuesday 09/02|||||
-|Thursday 09/04|||Assignement 1 Due||
+|Tuesday 09/02|||Assignement 1 Due||
+|Thursday 09/04|||||
 |<span style="color:red;">Week4</span>|||||
-|Tuesday 09/09|||||
+|Tuesday 09/09|||Assignement 2 Due||
 |Thursday 09/11|||||
 |<span style="color:red;">Week5</span>|||||
 |Tuesday 09/16|||||
