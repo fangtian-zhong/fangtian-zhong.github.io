@@ -56,7 +56,7 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 10/28|Analyzing Malicious Program||||
 |Thursday 10/30|User Mode Debugging with Angr||||
 |<span style="color:red;">Week12</span>|||||
-|Tuesday 11/04|||||
+|Tuesday 11/04||||Project 4|
 |Thursday 11/06|||||
 |<span style="color:red;">Week13</span>|||||
 |Tuesday 11/11|Veteran's Day, No Class||||
@@ -68,7 +68,7 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Tuesday 12/02|||||
+|Tuesday 12/02||||Project 5|
 |Thursday 12/04|||||
 |<span style="color:red;">Final Week</span>|||||
 |Thursday 12/11|Final Exam at 12:00pm - 1:50pm|||
