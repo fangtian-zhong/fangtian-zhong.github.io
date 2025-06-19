@@ -118,7 +118,7 @@ By the end of the course, students should be able to:
 ## Grading
 
 You will be graded on the following:
-* 5 assignments: 20%
+* 6 assignments: 20%
 * 5 projects: 40%
 * 2 Exams: 30%
 * Quizzes/Absence (Lowest 5 dropped): 10%
