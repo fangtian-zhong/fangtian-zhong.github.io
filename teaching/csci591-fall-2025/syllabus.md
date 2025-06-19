@@ -90,7 +90,10 @@ Quiz9 will cover week13, week14, week15.
 ## Catalog description
 
 3 Credits.
-PREREQUISITE: CSCI 127 Joy and Beauty of Data. Introduces imperative programming and the C standard library. Course covers pointers, memory management and structures.
+PREREQUISITE: CSCI 112 — C Programming (Required)
+              CSCI 232 — Data Structures and Algorithms (required)
+	      CSCI 460 — Operating Systems (required)
+       CSCI 107 — Python Programming (Required)
 
 
 ## Course Info
@@ -113,37 +116,11 @@ The textbook is optional for this course, but is a good resource for anyone who
 is interested. Most classwork and lab programming assignments will come from
 the book, and lectures are based on the content in the book as well.
 
-*Problem Solving and Program Design in C*, by Jeri R. Hanley & Elliot B. Koffman, Eighth Edition.
+*Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software* by Michael Sikorski, Andrew Honig, No Starch Press, 2012 
+*Windows 64-bit Assembly Language Programming Quick Start: Intel X86-64, SSE, AVX* by Robert Dunne,Gaul Communications, 2018. 
 
 You can find free PDFs of the textbook online.
 
-### Linux server
-
-We have a shared course server for you to develop, compile, and run your C
-programs on. Details for how to access the server can be found on the [lecture 1
-page](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools).
-
-### Optional open lab and TAs
-
-There is an optional lab on Fridays from 10:00 to 16:00 pm in BARNARD HALL 254.
-*Note that there is no lab during the first week of classes (Friday, January 17th)!* However, after this week, even
-when no lab is due, there will still be TAs in the lab to help you.
-
-
-### Instructor office hours
-
-My office hours are 10:00am-10:50am on Mondays, Wednesdays and Fridays in the Barnard 356. You can also contact me on Slack to set up a
-different meeting time, and join the slack by [the link](https://join.slack.com/t/csci112-spring-2025/shared_invite/zt-2xtse2b76-LIdmlBON~mnoULb14~3FsA), or drop by my office (Barnard 356) if my door is open.
-You can find office hours for all CS faculty [here](https://www.cs.montana.edu/office-hours.html).
-
-### SmartyCats
-
-There is SmartyCats tutoring for this course! Visit [their
-website](https://www.montana.edu/aycss/success/smartycats) to find out more.
-You can also [apply to be a SmartyCats tutor yourself](https://www.montana.edu/aycss/success/smartycats/apply.html) for other CS courses you've taken, or for this one next semester.
-
-### Computer Science Success Center
-There are free tutors available in Barnard 259. More information [here](https://www.cs.montana.edu/student-success-center.html).
 
 ### Slack server
 
