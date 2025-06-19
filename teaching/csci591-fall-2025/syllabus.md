@@ -47,14 +47,14 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 10/07|Self-study||||
 |Thursday 10/09|Mid-term||||
 |<span style="color:red;">Week9</span>|||||
-|Tuesday 10/14|||||
-|Thursday 10/16|||||
+|Tuesday 10/14|Bots and Botnets||||
+|Thursday 10/16|Spyware and Adware||||
 |<span style="color:red;">Week10</span>|||||
-|Tuesday 10/21|||||
-|Thursday 10/23|||||
+|Tuesday 10/21|Prerequisite for Understanding angr||||
+|Thursday 10/23|angr Environment Setup and angr Basics||||
 |<span style="color:red;">Week11</span>|||||
-|Tuesday 10/28|||||
-|Thursday 10/30|||||
+|Tuesday 10/28|Analyzing Malicious Program||||
+|Thursday 10/30|User Mode Debugging with Angr||||
 |<span style="color:red;">Week12</span>|||||
 |Tuesday 11/04|||||
 |Thursday 11/06|||||
