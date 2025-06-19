@@ -24,13 +24,13 @@ Quiz9 will cover week13, week14, week15.
 |Date|Lecture Topic (notes linked)|Slides|Assignments|Projects|
 |:---|:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>|||||
-|Thursday 08/21|Course Introduction & Roadmap / [course slack]|slides|Assignement 1 Released!|
+|Thursday 08/21|Course Introduction & Roadmap / [course slack]|slides|Assignement 1 Released!||
 |<span style="color:red;">Week2</span>|||||
-|Tuesday 08/26|Intro to Assembly Language: Grammar|slides||
-|Thursday 08/28|Intro to Assembly Language: Grammar|slides||
+|Tuesday 08/26|Intro to Assembly Language: Grammar|slides|||
+|Thursday 08/28|Intro to Assembly Language: Grammar|slides|||
 |<span style="color:red;">Week3</span>|||||
 |Tuesday 09/02|||||
-|Thursday 09/04||||Assignement 1 Due|
+|Thursday 09/04|||Assignement 1 Due||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|||||
 |Thursday 09/11|||||
