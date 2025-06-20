@@ -35,19 +35,19 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 09/09|PE Structure||||
 |Thursday 09/11|Import Table, Import Address Table, and Bound Import Table|[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
-|Tuesday 09/16|Relocation Table and Export, Retrofitting|||Project 1|
+|Tuesday 09/16|Relocation Table and Export, Retrofitting||Project 1|
 |Thursday 09/18|Review ||||
 |<span style="color:red;">Week6</span>|||||
 |Tuesday 09/23|Virus||||
 |Thursday 09/25|Worms||||
 |<span style="color:red;">Week7</span>|||||
-|Tuesday 09/30|Logic Bombs and Trojan Horse|||Project 2|
+|Tuesday 09/30|Logic Bombs and Trojan Horse||Project 2|
 |Thursday 10/02|Rootkits and Backdoors||||
 |<span style="color:red;">Week8</span>|||||
 |Tuesday 10/07|Self-study||||
 |Thursday 10/09|Mid-term||||
 |<span style="color:red;">Week9</span>|||||
-|Tuesday 10/14|Bots and Botnets|||Project 3|
+|Tuesday 10/14|Bots and Botnets||Project 3|
 |Thursday 10/16|Spyware and Adware||||
 |<span style="color:red;">Week10</span>|||||
 |Tuesday 10/21|Prerequisite for Understanding angr||||
@@ -56,7 +56,7 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 10/28|Analyzing Malicious Program||||
 |Thursday 10/30|User Mode Debugging with Angr||||
 |<span style="color:red;">Week12</span>|||||
-|Tuesday 11/04||||Project 4|
+|Tuesday 11/04|||Project 4|
 |Thursday 11/06|||||
 |<span style="color:red;">Week13</span>|||||
 |Tuesday 11/11|Veteran's Day, No Class||||
@@ -68,7 +68,7 @@ Quiz9 will cover week13, week14, week15.
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Tuesday 12/02||||Project 5|
+|Tuesday 12/02|||Project 5|
 |Thursday 12/04|||||
 |<span style="color:red;">Final Week</span>|||||
 |Thursday 12/11|Final Exam at 12:00pm - 1:50pm|||
