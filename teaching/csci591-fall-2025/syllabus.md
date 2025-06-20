@@ -30,10 +30,10 @@ Quiz9 will cover week13, week14, week15.
 |Thursday 08/28|Intro to Assembly Language: Grammar||||
 |<span style="color:red;">Week3</span>|||||
 |Tuesday 09/02|Intro to Assembly Language: Grammar||||
-|Thursday 09/04|PE Structure||[Assignement 1](./assignments/assignment1)||
+|Thursday 09/04|PE Structure|[Assignement 1](./assignments/assignment1)||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|PE Structure||||
-|Thursday 09/11|Import Table, Import Address Table, and Bound Import Table||[Assignment 2](./assignments/assignment2)||
+|Thursday 09/11|Import Table, Import Address Table, and Bound Import Table|[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
 |Tuesday 09/16|Relocation Table and Export, Retrofitting|||Project 1|
 |Thursday 09/18|Review ||||
