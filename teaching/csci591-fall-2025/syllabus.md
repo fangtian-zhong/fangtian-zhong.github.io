@@ -14,7 +14,7 @@ location: "Bozeman, Montana"
 
 
 ## Quiz
-Quiz9 will cover week13, week14, week15.
+
 ## Course schedule
 
 <!---
@@ -24,7 +24,7 @@ Quiz9 will cover week13, week14, week15.
 |Date|Lecture Topic (notes linked)|Assignments |Projects|
 |:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>||||
-|Thursday 08/21|Course Introduction & Roadmap / [course slack]|||
+|Thursday 08/21|[Course Introduction & Roadmap](./lectures/ppts/Introduction_to_CSCI_591.pdf) / [course slack](https://join.slack.com/t/csci591malici-mu01461/shared_invite/zt-37vvw2syq-OcaHOm9pHuXsPvlvZPJJRQ)|||
 |<span style="color:red;">Week2</span>||||
 |Tuesday 08/26|Intro to Assembly Language: Grammar||||
 |Thursday 08/28|Intro to Assembly Language: Grammar||||
