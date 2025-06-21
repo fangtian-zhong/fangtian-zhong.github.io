@@ -12,14 +12,14 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 **Fangtian Zhong**, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) Provable Verification in Semantic Bug Identification, USENIX Security Symposium (In Submission),  **Core Rank A***
 
-Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Misbehavior Detection in Vehicular Networks with Batch Message Verification, IEEE Internet of Things Journal(In submission) **JCR 1**
+Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Misbehavior Detection in Vehicular Networks with Batch Message Verification, IEEE Internet of Things Journal(Major Revision) **JCR 1**
 
 **Fangtian Zhong**, Micheal Crapse, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) What you see may not be true: Deep Bug Detection in Assemly, IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
 
 Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal, **JCR 1**
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2024) [Unveiling Malware Patterns: A Self-analysis
-Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security (In Submission), **Core Rank A**
+Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security (Major Revision), **Core Rank A**
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, **Core Rank A***
 
