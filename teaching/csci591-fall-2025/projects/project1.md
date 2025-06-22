@@ -61,4 +61,4 @@ from the user like **project1.exe filename.exe**.
 * 20: output is correct for all test cases
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on Tuesday, September 23rd.
+Scores will be uploaded to Canvas by class time on Tuesday, September 23rd.
