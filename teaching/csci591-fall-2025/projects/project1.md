@@ -6,47 +6,22 @@ title: "Lab 1"
 ## Logistics
 * Due: Friday, January 24th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab1.c` in your `~/csci112_spring2025/labs/lab1`
-	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab1`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
-
-## Outside resources
-
-On this assignment, you may not use the internet or generative AI such as
-ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 10am-4pm in BARNARD 254) or post in Slack to
-get help.
-
-However, you may use those resources for help with navigating the Linux
-terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Discord anyway.
+	grade in a file called `project1.c` in your Canvas submission
+	directory.
 
 ## Learning outcomes
-* Make sure that your `git` repository is set up correctly.
-* Stage, commit, and tag the state of your repository.
-* Use prepocessor directives (e.g., `#include`, `#define`).
-* Get input from the console.
-* Do a basic calculation in C.
-* Print and format output.
-* Become familiar with the autograder for labs.
+This assignment is meant to be a low stakes way to introduce you to this course and some of the technologies we will use. You may have opportunities to complete parts of this assignment in class, but you should plan to work on this outside of class as well. Of particular importance, by the end of this assignment you should be setup with a suitable environment for completing assignments for this course. You will also have had the chance to practice with tools we’ll be using this semester. Besides, the project requires you to parse two applications with different architectures for their DOS headers, NT headers (including signature, coff header and optional header), and section headers and print out their values in a format like (field name: field value). The codes should be written in C or C++. 
 
 
 ## Assignment
 
-In a file called `lab1.c` in your `csci112_spring2025/labs/lab1` directory, write a program that estimates the temperature in a freezer (in degrees
-Celsius) given the elapsed time (hours) since a power failure. Assume this
-temperature (T) is given by
+This project requires you to parse two applications with different architectures for their DOS headers, NT headers (including signature, coff header and optional header), and section headers and print out their values in a format like (field name: field value). The codes should be written in C or C++.
 
-$$
-T = \frac{3t^2}{t+1} - 10
-$$
-
-where $t$ is the time since the power failure. Your program should prompt the
-user to enter how long it has been since the start of the power failure in
-whole hours and minutes. Note that you will need to convert the elapsed time
-into hours. For example, if the user entered 2 30 (2 hours 30 minutes), you
-would need to convert this to 2.5 hours.
-
+* Download Microsoft Visual Studio, Community Version on your machine.To ensure the compability, all students should use the same IDE.
+* Download firefox on your machine. You should use Firefox browser to download the applications because Google Chrome does not allow you to download malware
+* Download applications on your machine. One application is 32-bit executable, the other 64-bit executable.
+* Follow the format to print out their values.
+  ** For example, Dos Header has 19 fields, you print like:
 ### Requirements
 
 You must:
