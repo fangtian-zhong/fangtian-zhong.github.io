@@ -14,7 +14,7 @@ title: "Project 5"
 
 The objective of this project is to help students become familiar with using WinDbg for kernel-level debugging. The kernel, which serves as the core of the operating system, is contained in the file ntoskrnl.exe. To trace system library calls back to their corresponding kernel functions—instead of simply observing their effects—we must use kernel debugging tools. Among these tools, WinDbg, provided by Microsoft, is the most powerful and widely used. Ultimately, all system API calls are routed to the kernel, as illustrated in the figure below, adapted from the book Practical Malware Analysis.
 
-![User mode and Kernel mode](./imgs/NativeAPI.png)
+![User mode and Kernel mode](./imgs/NativeAPI)
 
 ## Resources
 * Code examples relevant to this project can be found in the class slides
@@ -27,27 +27,31 @@ The objective of this project is to help students become familiar with using Win
 ### Task1: Parent Process 
 "Launch Process Explorer with Administrator privileges. Scroll to the bottom of the process list and locate the Notepad process (note that there may be multiple instances, as shown in the image below). The flag is the name of the parent process, which is highlighted with a green box in the image.
 
-![ctf1](./imgs/ctf1.png)
+![ctf1](./imgs/ctf1)
 
 ### Task 2: Crash Message 
 The flag is covered by a green box in the image below.
-![ctf2](./imgs/ctf2.png)
+
+![ctf2](./imgs/ctf2)
 
 ### Task 3: WarBird
 Locate the function highlighted in the image below.
 
 The flag is covered by a green box in the image below.
-![ctf3](./imgs/ctf3.png)
+
+![ctf3](./imgs/ctf3)
+
 ### Task 4:Magic 
 Find the word Magic in nt.
 
 The flag is covered by a green box in the image below.
 
-![ctf4](./imgs/ctf4.png)
+![ctf4](./imgs/ctf4)
 
 ### Task 5: Module 
 Find this code. The flag is covered by a green box in the image below.
-![ctf5](./imgs/ctf5.png)
+
+![ctf5](./imgs/ctf5)
 
 
 
