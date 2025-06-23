@@ -10,15 +10,19 @@ title: "Project 5"
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab5`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112_spring2025/classwork/classwork4).)
 
-## Outside resources
+
+## Learning outcomes
 
 The learning objective of this project is for students to familiarize with WinDbg commands for kernel debugging. The kernel is the heart of the operating system, and it resides in the file ntoskrnl.exe. If we want to trace back the system libraries to the kernel functions, instead of merely having its effect returned, we should utilize kernel-debugging tools. Among them, WinDbg is the most useful one provided by Microsoft.All system APIs will finally transfer the invocation to the kernel, as shown in the figure below, from the "Practical Malware Analysis" book. 
 
 ![User mode and Kernel mode](./imgs/NativeAPI.png)
 
-## Learning outcomes
-* Practice using arrays.
-* Practice using loops.
+## Resources
+* Codes related to this project can be found in our class’s slides.
+* A related video lecture for WinDbg Basics for malware Analysis, recorded by [OALabs](https://www.youtube.com/watch?v=QuFJpH3My7A).
+* More information about kernel debugging with [breakpoints](https://dennisbabkin.com/blog/?t=setup-windbg-preview-for-kernel-debugging-via-fast-network-in-vmware-vm#breakpoint_bsod).
+* [Checklist](https://blog.lamarranet.com/wp-content/uploads/2021/09/WinDbg-Cheat-Sheet.pdf) for WinDbg Commands
+
 
 ## Assignment
 
