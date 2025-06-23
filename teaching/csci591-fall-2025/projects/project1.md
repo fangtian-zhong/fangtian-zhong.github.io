@@ -34,9 +34,9 @@ This project requires you to parse two applications with different architectures
 ## Troubleshooting
 
 
-    * After I run your source code, the IDE will produce a project1.exe file.
-    * I will use the command project1.exe filename.exe in command prompt to check for correctness.
-    * You can add the following codes to your project1.
+     After I run your source code, the IDE will produce a project1.exe file.
+     I will use the command project1.exe filename.exe in command prompt to check for correctness.
+     You can add the following codes to your project1.
 ```
 #include <stdio.h>
 int main(int argc, char* argv[])
