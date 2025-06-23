@@ -10,7 +10,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
-Zhuoyun Qian, Hongyi Miao, Yili Jiang, Qin Hu, Jiaqi Huang, **Fangtian Zhong**, A Survey of Multifaceted IoT Malware Analysis: Evaluating Diverse Feature Extraction Techniques, IEEE Internet of Things Journal (In Submission), **JCR 1**
+Zhuoyun Qian, Hongyi Miao, Yili Jiang, Qin Hu, Jiaqi Huang, **Fangtian Zhong***. (2025) A Survey of Multifaceted IoT Malware Analysis: Evaluating Diverse Feature Extraction Techniques, IEEE Internet of Things Journal (In Submission), **JCR 1**
 
 **Fangtian Zhong**, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) Provable Verification in Semantic Bug Identification, USENIX Security Symposium (In Submission),  **Core Rank A***
 
