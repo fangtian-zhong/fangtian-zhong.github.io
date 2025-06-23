@@ -21,10 +21,11 @@ This project requires you to parse two applications with different architectures
 * Download firefox on your machine. You should use Firefox browser to download the applications because Google Chrome does not allow you to download malware
 * Download applications on your machine. One application is 32-bit executable, the other 64-bit executable.
 * Follow the format to print out their values. For example, Dos Header has 19 fields, you print like:
-  Dos Header
+  ```Dos Header
   1. e_magic: 5A4D
   2. e_cblp: 90
   3. e_cp: 3
+  ```
 * Only one source code file **project1.c** in your submission, don't use existing API functions and use the structures you defined.
 
 
