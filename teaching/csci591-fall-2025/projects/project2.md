@@ -4,7 +4,7 @@ title: "Project 2"
 ---
 
 ## Logistics
-* Due: Friday, January 31st AoE.
+* Due: Tuesday, September 30th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `lab2.c` in your `~/csci112_spring2025/labs/lab2`
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
@@ -28,29 +28,38 @@ This project is meant to understand the major functionality of applications and 
 * Only one source code file project2.c in your submission, don't use existing API functions and use the structures you defined. 
 
 
+### Troubleshooting
+
+
+    * After I run your source code, the IDE will produce a project2.exe file.
+    * I will use the command project2.exe filename.exe in command prompt to check for correctness.
+    * You can add the following codes to your project1.
+```
+#include <stdio.h>
+int main(int argc, char* argv[])
+{
+    if (argc < 2){
+    printf("Usage: %s filename.exe",  argv[0]);
+    return 1;
+    }
+    return 0;    
+}
+```
+
+
 ### Input/output format
+For this assignment, you must match the output format exactly, and take input
+from the user like **project2.exe filename.exe**.
 
 
 ## Grading--100 points
-* 10: source file exists with correct name in correct location
 * 10: source file compiles
-* 10: source file compiles without warnings
-* 20: does not use `printf` in `main`
-* 10: does not use a for or while loop
-* 10: prompt to user matches exactly
-* 10: output reporting earnings matches exactly (include linebreak and number
-	of decimal places)
-* 5 points each: computes correct total earnings for 4 test cases
-
-### Autograder
-
-You can run the autograder using
-
-```
-/public/labs/lab2/autograder.sh
-```
-
-A detailed breakdown of your score will be present in `autograder.txt`.
+* 5: source file compiles without warnings
+* 5: input format matches 
+* 10: warning matches when user does not provide filename
+* 20: output format matches exactly
+* 20: output is correct for one test case
+* 30: output is correct for all test cases
 
 ## Grading turnaround
-Scores will be uploaded to D2L by class time on February 5th.
+Scores will be uploaded to Canvas by class time on October 7th.
