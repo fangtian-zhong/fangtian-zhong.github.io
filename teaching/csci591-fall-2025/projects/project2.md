@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lab 2"
+title: "Project 2"
 ---
 
 ## Logistics
@@ -10,70 +10,26 @@ title: "Lab 2"
 	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
 	tagged as `lab2`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
 
-## Outside resources
-
-On this assignment, you may not use the internet or generative AI such as
-ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 10-4pm in
-BARNARD 254) or post in Slack to
-get help.
-
-However, you may use those resources for help with navigating the Linux
-terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Slack anyway.
-
 ## Learning outcomes
-* Practice getting input from the console using `scanf`.
-* Practice printing using `printf`.
-* Reuse code with functions.
-* Practice function syntax in C.
+This project is meant to understand the major functionality of applications and the process of operating system to make addresses relocatable when applications are not loaded into their preferred memory addresses. This assignment should also give you more practice with using tools like Git, GitHub, and Markdown. 
 
 ## Assignment
+* you should parse the Import Table, Import Address Table, Bound Import Table, Relocation Table, and Export Table of the applications provided in Project 1, as well as any other tables referenced by them if present.
+* Each of the structures referenced by these tables may have multiple instances, and all of them should be parsed.
+* Follow the format below to print out their values. For example, the DOS Header has 19 fields and should be printed like this:
+  ```
+  Dos Header
+  e_magic: 5A4D
+  e_cblp: 90
+  e_cp: 3
+  ...
+   ```
+* Some may not have names, then printing their values is okay!  
+* Only one source code file project2.c in your submission, don't use existing API functions and use the structures you defined. 
 
-In order to earn some extra money over the three-day holiday weekend, you take
-a job working security at a music festival. However, the compensation is a bit
-complex: the hourly wage is different on different days of the festival.
-
-To make sure you are compensated fairly, you decide to write a program
-to compute your total pay based on the hours you worked each day and the hourly
-wage promised for that day. As a challenge, and to practice your new knowledge
-of using functions to reuse code, you decide not to use the `printf` function
-in `main`, nor to use for or while loops.
-
-In a file called `lab2.c` in your `csci112_spring2025/labs/lab2` directory, write a program that computes your earnings over the course of the 3 days.
-
-### Requirements
-
-You must:
-* not use any loops
-* not use `printf` in `main`
 
 ### Input/output format
 
-For this assignment, you must match the output format exactly, and take input
-from the user precisely as described.
-
-For each of the three days, you must prompt the user for the number of hours
-they worked and the wage for that day.
-
-After receiving information about the hours worked and wage for each day,
-report the total pay that you are owed.
-
-Thus, a full run of your program would look like this if you entered `3`,
-`21.40`, `5`, `25`, `8`, and `33.33`:
-
-```
-Enter hours worked on day 1: 3
-Enter hourly wage on day 1: $21.40
-Enter hours worked on day 2: 5
-Enter hourly wage on day 2: $25
-Enter hours worked on day 3: 8
-Enter hourly wage on day 3: $33.33
-
-Your total pay is $455.84
-```
-
-You can assume that the hours worked will always be a whole number.
 
 ## Grading--100 points
 * 10: source file exists with correct name in correct location
