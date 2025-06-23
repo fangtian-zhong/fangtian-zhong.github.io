@@ -6,9 +6,7 @@ title: "Project 2"
 ## Logistics
 * Due: Tuesday, September 30th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `lab2.c` in your `~/csci112_spring2025/labs/lab2`
-	directory, and that the snapshot (commit) of your repository containing the version of that file you want us to grade has been committed and
-	tagged as `lab2`. (You should have set up your `git` repo and practiced tagging a commit in [Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/classwork/classwork4).)
+	grade in a file called `project2.c` in your submission.
 
 ## Learning outcomes
 This project is meant to understand the major functionality of applications and the process of operating system to make addresses relocatable when applications are not loaded into their preferred memory addresses. This assignment should also give you more practice with using tools like Git, GitHub, and Markdown. 
