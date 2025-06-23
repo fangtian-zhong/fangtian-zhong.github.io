@@ -41,7 +41,7 @@ location: "Bozeman, Montana"
 |Tuesday 09/23|Virus||||
 |Thursday 09/25|Worms||||
 |<span style="color:red;">Week7</span>|||||
-|Tuesday 09/30|Logic Bombs and Trojan Horse||Project 2|
+|Tuesday 09/30|Logic Bombs and Trojan Horse||[Project 2](./projects/project2)|
 |Thursday 10/02|Rootkits and Backdoors||||
 |<span style="color:red;">Week8</span>|||||
 |Tuesday 10/07|Self-study||||
