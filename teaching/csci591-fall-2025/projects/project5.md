@@ -4,7 +4,7 @@ title: "Project 5"
 ---
 
 ## Logistics
-* Due: Friday, February 21st AoE.
+* Due: Tuesday, December 2nd AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `project.txt` in your submission
 	directory. You must clearly document what you have done and what you have observed, including relevant screenshots, command snippets, and code snippets. For any significant command or code snippet, a supporting explanation is required to clarify its purpose and functionality. Submissions that include commands or code without explanations will not receive credit. If you encounter any interesting or unexpected observations, you must provide an explanation. Additionally, you are encouraged to explore beyond the lab requirements and conduct further investigation where appropriate.
