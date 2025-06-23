@@ -27,9 +27,12 @@ This project is meant to understand the major functionality of applications and 
 
 
 ### Troubleshooting
+
     * After I run your source code, the IDE will produce a project2.exe file.
     * I will use the command project2.exe filename.exe in command prompt to check for correctness.
     * You can add the following codes to your project1.
+
+
 ```
 #include <stdio.h>
 int main(int argc, char* argv[])
