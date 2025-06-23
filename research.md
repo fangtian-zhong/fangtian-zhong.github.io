@@ -18,7 +18,7 @@ Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Mis
 
 Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal, **JCR 1**
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2024) [Unveiling Malware Patterns: A Self-analysis
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2025) [Unveiling Malware Patterns: A Self-analysis
 Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security (Major Revision), **Core Rank A**
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, **Core Rank A***
