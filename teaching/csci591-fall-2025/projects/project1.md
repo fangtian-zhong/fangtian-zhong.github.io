@@ -31,7 +31,7 @@ This project requires you to parse two applications with different architectures
 * Only one source code file **project1.c** in your submission, don't use existing API functions and use the structures you defined.
 
 
-### Troubleshooting
+## Troubleshooting
 
 
     * After I run your source code, the IDE will produce a project1.exe file.
