@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Lab 5"
+title: "Project 5"
 ---
 
 ## Logistics
@@ -12,15 +12,9 @@ title: "Lab 5"
 
 ## Outside resources
 
-On this assignment, you may not use the internet or generative AI such as
-ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to lab (Fridays, 10am-4pm in
-Barnard 254) or post in Slack to
-get help.
+The learning objective of this project is for students to familiarize with WinDbg commands for kernel debugging. The kernel is the heart of the operating system, and it resides in the file ntoskrnl.exe. If we want to trace back the system libraries to the kernel functions, instead of merely having its effect returned, we should utilize kernel-debugging tools. Among them, WinDbg is the most useful one provided by Microsoft.All system APIs will finally transfer the invocation to the kernel, as shown in the figure below, from the "Practical Malware Analysis" book. 
 
-However, you may use those resources for help with navigating the Linux
-terminal, using vim, and using git, although you may get better answers to your
-questions by going to lab or posting on Slack anyway.
+![User mode and Kernel mode](./imgs/NativeAPI.png)
 
 ## Learning outcomes
 * Practice using arrays.
