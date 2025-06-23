@@ -26,7 +26,7 @@ This project is meant to understand the major functionality of applications and 
 * Only one source code file project2.c in your submission, don't use existing API functions and use the structures you defined. 
 
 
-### Troubleshooting
+## Troubleshooting
 
     * After I run your source code, the IDE will produce a project2.exe file.
     * I will use the command project2.exe filename.exe in command prompt to check for correctness.
