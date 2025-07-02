@@ -4,7 +4,7 @@ title: Openings
 permalink: /openings/
 ---
 
-Students with a master degree and security and software engineering background are required (e.g., program analysis, reverse engineering.) unless you have a proved record in security and software engineering venues. 3.3/4.0 in GPA is required at MSU. If you are a prospective PhD student, I highly suggest reaching out to me early so that we can both check if there is a fit between us. 
+Students with a master degree and security/software engineering background are required (e.g., program analysis, reverse engineering.) unless you have a proved record in security and software engineering venues. 3.3/4.0 in GPA is required at MSU. If you are a prospective PhD student, I highly suggest reaching out to me early so that we can both check if there is a fit between us. 
 
   <span style="color:red;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-weight:800;font-size:21px">
     Emails that don't include sufficient materials will not be reviewed! 
