@@ -36,5 +36,3 @@ This page serves as a directory for the students I am working/ worked with.
 11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
 12. Hongyi Miao: B.S. student at Northeast Normal University
   
-## Incoming Students
-1. Abolfazl Sharif Nia (Fall 2025)
