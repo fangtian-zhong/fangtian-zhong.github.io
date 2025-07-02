@@ -14,12 +14,14 @@ This page serves as a directory for the students I am working/ worked with.
 1. Zhuoyun Qian
 2. Ollie Wold
 3. Joseph Windmann
-4. Shengjie Wu
+4. Chase Marvin
  
 
 ## Grad Researcher
 1. Prakriti Baral, Benjamin Fellowship Awardee
 2. András Necz
+3. Shama Maganur
+4. Fengnian Zhao
 
 ## Alumni
 
@@ -35,4 +37,5 @@ This page serves as a directory for the students I am working/ worked with.
 10. Jake Hopkins: B.S. student at Montana State University
 11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
 12. Hongyi Miao: B.S. student at Northeast Normal University
+13. Shengjie Wu: B.S. student at Suzhou University
   
