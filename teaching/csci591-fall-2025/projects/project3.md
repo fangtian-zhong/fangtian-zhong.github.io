@@ -58,4 +58,4 @@ get help.
 
 
 ## Grading turnaround
-Scores will be uploaded to D2L by next Tuesday.
+Scores will be uploaded to Canvas by next Tuesday.
