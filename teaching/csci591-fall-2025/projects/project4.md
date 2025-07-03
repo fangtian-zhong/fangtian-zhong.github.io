@@ -44,4 +44,4 @@ For each of 3 tests,
 * 5 points: the average temperature is correct
 
 ## Grading turnaround
-Scores will be uploaded to D2L by next Tuesday.
+Scores will be uploaded to Canvas by next Tuesday.
