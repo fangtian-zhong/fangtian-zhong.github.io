@@ -52,8 +52,8 @@ from the user like **project2.exe filename.exe**.
 
 
 ## Grading--100 points
-* 10: source file compiles
-* 5: source file compiles without warnings
+
+* 15: source file compiles without warnings
 * 5: input format matches 
 * 10: warning matches when user does not provide filename
 * 20: output format matches exactly
