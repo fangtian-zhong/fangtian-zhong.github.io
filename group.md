@@ -36,6 +36,6 @@ This page serves as a directory for the students I am working/ worked with.
 9. Jeff Simpson: B.S. student at Montana State University
 10. Jake Hopkins: B.S. student at Montana State University
 11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
-12. Hongyi Miao: B.S. student at Northeast Normal University
-13. Shengjie Wu: B.S. student at Suzhou University
+12. Hongyi Miao: B.S. student
+13. Shengjie Wu: B.S. student 
   
