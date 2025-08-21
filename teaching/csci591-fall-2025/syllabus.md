@@ -149,14 +149,14 @@ you are having any problems.* We want you to succeed!
 
 * You are responsible for any announcements about assignments  made in class, on Slack, on Canvas,  and here
 	on the course website.
-* All assignments are due on their due date by the [Anywhere on Earth (AoE)
+* All projects/assignments are due on their due date by the [Anywhere on Earth (AoE)
 	timezone](https://www.timeanddate.com/time/zones/aoe), which is 6 hours behind Bozeman (Actually, it's only 5 hours behind during standard time, but we'll go with 6 hours behind at all times). This means that the real due
-	date is 6am the following day. If you submit labs and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
+	date is 6am the following day. If you submit projects and programs  within 24 hours of the due date, you get 25% off of whatever score you earn. If you
 	submit within two days of the due date you get 50% off.
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
-* Assignments cannot be submitted late.
+* ###Assignments cannot be submitted late.
 
 ### Missed quiz policy
 
