@@ -156,7 +156,7 @@ you are having any problems.* We want you to succeed!
 	Otherwise, no points are possible.
 * You can submit as many times as you would like; only your last submission will be
 	graded.
-* ###Assignments cannot be submitted late.
+* *Assignments cannot be submitted late.
 
 ### Missed quiz policy
 
