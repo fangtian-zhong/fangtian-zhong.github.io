@@ -8,7 +8,7 @@ location: "Bozeman, Montana"
 ---
 
 ## Instructor
-     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Tuesdays: 13:00pm - 14:20pm and Thursdays 10:50am-12:10pm (not available during holiday/university day)
+     Fangtian Zhong, email: fangtian.zhong@montana.edu, office hours: Tuesdays/Thursdays:10:50am-12:10pm (not available during holiday/university day)
      
 ## Announcement
 
