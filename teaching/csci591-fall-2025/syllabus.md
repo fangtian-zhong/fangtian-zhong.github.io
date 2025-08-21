@@ -24,7 +24,7 @@ location: "Bozeman, Montana"
 |Date|Lecture Topic (notes linked)|Assignments |Projects|
 |:---|:---|:---|:---|
 |<span style="color:red;">Week1</span>||||
-|Thursday 08/21|[Course Introduction & Roadmap](./lectures/ppts/Introduction_to_CSCI_591.pdf) / [course slack](https://join.slack.com/t/csci591malici-mu01461/shared_invite/zt-37vvw2syq-OcaHOm9pHuXsPvlvZPJJRQ)|||
+|Thursday 08/21|[Course Introduction & Roadmap](./lectures/ppts/Introduction_to_CSCI_591.pdf) / [course slack](https://join.slack.com/t/csci591malici-mu01461/shared_invite/zt-3brlngqf7-G5hBx9pSBn6RP~FuomA_~w)|||
 |<span style="color:red;">Week2</span>||||
 |Tuesday 08/26|Intro to Assembly Language: Grammar||||
 |Thursday 08/28|Intro to Assembly Language: Grammar||||
