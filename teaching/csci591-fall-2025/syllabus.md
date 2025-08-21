@@ -133,7 +133,7 @@ There are two ways to earn bonus points in this class.
 #### Catch errors in course materials
 
 If you find an error in any of the course materials (typo, incorrect statement, etc.), post in the `#errors-capture` channel on Slack. I will decide whether
-it's truly an error and not a duplicate. If it is really an error, you get half a point. Only the first person to post about an error gets the points. You can earn a max of 2.5 total points toward your 100 for the course (for 5 errors).
+it's truly an error and not a duplicate. If it is really an error, you get half a point. Only the first person to post about an error gets the points. You can earn a max of 3 total points toward your 100 for the course (for 6 errors).
 
 #### Course evaluation
 
