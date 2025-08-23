@@ -26,10 +26,10 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week1</span>||||
 |Thursday 08/21|[Course Introduction & Roadmap](./lectures/ppts/Introduction_to_CSCI_591.pdf) / [course slack](https://join.slack.com/t/csci591malici-mu01461/shared_invite/zt-3brlngqf7-G5hBx9pSBn6RP~FuomA_~w)|||
 |<span style="color:red;">Week2</span>|[environment setup](./lectures/ppts/setup.pdf)|||
-|Tuesday 08/26|Intro to Assembly Language: Grammar||||
-|Thursday 08/28|Intro to Assembly Language: Grammar||||
+|Tuesday 08/26|[Intro to Assembly Language: Grammar](./lectures/ppts/826.pdf)||||
+|Thursday 08/28|[Intro to Assembly Language: Grammar](./lectures/ppts/828.pdf)||||
 |<span style="color:red;">Week3</span>|||||
-|Tuesday 09/02|Intro to Assembly Language: Grammar||||
+|Tuesday 09/02|[Intro to Assembly Language: Grammar](./lectures/ppts/0902.pdf)||||
 |Thursday 09/04|[PE Structure](./lectures/ppts/CSCI_591_Malicious_Code_Analysis_4.pdf)|[Assignment 1](./assignments/assignment1)||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|PE Structure||||
