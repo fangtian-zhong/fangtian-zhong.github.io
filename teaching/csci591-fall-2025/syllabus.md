@@ -63,14 +63,15 @@ location: "Bozeman, Montana"
 |Thursday 11/13|Static Analysis|[Assignment 5]||
 |<span style="color:red;">Week14</span>|||||
 |Tuesday 11/18|Static Analysis|||
-|Thursday 11/20|||||
+|Thursday 11/20||||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Tuesday 12/02|||[Project 5]|
-|Thursday 12/04|||||
+|Tuesday 12/02||||
+|Thursday 12/04||[Assignment 6]||
 |<span style="color:red;">Final Week</span>|||||
+|Tuesday 12/09||[Project 5]|
 |Thursday 12/11|Final Exam at 12:00pm - 1:50pm|||
 
 ## Catalog description
