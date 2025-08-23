@@ -30,7 +30,7 @@ location: "Bozeman, Montana"
 |Thursday 08/28|Intro to Assembly Language: Grammar||||
 |<span style="color:red;">Week3</span>|||||
 |Tuesday 09/02|Intro to Assembly Language: Grammar||||
-|Thursday 09/04|PE Structure|[Assignment 1](./assignments/assignment1)||
+|Thursday 09/04|[PE Structure](./lectures/ppts/CSCI_591_Malicious_Code_Analysis_4.pdf)|[Assignment 1](./assignments/assignment1)||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|PE Structure||||
 |Thursday 09/11|Import Table, Import Address Table, and Bound Import Table|[Assignment 2](./assignments/assignment2)||
