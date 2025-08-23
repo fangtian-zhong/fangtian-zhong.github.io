@@ -16,7 +16,7 @@ for help in any way, including use of AI tools like ChatGPT.
 
 ## Assignment
 
-* Please classify each of the five malware samples according to the categories discussed in the course and [download them here](assignment3.zip).. If a sample falls into more than one category, be sure to include all applicable categories. 
+* Please classify each of the five malware samples according to the categories discussed in the course and [download them here](assignment3.zip). If a sample falls into more than one category, be sure to include all applicable categories. 
 * Additionally, provide a clear explanation for why each sample belongs to the selected category or categories, including code snippets.
 
 ## Grading turnaround
