@@ -60,9 +60,9 @@ location: "Bozeman, Montana"
 |Thursday 11/06|Kernel Debugging with WinDbg|||
 |<span style="color:red;">Week13</span>||||
 |Tuesday 11/11|Veteran's Day, No Class||||
-|Thursday 11/13|||||
+|Thursday 11/13|Static Analysis|[Assignment 5]||
 |<span style="color:red;">Week14</span>|||||
-|Tuesday 11/18|||||
+|Tuesday 11/18|Static Analysis|||
 |Thursday 11/20|||||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
