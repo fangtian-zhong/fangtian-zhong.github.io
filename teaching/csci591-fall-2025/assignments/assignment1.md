@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Assignment 1: syllabus activity"
+title: "Assignment 1: Assembly Programs"
 ---
 
 ## Logistics
