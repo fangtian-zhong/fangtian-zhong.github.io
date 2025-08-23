@@ -1,6 +1,6 @@
 ---
 collection: teaching
-title: "Classwork 2: Getting started with Linux, vim, and the course server"
+title: "Assignment2: Assembly Programs"
 ---
 
 ## Logistics
