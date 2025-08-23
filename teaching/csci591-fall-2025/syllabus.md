@@ -44,11 +44,11 @@ location: "Bozeman, Montana"
 |Tuesday 09/30|Logic Bombs and Trojan Horse||[Project 2](./projects/project2)|
 |Thursday 10/02|Rootkits and Backdoors||||
 |<span style="color:red;">Week8</span>|||||
-|Tuesday 10/07|Self-study||||
-|Thursday 10/09|Mid-term||||
+|Tuesday 10/07|Bots and Botnets||||
+|Thursday 10/09|Spyware and Adware||||
 |<span style="color:red;">Week9</span>|||||
-|Tuesday 10/14|Bots and Botnets||[Project 3]|
-|Thursday 10/16|Spyware and Adware||||
+|Tuesday 10/14|Self-study||[Project 3]|
+|Thursday 10/16|Mid-term||||
 |<span style="color:red;">Week10</span>|||||
 |Tuesday 10/21|Prerequisite for Understanding angr||||
 |Thursday 10/23|angr Environment Setup and angr Basics|[Assignment 3](./assignments/assignment3)|||
