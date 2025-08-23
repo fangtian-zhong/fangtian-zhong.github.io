@@ -68,8 +68,8 @@ location: "Bozeman, Montana"
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
 |<span style="color:red;">Week16</span>|||||
-|Tuesday 12/02|||[Project 5]|
-|Thursday 12/04|||||
+|Tuesday 12/02||||
+|Thursday 12/04||||[Project 5]|
 |<span style="color:red;">Final Week</span>|||||
 |Thursday 12/11|Final Exam at 12:00pm - 1:50pm|||
 
