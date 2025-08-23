@@ -53,7 +53,7 @@ location: "Bozeman, Montana"
 |Tuesday 10/21|Prerequisite for Understanding angr||||
 |Thursday 10/23|angr Environment Setup and angr Basics|[Assignment 3](./assignments/assignment3)|||
 |<span style="color:red;">Week11</span>|||||
-|Tuesday 10/28|Analyzing Malicious Program||||
+|Tuesday 10/28|Analyzing Malicious Program||[Assignment 4]||
 |Thursday 10/30|User Mode Debugging with Angr||||
 |<span style="color:red;">Week12</span>|||||
 |Tuesday 11/04|||[Project 4]|
