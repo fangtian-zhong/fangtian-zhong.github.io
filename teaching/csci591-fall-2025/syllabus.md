@@ -45,10 +45,10 @@ location: "Bozeman, Montana"
 |Thursday 10/02|Bots and Botnets||||
 |<span style="color:red;">Week8</span>|||||
 |Tuesday 10/07|Spyware and Adware||||
-|Thursday 10/09|Self-study|[Assignment 3](./assignments/assignment3)||
+|Thursday 10/09|Self-study|||
 |<span style="color:red;">Week9</span>|||||
-|Tuesday 10/14|Mid-term||[Project 3]|
-|Thursday 10/16|||||
+|Tuesday 10/14|Mid-term|[Assignment 3](./assignments/assignment3)||
+|Thursday 10/16||||[Project 3]|
 |<span style="color:red;">Week10</span>|||||
 |Tuesday 10/21|Prerequisite for Understanding angr||||
 |Thursday 10/23|angr Environment Setup and angr Basics||||
