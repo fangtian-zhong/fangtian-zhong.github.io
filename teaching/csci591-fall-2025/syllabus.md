@@ -53,8 +53,8 @@ location: "Bozeman, Montana"
 |Tuesday 10/21|angr Environment Setup and angr Basics||||
 |Thursday 10/23|Analyzing Malicious Program||||
 |<span style="color:red;">Week11</span>||||
-|Tuesday 10/28||||
-|Thursday 10/30|User Mode Debugging with Angr|[Assignment 4]||
+|Tuesday 10/28||[Assignment 4]||
+|Thursday 10/30|User Mode Debugging with Angr|||
 |<span style="color:red;">Week12</span>|||||
 |Tuesday 11/04|WinDbg and Environment Setup|||
 |Thursday 11/06|Kernel Debugging with WinDbg||[Project 4]|
