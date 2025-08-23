@@ -38,14 +38,14 @@ location: "Bozeman, Montana"
 |Tuesday 09/16|Relocation Table and Export, Retrofitting||[Project 1](./projects/project1)|
 |Thursday 09/18|Review ||||
 |<span style="color:red;">Week6</span>|||||
-|Tuesday 09/23|Virus||||
-|Thursday 09/25|Worms||||
+|Tuesday 09/23|Virus and Worms||||
+|Thursday 09/25|Logic Bombs and Trojan Horse||||
 |<span style="color:red;">Week7</span>|||||
-|Tuesday 09/30|Logic Bombs and Trojan Horse||[Project 2](./projects/project2)|
-|Thursday 10/02|Rootkits and Backdoors||||
+|Tuesday 09/30|Rootkits and Backdoors||[Project 2](./projects/project2)|
+|Thursday 10/02|Bots and Botnets||||
 |<span style="color:red;">Week8</span>|||||
-|Tuesday 10/07|Bots and Botnets||||
-|Thursday 10/09|Spyware and Adware||||
+|Tuesday 10/07|Spyware and Adware||||
+|Thursday 10/09|||||
 |<span style="color:red;">Week9</span>|||||
 |Tuesday 10/14|Self-study||[Project 3]|
 |Thursday 10/16|Mid-term||||
