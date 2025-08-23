@@ -48,12 +48,12 @@ location: "Bozeman, Montana"
 |Thursday 10/09|Self-study|||
 |<span style="color:red;">Week9</span>|||||
 |Tuesday 10/14|Mid-term|[Assignment 3](./assignments/assignment3)||
-|Thursday 10/16||||[Project 3]|
+|Thursday 10/16|Prerequisite for Understanding angr|||[Project 3]|
 |<span style="color:red;">Week10</span>|||||
-|Tuesday 10/21|Prerequisite for Understanding angr||||
-|Thursday 10/23|angr Environment Setup and angr Basics||||
+|Tuesday 10/21|angr Environment Setup and angr Basics||||
+|Thursday 10/23|Analyzing Malicious Program||||
 |<span style="color:red;">Week11</span>||||
-|Tuesday 10/28|Analyzing Malicious Program|||
+|Tuesday 10/28||||
 |Thursday 10/30|User Mode Debugging with Angr|[Assignment 4]||
 |<span style="color:red;">Week12</span>|||||
 |Tuesday 11/04|WinDbg and Environment Setup|||
