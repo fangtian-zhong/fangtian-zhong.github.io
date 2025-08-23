@@ -51,7 +51,7 @@ location: "Bozeman, Montana"
 |Thursday 10/16|Spyware and Adware||||
 |<span style="color:red;">Week10</span>|||||
 |Tuesday 10/21|Prerequisite for Understanding angr||||
-|Thursday 10/23|angr Environment Setup and angr Basics||||
+|Thursday 10/23|angr Environment Setup and angr Basics|[Assignment 3](./assignments/assignment3)|||
 |<span style="color:red;">Week11</span>|||||
 |Tuesday 10/28|Analyzing Malicious Program||||
 |Thursday 10/30|User Mode Debugging with Angr||||
