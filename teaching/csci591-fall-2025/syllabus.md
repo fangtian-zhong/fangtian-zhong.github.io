@@ -59,7 +59,7 @@ location: "Bozeman, Montana"
 |Tuesday 11/04|WinDbg and Environment Setup|||
 |Thursday 11/06|Kernel Debugging with WinDbg||[Project 4]|
 |<span style="color:red;">Week13</span>||||
-|Tuesday 11/11|Veteran's Day, No Class||||
+|Tuesday 11/11|Veterans Day, No Class||||
 |Thursday 11/13|Static Analysis|[Assignment 5]||
 |<span style="color:red;">Week14</span>|||||
 |Tuesday 11/18|Static Analysis|||
