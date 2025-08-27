@@ -36,7 +36,7 @@ location: "Bozeman, Montana"
 |Thursday 09/11|[Import Table, Import Address Table, and Bound Import Table](./lectures/ppts/0911.pdf)|[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
 |Tuesday 09/16|[Relocation Table and Export, Retrofitting](./lectures/ppts/0916.pdf)||[Project 1](./projects/project1)|
-|Thursday 09/18|Review ||||
+|Thursday 09/18|[Review](./lectures/ppts/0918.pdf) ||||
 |<span style="color:red;">Week6</span>|||||
 |Tuesday 09/23|Virus and Worms||||
 |Thursday 09/25|Logic Bombs and Trojan Horse||||
