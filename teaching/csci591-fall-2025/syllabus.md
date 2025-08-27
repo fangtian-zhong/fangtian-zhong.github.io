@@ -35,7 +35,7 @@ location: "Bozeman, Montana"
 |Tuesday 09/09|[PE Structure](./lectures/ppts/0909.pdf)||||
 |Thursday 09/11|[Import Table, Import Address Table, and Bound Import Table](./lectures/ppts/0911.pdf)|[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
-|Tuesday 09/16|Relocation Table and Export, Retrofitting||[Project 1](./projects/project1)|
+|Tuesday 09/16|[Relocation Table and Export, Retrofitting](./lectures/ppts/0916.pdf)||[Project 1](./projects/project1)|
 |Thursday 09/18|Review ||||
 |<span style="color:red;">Week6</span>|||||
 |Tuesday 09/23|Virus and Worms||||
