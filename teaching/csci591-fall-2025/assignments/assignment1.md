@@ -39,7 +39,7 @@ assignment1-1.exe, it is gonna print out their values:
 * third number:
 * last number:
   
-### 1.3 Develop a assembly program named assignment2-1.asm that reads two numbers from keyboard and save them to uninitialized variables (uninitializedData1, uninitializedData2) with different storage spaces (resd, resq). Then it correctly calculates their sum and subtraction and prints them out. Finally, we have to print them out in their corresponding formats.
+### 1.3 Develop a assembly program named assignment2-1.asm that reads two int numbers from keyboard and save them to uninitialized variables (uninitializedData1, uninitializedData2) with different storage spaces (resd, resq). Then it correctly calculates their sum and subtraction and prints them out. Finally, we have to print them out in their corresponding formats.
 
 After compiling and linking the assembly program to produce assignment2-1.exe, double clicked
 assignment2-1.exe, it is gonna show you to give numbers (5, 10):
