@@ -38,7 +38,7 @@ location: "Bozeman, Montana"
 |Tuesday 09/16|[Relocation Table and Export, Retrofitting](./lectures/ppts/0916.pdf)||[Project 1](./projects/project1)|
 |Thursday 09/18|[Review](./lectures/ppts/0918.pdf) ||||
 |<span style="color:red;">Week6</span>|||||
-|Tuesday 09/23|Virus and Worms||||
+|Tuesday 09/23|[Virus and Worms](./lectures/ppts/0923.pdf)||||
 |Thursday 09/25|Logic Bombs and Trojan Horse||||
 |<span style="color:red;">Week7</span>|||||
 |Tuesday 09/30|Rootkits and Backdoors||[Project 2](./projects/project2)|
