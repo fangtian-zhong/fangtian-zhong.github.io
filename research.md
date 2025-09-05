@@ -10,7 +10,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 ## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
 
-Zhuoyun Qian, Hongyi Miao, Yili Jiang, Qin Hu, Jiaqi Huang, **Fangtian Zhong**. (2025) A Survey of Multifaceted IoT Malware Analysis: Evaluating Diverse Feature Extraction Techniques, IEEE Internet of Things Journal (In Submission)
+Zhuoyun Qian, Hongyi Miao, Yili Jiang, Qin Hu, Jiaqi Huang, **Fangtian Zhong**. (2025) [Evaluating Diverse Feature Extraction Techniques of Multifaceted IoT Malware Analysis: A Survey](https://arxiv.org/abs/2509.03442), IEEE Internet of Things Journal (In Submission)
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Wen Zhang, Yutong Zhao. (2025) Obfuscation-Aware Malware Representation Learning, CSET@ACSAC 2025 (In Submission)  
 
