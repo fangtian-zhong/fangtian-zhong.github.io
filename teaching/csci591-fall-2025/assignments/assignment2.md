@@ -29,7 +29,7 @@ After compiling and linking the assembly program to produce assignment3-1.exe, d
 
 ### 2.3 Develop a assembly program named assignment2-3.asm. It has a function to print out all ASCII character set (hints, using loop and pushing and poping rcx).
 
-After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the ASCII character set.
+After compiling and linking the assembly program to produce assignment2-3.exe, double clicked assignment2-3.exe, it is gonna show you the ASCII character set.
 
 ## Grading--30 points
    For each subassignment, you get 10 points if your solution is correct and 0 otherwise.
