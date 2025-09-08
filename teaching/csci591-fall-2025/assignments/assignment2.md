@@ -24,7 +24,7 @@ The result of the example code depends on the comparison of the values stored in
 
 ### 2.2 Develop a assembly program named assignment2-2.asm. It has a function to count the length of a string (msg db "Hello, world!") until null terminator is found (hints, using loop). The main function calls the function and prints the length of the string.
 
-After compiling and linking the assembly program to produce assignment3-1.exe, double clicked assignment3-1.exe, it is gonna show you the length of the string:
+After compiling and linking the assembly program to produce assignment2-2.exe, double clicked assignment2-2.exe, it is gonna show you the length of the string:
 * The length of the string:
 
 ### 2.3 Develop a assembly program named assignment2-3.asm. It has a function to print out all ASCII character set (hints, using loop and pushing and poping rcx).
