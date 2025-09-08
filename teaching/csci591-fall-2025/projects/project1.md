@@ -19,7 +19,7 @@ This project requires you to parse two applications with different architectures
 
 * Download Microsoft Visual Studio, Community Version on your machine.To ensure the compability, all students should use the same IDE.
 * Download firefox on your machine. You should use Firefox browser to download the applications because Google Chrome does not allow you to download malware
-* Download applications on your machine. One application is 32-bit executable, the other 64-bit executable.
+* Download applications on your machine. One application is [32-bit executable](./AntivirusPlatinum.exe), the other [64-bit executable](./kernel32.dll).
 * Follow the format to print out their values. For example, Dos Header has 19 fields, you print like:
   ```
   Dos Header
