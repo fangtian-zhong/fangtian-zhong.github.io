@@ -9,7 +9,7 @@ title: "Project 2"
 	grade in a file called `project2.c` in your submission.
 
 ## Learning outcomes
-This project is meant to understand the major functionality of applications and the process of operating system to make addresses relocatable when applications are not loaded into their preferred memory addresses. This assignment should also give you more practice with using tools like Git, GitHub, and Markdown. 
+This project is meant to understand the major functionality of applications and the process of operating system to make addresses relocatable when applications are not loaded into their preferred memory addresses. 
 
 ## Assignment
 * you should parse the Import Table, Import Address Table, Bound Import Table, Relocation Table, and Export Table of the applications provided in Project 1, as well as any other tables referenced by them if present.
