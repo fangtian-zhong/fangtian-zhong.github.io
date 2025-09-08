@@ -22,8 +22,8 @@ Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Mis
 
 Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal, **JCR 1**
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2025) [Unveiling Malware Patterns: A Self-analysis
-Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security (Major Revision), 
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2025) [Unveiling Malware Visual Patterns: A Self-analysis
+Perspective](https://arxiv.org/abs/2501.06071), IEEE Transactions on Information Forensics and Security, 
 
 **Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, 
 
@@ -36,7 +36,7 @@ Sabrina Perry, Yili Jiang, **Fangtian Zhong**, Jiaqi Huang, Sohan Gyawali. (2024
 
 Jiaqi Huang, Yili Jiang, Zhiguo Zhou, **Fangtian Zhong** (2024) [Semi-supervised Federated Learning for Misbehavior Detection of BSMs in Vehicular Networks](https://ieeexplore.ieee.org/abstract/document/10757542), IEEE Conference on Vehicular Technology 
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Dinghao Wu (2024) [Enhancing Malware Classification](https://ieeexplore.ieee.org/abstract/document/10609414?casa_token=vI8JMXFN3UYAAAAA:HRTwIHEfxYGGF8YsxgVbPoynVkj9H1DykPkRVn5tGpzN2vq1uQw4hPFgTOPXpNNrIXiw4b0TlQ), IEEE Transactions on Information Forensics and Security 
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Dinghao Wu (2024) [Enhancing Malware Classification via Self-Similarity Techniques](https://ieeexplore.ieee.org/abstract/document/10609414?casa_token=vI8JMXFN3UYAAAAA:HRTwIHEfxYGGF8YsxgVbPoynVkj9H1DykPkRVn5tGpzN2vq1uQw4hPFgTOPXpNNrIXiw4b0TlQ), IEEE Transactions on Information Forensics and Security 
 
 **Fangtian Zhong**, Xiuzhen Cheng, Dongxiao Yu, Bei Gong, Shuaiwen Song, Jiguo Yu✉. (2023). [MalFox: Camouflaged Adversarial Malware Example Generation Based on Conv-GANs Against Black-Box Detectors](https://ieeexplore.ieee.org/abstract/document/10017127/). *IEEE Transactions on Computers*
 
