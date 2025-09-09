@@ -39,7 +39,7 @@ location: "Bozeman, Montana"
 |Thursday 09/18|[Review](./lectures/ppts/0918.pdf) ||||
 |<span style="color:red;">Week6</span>|||||
 |Tuesday 09/23|[Virus and Worms](./lectures/ppts/0923.pdf)||||
-|Thursday 09/25|Logic Bombs and Trojan Horse||||
+|Thursday 09/25|[Logic Bombs and Trojan Horse](./lectures/ppts/0925.pdf)||||
 |<span style="color:red;">Week7</span>|||||
 |Tuesday 09/30|Rootkits and Backdoors||[Project 2](./projects/project2)|
 |Thursday 10/02|Bots and Botnets||||
