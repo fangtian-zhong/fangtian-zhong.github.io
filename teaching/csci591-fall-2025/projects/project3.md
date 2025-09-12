@@ -13,7 +13,7 @@ title: "Project 3"
 
 
 ## Assignment
-We have to develop a project3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe.
+We have to develop a project3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe. After running program3.exe, you will get the retrofiting.exe that has the encrypted program1.exe at its last section.
 
 
 ### Example output
