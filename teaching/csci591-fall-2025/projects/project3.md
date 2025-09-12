@@ -6,11 +6,7 @@ title: "Project 3"
 ## Logistics
 * Due: Thursday, October 16th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `project3.c` in your submission.
-
-
-## Learning outcomes
-
+	grade in a file called `program1.c`, `program2.c`, `project3.c` in your submission.
 
 ## Assignment
 You need to develop three programs: program1.c, program2.c, and project3.c.
