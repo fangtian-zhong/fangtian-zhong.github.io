@@ -4,7 +4,7 @@ title: "Project 3"
 ---
 
 ## Logistics
-* Due: Tuesday, October 14th AoE.
+* Due: Thursday, October 16th AoE.
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `project3.c` in your submission.
 
