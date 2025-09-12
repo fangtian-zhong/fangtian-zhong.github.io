@@ -16,7 +16,7 @@ title: "Project 3"
 You need to develop three programs: program1.c, program2.c, and project3.c.
 * program1.c: This program, when compiled into program1.exe, should simply print "hello world".
 * program2.c: This program, when compiled into program2.exe, should display the file header, the optional header, and the last section header of a PE (Portable Executable) file.
-* project3.c: This program should take program1.exe and attach it to the end of program2.exe, producing program3.exe. After compilation, running program3.exe should print the file header, the optional header, and the last section header.
+* project3.c: This program should take program1.exe, attach it to the end of program2.exe and display `attaching completed!`, producing program3.exe. After compilation, running program3.exe should print its own file header, optional header, and last section header.
 
 ### Example output
 
@@ -31,7 +31,7 @@ Only three source code files program1.c, program2.c, project3.c in your submissi
 
 After I complile your source code files individually, the IDE will produce the executable files.
     I will use the command project3.exe program1.exe program2.exe in command prompt to attach program1.exe to program2.exe and run program2.exe to check for correctness.
-    You can add the following codes to your project1. `Note`: Running program2.exe before attaching and after attaching will produce different results, since the file header, optional header and section layout will change once program1.exe is appended.
+    You can add the following codes to your project1. `Note`: Running program2.exe and program3.exe will produce different results, since the file header, optional header and section layout will change once program1.exe is appended.
 
    ```
        #include <stdio.h>
@@ -48,25 +48,13 @@ After I complile your source code files individually, the IDE will produce the e
 
 ## Grading--100 points
 
-* 5: source file exists with correct name in correct location
-* 10: source file compiles
-* 5: source file compiles without warnings
-* 10: defines function `within_x_percent` to take in three doubles and return an
-	int
-* 10: the function `within_x_percent` returns 1 if the `data` value is within
-	`percent` of the `ref` value and 0 otherwise
-* 10: calls function `within_x_percent`to decide what the substance is
-* 5: the user is prompted to give a custom error percent; if not, uses default
-	of 5%
-* 5: accepts `n` and `N` for no and `y` and `Y` for yes for giving a custom
-	error percent
-* 10: for everything else, prints `Error: bad input` and quits the program
-* 5: prompts to user match exactly
-* 5: outputs to user match exactly
-* 10: prints the correct substance given the temperature and error bound. If
-	multiple match, prints the one with the smaller boiling point.
-* 10: prints the message `Substance unknown` if the entered temperature is not
-	within the given percent of any of the substances' boiling points.
+* 10: source file compiles without warnings
+* 10: use the command project3.exe program1.exe program2.exe 
+* 10: program1.exe prints out `hello world` correctly
+* 20: program2.exe prints out the file header, optional header, and last section header correctly before attaching
+* 10: project3.exe successfully attaches program1.exe to program2.exe and prints `attaching completed!`. 
+* 10: project3.exe updates all required fields in headers.
+* 30: program3.exe prints its own file header, optional header, and last section header correctly. Don’t use existing API functions, and use the structures you defined, otherwise, 10 points off from your total score.
 
 
 
