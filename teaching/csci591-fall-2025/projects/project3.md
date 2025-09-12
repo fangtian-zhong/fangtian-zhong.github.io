@@ -26,9 +26,24 @@ Machine: 0x8664
 NumberOfSections: 5
 ...
 ```
+Only three source code files program1.c, program2.c, project3.c in your submission, don’t use existing API functions and use the structures you defined.
+### Troubleshooting
 
-### Hints
+After I complile your source code files individually, the IDE will produce the executable files.
+    I will use the command project3.exe program1.exe program2.exe in command prompt to attach program1.exe to program2.exe and run program2.exe to check for correctness.
+    You can add the following codes to your project1.
 
+   ```
+       #include <stdio.h>
+	   int main(int argc, char* argv[])
+{
+    if (argc < 3){
+    printf("Usage: %s filename1.exe filename2.exe",  argv[0]);
+    return 1;
+    }
+    return 0;    
+}
+   ```
 
 
 ## Grading--100 points
