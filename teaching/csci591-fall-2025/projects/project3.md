@@ -8,19 +8,12 @@ title: "Project 3"
 * Submission instructions: ensure that you have the source code you want us to
 	grade in a file called `project3.c` in your submission.
 
-## Outside resources
-
-On this assignment, you may not use the internet or generative AI such as
-ChatGPT to solicit solutions to the programming part of the assignment. If you
-are having trouble writing your program, please go to my office hours or post in Slack to
-get help.
-
 
 ## Learning outcomes
 
 
 ## Assignment
-
+We have to develop a project3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe.
 
 
 ### Example output
