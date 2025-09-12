@@ -13,13 +13,18 @@ title: "Project 3"
 
 
 ## Assignment
-We have to develop a project3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe. After running program3.exe, you will get the retrofiting.exe that has the encrypted program1.exe at its last section.
-
+You need to develop three programs: program1.c, program2.c, and project3.c.
+* program1.c: This program, when compiled into program1.exe, should simply print "hello world".
+* program2.c: This program, when compiled into program2.exe, should display the file header, the optional header, and the last section header of a PE (Portable Executable) file.
+* project3.c: This program should take program1.exe and attach it to the end of program2.exe, producing program3.exe. After compilation, running program3.exe should print the file header, the optional header, and the last section header.
 
 ### Example output
 
 ```
-
+File Header
+Machine: 0x8664
+NumberOfSections: 5
+...
 ```
 
 ### Hints
