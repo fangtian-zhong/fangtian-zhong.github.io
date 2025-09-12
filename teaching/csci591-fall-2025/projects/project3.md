@@ -36,13 +36,13 @@ After I complile your source code files individually, the IDE will produce the e
    ```
        #include <stdio.h>
 	   int main(int argc, char* argv[])
-{
-    if (argc < 3){
-    printf("Usage: %s filename1.exe filename2.exe",  argv[0]);
-    return 1;
-    }
-    return 0;    
-}
+       {
+    	if (argc < 3){
+    	printf("Usage: %s filename1.exe filename2.exe",  argv[0]);
+    	return 1;
+       }
+       return 0;    
+	   }
    ```
 
 
