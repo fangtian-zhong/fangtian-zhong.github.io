@@ -26,7 +26,7 @@ Only three source code files program1.c, program2.c, project3.c in your submissi
 ### Troubleshooting
 
 After I complile your source code files individually, the IDE will produce the executable files.
-    I will use the command project3.exe program1.exe program2.exe in command prompt to attach program1.exe to program2.exe and run program2.exe to check for correctness.
+    I will use the command project3.exe program1.exe program2.exe in command prompt to attach program1.exe to program2.exe and run program2.exe and program3.exe to check for correctness.
     You can add the following codes to your project1. `Note`: Running program2.exe and program3.exe will produce different results, since the file header, optional header and section layout will change once program1.exe is appended.
 
    ```
