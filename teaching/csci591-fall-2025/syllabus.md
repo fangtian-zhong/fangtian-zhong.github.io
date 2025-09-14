@@ -44,7 +44,7 @@ location: "Bozeman, Montana"
 |Tuesday 09/30|[Rootkits and Backdoors](./lectures/ppts/0930.pdf)||[Project 2](./projects/project2)|
 |Thursday 10/02|[Bots and Botnets](./lectures/ppts/1002.pdf)||||
 |<span style="color:red;">Week8</span>|||||
-|Tuesday 10/07|Spyware and Adware||||
+|Tuesday 10/07|[Spyware and Adware](./lectures/ppts/1007.pdf)||||
 |Thursday 10/09|Self-study|||
 |<span style="color:red;">Week9</span>|||||
 |Tuesday 10/14|Mid-term|[Assignment 3](./assignments/assignment3)||
