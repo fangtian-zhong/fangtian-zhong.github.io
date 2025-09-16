@@ -48,9 +48,9 @@ location: "Bozeman, Montana"
 |Thursday 10/09|Self-study|||
 |<span style="color:red;">Week9</span>|||||
 |Tuesday 10/14|Mid-term|[Assignment 3](./assignments/assignment3)||
-|Thursday 10/16|Prerequisite for Understanding angr||[Project 3](./projects/project3)|
+|Thursday 10/16|[Prerequisite for Understanding angr](./lectures/ppts/1016.pdf)||[Project 3](./projects/project3)|
 |<span style="color:red;">Week10</span>|||||
-|Tuesday 10/21|angr Environment Setup and angr Basics||||
+|Tuesday 10/21|angr Basics||||
 |Thursday 10/23|Analyzing Malicious Program||||
 |<span style="color:red;">Week11</span>||||
 |Tuesday 10/28|Out for a conference|[Assignment 4]||
