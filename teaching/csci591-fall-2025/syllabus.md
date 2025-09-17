@@ -33,7 +33,7 @@ location: "Bozeman, Montana"
 |Thursday 09/04|[PE Structure](./lectures/ppts/CSCI_591_Malicious_Code_Analysis_4.pdf)|[Assignment 1](./assignments/assignment1)||
 |<span style="color:red;">Week4</span>|||||
 |Tuesday 09/09|[PE Structure](./lectures/ppts/0909.pdf)||||
-|Thursday 09/11|[Import Table, Import Address Table, and Bound Import Table](./lectures/ppts/0911.pdf);|[Assignment 2](./assignments/assignment2)||
+|Thursday 09/11|[Import Table, Import Address Table, and Bound Import Table](./lectures/ppts/0911.pdf);[Recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=519e15af-c137-4809-83cf-b355015bc66b)|[Assignment 2](./assignments/assignment2)||
 |<span style="color:red;">Week5</span>|||||
 |Tuesday 09/16|[Relocation Table and Export, Retrofitting](./lectures/ppts/0916.pdf);[Recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4dd97d76-8eee-4c77-b55d-b35a012da681)||[Project 1](./projects/project1)|
 |Thursday 09/18|[Review](./lectures/ppts/0918.pdf) ||||
