@@ -38,7 +38,7 @@ location: "Bozeman, Montana"
 |Tuesday 09/16|[Relocation Table and Export, Retrofitting](./lectures/ppts/0916.pdf);[Recording](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4dd97d76-8eee-4c77-b55d-b35a012da681)|||
 |Thursday 09/18|[Review](./lectures/ppts/0918.pptx) ||||
 |<span style="color:red;">Week6</span>|||||
-|Tuesday 09/23|[Virus and Worms](./lectures/ppts/0923.pdf)|||[Project 1](./projects/project1)|
+|Tuesday 09/23|[Virus and Worms](./lectures/ppts/0923.pdf)||[Project 1](./projects/project1)|
 |Thursday 09/25|[Logic Bombs and Trojan Horse](./lectures/ppts/0925.pdf)||||
 |<span style="color:red;">Week7</span>|||||
 |Tuesday 09/30|[Rootkits and Backdoors](./lectures/ppts/0930.pdf)||[Project 2](./projects/project2)|
