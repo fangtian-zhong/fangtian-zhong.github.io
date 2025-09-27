@@ -25,8 +25,6 @@ Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) Ba
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2025) [Unveiling Malware Visual Patterns: A Self-analysis
 Perspective](https://ieeexplore.ieee.org/document/11172343), IEEE Transactions on Information Forensics and Security, 
 
-**Fangtian Zhong**, Qin Hu, Xiuzhen Cheng. (2024) Helping Jeremy to Analyze Malware: A Usability-Optimized Malware Analysis, The ACM Conference on Computer and Communications Security, 
-
 Zhuoyun Qian, **Fangtian Zhong✉**, Qin Hu, Yili Jiang, Jiaqi Huang, Mengfei Ren, Jiguo Yu. (2024) [Software Vulnerability Analysis Across Programming
 Language and Program Representation Landscapes: A Survey](https://arxiv.org/pdf/2503.20244), ACM Computing Surveys (In Submission), 
 
