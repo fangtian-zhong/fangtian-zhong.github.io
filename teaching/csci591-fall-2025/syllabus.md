@@ -50,7 +50,7 @@ location: "Bozeman, Montana"
 |Tuesday 10/14|Mid-term|[Assignment 3](./assignments/assignment3)||
 |Thursday 10/16|[Prerequisite for Understanding angr](./lectures/ppts/1016.pdf)||[Project 3](./projects/project3)|
 |<span style="color:red;">Week10</span>|||||
-|Tuesday 10/21|angr Basics||||
+|Tuesday 10/21|[angr Basics](./lectures/ppts/1021.pdf)||||
 |Thursday 10/23|Analyzing Malicious Program||||
 |<span style="color:red;">Week11</span>||||
 |Tuesday 10/28|Out for a conference|[Assignment 4]||
