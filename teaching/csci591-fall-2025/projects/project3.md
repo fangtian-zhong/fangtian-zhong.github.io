@@ -12,7 +12,7 @@ title: "Project 3"
 You need to develop three programs: program1.c, program2.c, and project3.c.
 * program1.c: This program, when compiled into program1.exe, should simply print "hello world".
 * program2.c: This program, when compiled into program2.exe, should display the file header, the optional header, and the last section header of a PE (Portable Executable) file.
-* project3.c: This program should take program1.exe, attach it to the end of program2.exe and display `attaching completed!`, producing program3.exe. After compilation, running program3.exe should print its own file header, optional header, and last section header.
+* project3.c: This program should take program1.exe, attach it to the end of program2.exe and display `attaching completed!`. After compilation, running program3.exe should print "attaching completed".
 
 ### Example output
 
