@@ -50,7 +50,7 @@ After I complile your source code files individually, the IDE will produce the e
 * 20: program2.exe prints out the file header, optional header, and last section header correctly before attaching
 * 10: project3.exe successfully attaches program1.exe to program2.exe and prints `attaching completed!`. 
 * 10: project3.exe updates all required fields in headers.
-* 30: program3.exe prints its own file header, optional header, and last section header correctly. Don’t use existing API functions, and use the structures you defined, otherwise, 10 points off from your total score.
+* 30: program2.exe prints its updated file header, optional header, and last section header correctly. Don’t use existing API functions, and use the structures you defined, otherwise, 10 points off from your total score.
 
 
 
