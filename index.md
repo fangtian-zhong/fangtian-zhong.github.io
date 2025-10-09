@@ -14,6 +14,6 @@ credits by Dr. Liping
 
 <a href="">
   <span style="color:red;font-family:'Open Sans', Helvetica, Arial, sans-serif;font-weight:800;font-size:21px">
-    I do not hire students this year.
+    I do not hire PhD students this year.
   </span>
 </a>
