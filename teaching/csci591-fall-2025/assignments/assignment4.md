@@ -18,6 +18,8 @@ On this assignment, there are no restrictions on the use of outside resources fo
 
 ![Assignment 4](../imgs/prerequisite.png "angr basics")
 
+## Grading--30 points
+   For each dominator, you get 5 points if your solution is fully correct and 0 otherwise.
 
 ## Grading turnaround
 Final scores will be run at 6am on the due date and scores will be uploaded to Canvas by the next class meeting.
