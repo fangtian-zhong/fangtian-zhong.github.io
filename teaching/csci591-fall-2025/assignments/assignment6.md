@@ -11,9 +11,7 @@ title: "Classwork 6"
 
 ## Assignment
 
-Submit the Linux self-assessment quiz on D2L. Your name is associated with your
-submission in D2L, but we will anonymize your data when we use it.
+* Classify the [attached malware samples](./assignment6.zip) according to their similarities. Implement a C/C++ program that converts each malware file into an image using the conversion rules specified in the course slides (refer to the recommended table).
 
 ## Grading turnaround
-Scores will be
-uploaded to D2L by the next class period.
+Scores will be uploaded to Canvas by the next class period.
