@@ -6,7 +6,7 @@ title: "Project 4"
 ## Logistics
 * Due: Tuesday, November 6th AoE.
 * Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `project4.c` in your submission.
+	grade in a file called `project4.c, program1.c, program2.c` in your submission.
 
 ## Outside resources
 
@@ -20,6 +20,20 @@ are having trouble writing your program, please go to my office hours or post in
 
 ## Assignment
 
+* program2.c — 64-bit executable required (if you submit a 32-bit executable you will receive 85%).
+  
+    1. print a string "hello program2".
+    2. Read encrypted program1 at the last section of retrofiting.exe.
+    3. Decrypt it to get the original program1.exe.
+    4. Create the process in suspended form by using API "CreateProcess", the process to be created is retrofiting.exe
+    5. Get the context of the retrofiting.exe (ImageBase and OEP).
+    6. Uninstaller (NtUnmapViewOfSection).
+    7. Allocate space (by using API "VirtualAllocEx") at the specified location which is "ImageBase" of program1.exe, and the size is the SizeOfImage of program1.exe.
+    8. If the application space is successful, stretch the program1.exe and copy it to the space (by using WriteProcessMemory).
+    9. If the application space fails, but there is a relocation table, apply for space at any position, then stretch, copy, and repair the relocation table of the program1.exe.
+    10. Modify the Context of the program. Change the ImageBase of the Context of the program2.exe to the ImageBase of program1.exe and change the OEP of the Context of the program2.exe to the OEP of program1.exe.
+    11. Set the Context and restore the main thread
+    12. The replacement is successful
 
 
 ### Example output
