@@ -63,7 +63,7 @@ location: "Bozeman, Montana"
 |Thursday 11/13|Static Analysis|[Assignment 5](./assignments/assignment5)||
 |<span style="color:red;">Week14</span>|||||
 |Tuesday 11/18|Static Analysis|||
-|Thursday 11/20|Dynamic Analysis|[Assignment 6]||
+|Thursday 11/20|Dynamic Analysis|[Assignment 6](./assignments/assignment6)||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
