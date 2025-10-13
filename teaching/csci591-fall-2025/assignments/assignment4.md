@@ -15,6 +15,6 @@ On this assignment, there are no restrictions on the use of outside resources fo
 ## Assignment
 
 * Get the dominator, strict dominator, immediate dominator, post-dominator, strict post-dominator and immediate post-dominator of line 2 and line 5 in the given slide.
-![Assignment 4](../imgs/ "angr basics")
+![Assignment 4](../imgs/prerequisite.png "angr basics")
 ## Grading turnaround
 Final scores will be run at 6am on the due date and scores will be uploaded to Canvas by the next class meeting.
