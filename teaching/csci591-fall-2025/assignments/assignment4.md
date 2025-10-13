@@ -14,7 +14,7 @@ On this assignment, there are no restrictions on the use of outside resources fo
 
 ## Assignment
 
-* Get the dominator, strict dominator, immediate dominator, post-dominator, strict post-dominator and immediate post-dominator of line 2 and line 5 in the given slide.
+* Get the dominator, strict dominator, immediate dominator, post-dominator, strict post-dominator and immediate post-dominator of line 2 and line 5 in the [given slide](../imgs/prerequisite.png).
 
 ![Assignment 4](../imgs/prerequisite.png "angr basics")
 
