@@ -4,37 +4,19 @@ title: "Classwork 5"
 ---
 
 ## Logistics
-* Due: Wednesday, January 29th AoE.
-* Submission instructions: make sure that the required file (`remainder.c`) is in your
-	`/classwork/week3/wed/` directory.
-* Deadline reminder: after the deadline passes, you cannot earn any points for
-	this assignment.
+* Due: Thursday, November 13th AoE.
+* Submission instructions: make sure that the required document (assignment5.doc) is submitted to Canvas
+* Deadline reminder: after the deadline passes, you cannot earn any points for this assignment.
 
-## Learning outcomes
-* Write a function in C.
-* Use a function prototype and define your function below `main`.
+## Outside resources
+
+On this assignment, there are no restrictions on the use of outside resources for help in any way, including use of AI tools like ChatGPT.
 
 ## Assignment
 
-* Log in to the server.
-* From your home directory, navigate to `csci112_spring2025/classwork/week3/wed/`, creating directories `week3` and `wed` if necessary.
-* **Copy the file with the starting code and make sure that it is renamed to `remainder.c`.** It's the file `starting_code.c` in the directory `/public/classwork/week3/wed`. You will probably need to use the `cp` command, and maybe the `mv` command if you didn't rename your file when you copied it. See the [Linux notes from the first lecture](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/lectures/tools) for a review of those commands.
-* Once you have the starting code (in a file renamed `remainder.c`), open it
-	and add the definition of the function `compute_remainder`.
-Hint: The `%` (mod operator) computes the remainder. For example, `12 % 4` returns
-	`0`, whereas `22 % 10` returns `2`. The body of your function may be only
-	one or two lines.
-* Compile your program to the executable file `exe` (or other filename of your
-	choice) using `gcc -o exe -Wall remainder.c`.
-* Run your program using `./exe`.
+*Please locate the critical functions and instructions from the entry point to the exit (only including a set of functions to be true) that head to the backdoor and give the flag. Please
+include codes, descriptions, call graph and control flow graph for answers (i.e., circled the critical functions and instructions in the graphs). Download the code [here](./backdoor.exe)
 
-You can run the autograder by running
-```
-/public/classwork/week3/wed/autograder.sh
-```
-
-The file `autograder.txt` will be created with your score.
 
 ## Grading turnaround
-Final scores will be run at 6am on the due date and scores will be
-uploaded to D2L by the next class meeting.
+Final scores will be run at 6am on the due date and scores will be uploaded to Canvas by the next class meeting.
