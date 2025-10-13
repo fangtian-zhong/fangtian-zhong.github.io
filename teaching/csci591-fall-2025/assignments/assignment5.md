@@ -5,7 +5,7 @@ title: "Classwork 5"
 
 ## Logistics
 * Due: Thursday, November 13th AoE.
-* Submission instructions: make sure that the required document (assignment5.doc) is submitted to Canvas
+* Submission instructions: make sure that the required assignment5.py and document (assignment5.doc) is submitted to Canvas
 * Deadline reminder: after the deadline passes, you cannot earn any points for this assignment.
 
 ## Outside resources
@@ -14,8 +14,7 @@ On this assignment, there are no restrictions on the use of outside resources fo
 
 ## Assignment
 
-*Please locate the critical functions and instructions from the entry point to the exit (only including a set of functions to be true) that head to the backdoor and give the flag. Please
-include codes, descriptions, call graph and control flow graph for answers (i.e., circled the critical functions and instructions in the graphs). Download the code [here](./backdoor.exe)
+* Develop a assignment5.py that starts at the program’s entry point, identifies the subset of functions and instructions that form a viable execution path to the backdoor and ultimately produces the flag. For each identified element, provide: disassembly snippets, a short description of its role, a call graph highlighting the selected functions, and control-flow graphs (CFGs) with the critical functions/instructions clearly annotated (e.g., circled or otherwise emphasized) in the assignment5.doc. Download the binary [here](./backdoor.exe)
 
 
 ## Grading turnaround
