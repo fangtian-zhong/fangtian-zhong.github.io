@@ -1,10 +1,10 @@
 ---
 collection: teaching
-title: "Classwork 6"
+title: "Assignment 6"
 ---
 
 ## Logistics
-* Due: Monday, Feburary 3rd AoE.
+* Due: Thursday, November 20th AoE.
 * Submission instructions: submit the Linux self-assessment on D2L.
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
