@@ -49,6 +49,8 @@ are having trouble writing your program, please go to my office hours or post in
 
 * If you apply the techniques from spyware to project3, you will receive extra 2 points. It will be tested by displaying the keystrokes when people press them. If the running program2.exe is showing the keystroke after people press it, one by each press, it means successful.
 
+* If you develop additional techniques from other types of malware, you will receive extra 2 points each. 
+
 * Only source codes and a explanable file are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach it to program2.exe by running the command project4.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run it and get the output "hello program2" first and then "hello program1". 
 ### Example output
 
