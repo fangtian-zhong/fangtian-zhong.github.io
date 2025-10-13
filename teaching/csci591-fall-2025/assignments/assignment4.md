@@ -4,7 +4,7 @@ title: "Classwork 4"
 ---
 
 ## Logistics
-* Due: Friday, January 24th AoE.
+* Due: Tuesday, October 28th AoE.
 * **If you want to see the results of the autograder so that you can check that you will get full credit**: create the directory `csci112_spring2025/classwork/week2/fri`.
 	You  don't need to put anything in it. But that's the only place that the
 	autograder knows to put your `autograder.txt` file. You can still get full credit even
