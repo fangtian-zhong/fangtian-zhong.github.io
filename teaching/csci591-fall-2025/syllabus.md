@@ -55,7 +55,7 @@ location: "Bozeman, Montana"
 |Thursday 10/23|[Analyzing Malicious Program](./lectures/ppts/1023.pdf)||||
 |<span style="color:red;">Week11</span>||||
 |Tuesday 10/28|Out for a conference|[Assignment 4](./assignments/assignment4)||
-|Thursday 10/30|User Mode Debugging with Angr|||
+|Thursday 10/30|[User Mode Debugging with Angr](./lectures/ppts/1030.pdf)|||
 |<span style="color:red;">Week12</span>|||||
 |Tuesday 11/04|WinDbg and Environment Setup|||
 |Thursday 11/06|Kernel Debugging with WinDbg||[Project 4](./projects/project4)|
