@@ -4,7 +4,7 @@ title: "Assignment 3: Malware Classification!"
 ---
 
 ## Logistics
-* Due: Thursday, October 23rd AoE (Friday 6am Bozeman time).
+* Due: Thursday, October 15th AoE (Friday 6am Bozeman time).
 * Submission instructions: make sure that the required document (`malware.doc`) is submitted to Canvas
 * Deadline reminder: after the deadline passes, you cannot earn any points for
 	this assignment.
