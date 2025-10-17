@@ -12,7 +12,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 
 Zhuoyun Qian, Hongyi Miao, Cheng Zhang, Qin Hu, Yili Jiang, Jiaqi Huang, **Fangtian Zhong**. (2025) [Feature-Oriented IoT Malware Analysis: Extraction, Classification, and Future Directions](https://arxiv.org/abs/2509.03442), IEEE Internet of Things Journal (In Submission)
 
-**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Wen Zhang, Yutong Zhao. (2025) Obfuscation-Aware Malware Representation Learning, ACSAC 2025 (In Submission)  
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Wen Zhang, Yutong Zhao. (2025) ObfusLearn: Learning Malware Representations Under Packing Obfuscation, (In Submission)  
 
 **Fangtian Zhong**, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) Provable Verification in Semantic Bug Identification, USENIX Security Symposium (In Submission)
 
