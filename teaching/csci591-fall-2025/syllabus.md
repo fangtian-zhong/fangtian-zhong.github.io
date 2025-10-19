@@ -64,7 +64,7 @@ location: "Bozeman, Montana"
 |Thursday 11/13|[Static Analysis](./lectures/ppts/1113.pdf)|[Assignment 5](./assignments/assignment5)||
 |<span style="color:red;">Week14</span>|||||
 |Tuesday 11/18|[Static Analysis](./lectures/ppts/1118.pdf)|||
-|Thursday 11/20|Dynamic Analysis|[Assignment 6](./assignments/assignment6)||
+|Thursday 11/20|[Dynamic Analysis](./lectures/ppts/1120.pdf)|[Assignment 6](./assignments/assignment6)||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
 |Thursday 11/27|Fall Break, No Class||||
