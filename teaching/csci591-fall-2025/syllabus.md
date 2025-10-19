@@ -61,9 +61,9 @@ location: "Bozeman, Montana"
 |Thursday 11/06|[Kernel Debugging with WinDbg](./lectures/ppts/1106.pdf)||[Project 4](./projects/project4)|
 |<span style="color:red;">Week13</span>||||
 |Tuesday 11/11|Veterans Day, No Class||||
-|Thursday 11/13|Static Analysis|[Assignment 5](./assignments/assignment5)||
+|Thursday 11/13|[Static Analysis](./lectures/ppts/1113.pdf)|[Assignment 5](./assignments/assignment5)||
 |<span style="color:red;">Week14</span>|||||
-|Tuesday 11/18|Static Analysis|||
+|Tuesday 11/18|[Static Analysis](./lectures/ppts/1118.pdf)|||
 |Thursday 11/20|Dynamic Analysis|[Assignment 6](./assignments/assignment6)||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
