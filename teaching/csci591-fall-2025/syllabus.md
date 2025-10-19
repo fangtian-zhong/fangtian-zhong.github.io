@@ -57,8 +57,8 @@ location: "Bozeman, Montana"
 |Tuesday 10/28|Out for a conference|[Assignment 4](./assignments/assignment4)||
 |Thursday 10/30|[User Mode Debugging with Angr](./lectures/ppts/1030.pdf)|||
 |<span style="color:red;">Week12</span>|||||
-|Tuesday 11/04|WinDbg and Environment Setup|||
-|Thursday 11/06|Kernel Debugging with WinDbg||[Project 4](./projects/project4)|
+|Tuesday 11/04|[WinDbg and Environment Setup](./lectures/ppts/1104.pdf)|||
+|Thursday 11/06|[Kernel Debugging with WinDbg](./lectures/ppts/1106.pdf)||[Project 4](./projects/project4)|
 |<span style="color:red;">Week13</span>||||
 |Tuesday 11/11|Veterans Day, No Class||||
 |Thursday 11/13|Static Analysis|[Assignment 5](./assignments/assignment5)||
