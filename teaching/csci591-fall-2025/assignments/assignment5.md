@@ -5,7 +5,7 @@ title: "Classwork 5"
 
 ## Logistics
 * Due: Thursday, November 13th AoE.
-* Submission instructions: make sure that the required assignment5.py and document (assignment5.doc) is submitted to Canvas
+* Submission instructions: make sure that the required assignment5.py and document (assignment5.doc) are submitted to Canvas
 * Deadline reminder: after the deadline passes, you cannot earn any points for this assignment.
 
 ## Outside resources
