@@ -24,9 +24,9 @@ are having trouble writing your program, please go to my office hours or post in
 
 * Implement program1.c to print the string ("hello program1".) and compile it to produce program1.exe.
       
-* Create program3.c which encrypts program1.exe and appends the encrypted payload to the end of program2.exe. Compile program3.c to produce program3.exe.
+* Create program3.c which encrypts program1.exe and appends the encrypted payload to the end of program2.exe, which is a non-executable (section attributes) data section. Compile program3.c to produce program3.exe.
 
-* When program3.exe runs, it should produce retrofiting.exe, where retrofiting.exe contains the encrypted program1.exe in its final section.
+* When program3.exe runs by program3.exe program2.exe program1.exe, it should produce retrofiting.exe, where retrofiting.exe contains the encrypted program1.exe in its final section.
 
 * program2.c
   
@@ -45,11 +45,11 @@ are having trouble writing your program, please go to my office hours or post in
 
 * When the modified program2.exe (retrofiting.exe) runs, it first prints "hello program2" and then prints "hello program1".
 
-* Applying stealth techniques (inspired by rootkits) to Project 3 will earn an extra 2 points. This will be verified by the task manager; if the running program2.exe is not visible in the task manager, the test is considered successful.
+* Applying stealth techniques (inspired by rootkits) to Project 3 will earn an extra 20 points. This will be verified by the task manager; if the running program2.exe is not visible in the task manager, the test is considered successful.
 
-* Applying spying techniques (inspired by spyware) to Project 3 will earn an extra 2 points. This will be tested by whether keystrokes are displayed as users press them—one displayed keystroke per keypress indicates success.
+* Applying spying techniques (inspired by spyware) to Project 3 will earn an extra 20 points. This will be tested by whether keystrokes are displayed as users press them—one displayed keystroke per keypress indicates success.
 
-* Developing additional techniques derived from other malware categories will earn 2 extra points per technique.
+* Developing additional techniques derived from other malware categories will earn 20 extra points per technique.
 
 * Only source codes and a explanable file are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach program1.exe to program2.exe by running the command program3.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run retrofiting.exe and get the output "hello program2" first and then "hello program1". 
 ### Example output
@@ -58,11 +58,10 @@ are having trouble writing your program, please go to my office hours or post in
 ## Grading--100 points
 
 * 10: source file compiles without warnings
-* 10: program1 is correct
-* 20: program2.exe 
-* 10: project3.exe  
-* 10: project3.exe 
-* 30: program2.exe 
-
+* 10: program1.c compiles to program1.exe and prints hello program1 when run.
+* 10: format "program3.exe program2.exe program1.exe" is implemented correctly.
+* 10: program3.c compiles to program3.exe and appends a payload (an encrypted blob) to program2.exe, producing retrofiting.exe.
+* 20: program2.c compiles to program2.exe (with 1-6 being implemented correctly); 
+* 40: retrofiting.exe prints hello program2 and then hello program1  
 ## Grading turnaround
 Scores will be uploaded to Canvas by next Tuesday.
