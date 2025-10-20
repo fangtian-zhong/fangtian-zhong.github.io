@@ -5,8 +5,7 @@ title: "Project 4"
 
 ## Logistics
 * Due: Thursday, November 6th AoE.
-* Submission instructions: ensure that you have the source code you want us to
-	grade in a file called `project4.c, program1.c, program2.c, program3.c` in your submission.
+* Submission instructions: ensure that you have the source code you want us to grade in a file called `program1.c, program2.c, program3.c` in your submission.
 
 ## Outside resources
 
@@ -51,7 +50,7 @@ are having trouble writing your program, please go to my office hours or post in
 
 * Developing additional techniques derived from other malware categories will earn 20 extra points per technique.
 
-* Only source codes and a explanable file are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach program1.exe to program2.exe by running the command program3.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run retrofiting.exe and get the output "hello program2" first and then "hello program1". 
+* Only source codes are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach program1.exe to program2.exe by running the command program3.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run retrofiting.exe and get the output "hello program2" first and then "hello program1". 
 ### Example output
 
 
