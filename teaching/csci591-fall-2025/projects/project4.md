@@ -20,46 +20,45 @@ are having trouble writing your program, please go to my office hours or post in
 
 ## Assignment
 
-* program2.c — 64-bit executable required (if you submit a 32-bit executable you will receive 85%).
+* 64-bit executable required. (If you submit a 32-bit executable you will receive 85%.)
+
+* Implement program1.c to print the string ("hello program1".) and compile it to produce program1.exe.
+      
+* Create program3.c which encrypts program1.exe and appends the encrypted payload to the end of program2.exe. Compile program3.c to produce program3.exe.
+
+* When program3.exe runs, it should produce retrofiting.exe, where retrofiting.exe contains the encrypted program1.exe in its final section.
+
+* program2.c
   
-    1. print a string "hello program2".
-    2. Read encrypted program1 at the last section of retrofiting.exe.
-    3. Decrypt it to get the original program1.exe.
-    4. Create the process in suspended form by using API "CreateProcess", the process to be created is retrofiting.exe
-    5. Get the context of the retrofiting.exe (ImageBase and OEP).
-    6. Uninstaller (NtUnmapViewOfSection).
-    7. Allocate space (by using API "VirtualAllocEx") at the specified location which is "ImageBase" of program1.exe, and the size is the SizeOfImage of program1.exe.
-    8. If the application space is successful, stretch the program1.exe and copy it to the space (by using WriteProcessMemory).
-    9. If the application space fails, but there is a relocation table, apply for space at any position, then stretch, copy, and repair the relocation table of the program1.exe.
-    10. Modify the Context of the program. Change the ImageBase of the Context of the program2.exe to the ImageBase of program1.exe and change the OEP of the Context of the program2.exe to the OEP of program1.exe.
-    11. Set the Context and restore the main thread
-    12. The replacement is successful
+    1. Print the string "hello program2".
+    2. Read the encrypted program1.exe payload stored in the last section of itself.
+    3. Decrypt the payload to recover the original program1.exe.
+    4. Create a suspended process using the CreateProcess API; the new process will be retrofiting.exe (after program1.exe is attached to program2.exe, program2.exe becomes retrofiting.exe).
+    5. Obtain the context of retrofiting.exe (including its image base and original entry point, OEP).
+    6. Unmap the existing image (e.g., NtUnmapViewOfSection) to free space in the target process for the decrypted program1.exe.
+    7. Allocate memory (VirtualAllocEx) in the target process at the desired location (the ImageBase of program1.exe) with the SizeOfImage from program1.exe.
+    8. If allocation at the preferred image base succeeds, expand the sections of program1.exe according to SectionAlignment and write them into the target process with WriteProcessMemory.
+    9. If allocation at the preferred base fails but a relocation table exists, allocate memory at any available address, copy the image there, and apply/patch relocations accordingly.
+    10. Modify the thread context of the suspended main thread: set the thread’s image base and entry point to the ImageBase and OEP of program1.exe.
+    11. Set the updated thread context and resume the main thread.
+    12. The replacement is complete and successful.
 
-* The source code of program1.exe is to print a string "hello program1".
-    1. You have to develop program1.c that print the string.
-    2. Compile program1.c to produce program1.exe.
+* When the modified program2.exe (retrofiting.exe) runs, it first prints "hello program2" and then prints "hello program1".
 
-* We have to develop a program3.c that first encrypt the virus (in our case, it is program1.exe) by XORing it with 0x40 and then attached the encrypted virus to the end of program2.exe. After it is compiled, producing program3.exe.
+* Applying stealth techniques (inspired by rootkits) to Project 3 will earn an extra 2 points. This will be verified by the task manager; if the running program2.exe is not visible in the task manager, the test is considered successful.
 
-* After running program3.exe, you will get the retrofiting.exe that has the encrypted program1.exe at its last section.
+* Applying spying techniques (inspired by spyware) to Project 3 will earn an extra 2 points. This will be tested by whether keystrokes are displayed as users press them—one displayed keystroke per keypress indicates success.
 
-* If we run the new program2.exe, it first prints "hello program2" and then prints "hello program1".
+* Developing additional techniques derived from other malware categories will earn 2 extra points per technique.
 
-* If you apply the techniques from rootkits to project3, you will receive extra 2 points. It will be tested by task manager. If the running program2.exe is hidden from task manager, it means successful.
-
-* If you apply the techniques from spyware to project3, you will receive extra 2 points. It will be tested by displaying the keystrokes when people press them. If the running program2.exe is showing the keystroke after people press it, one by each press, it means successful.
-
-* If you develop additional techniques from other types of malware, you will receive extra 2 points each. 
-
-* Only source codes and a explanable file are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach it to program2.exe by running the command project4.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run it and get the output "hello program2" first and then "hello program1". 
+* Only source codes and a explanable file are required to submit. To test your project, first, I will compile your program1.c and get program1.exe. second, I will compile your program3.c and obtain the program3.exe. Third, I will compile your program2.c and get program2.exe. Fourth, I will use program3.exe to encrypt program1.exe and attach program1.exe to program2.exe by running the command program3.exe program1.exe program2.exe, which outputs a program named retrofiting.exe. Finally, I will run retrofiting.exe and get the output "hello program2" first and then "hello program1". 
 ### Example output
 
 
 ## Grading--100 points
 
 * 10: source file compiles without warnings
-* 10: use the command project4.exe program1.exe program2.exe 
-* 10: program1.exe 
+* 10: program1 is correct
 * 20: program2.exe 
 * 10: project3.exe  
 * 10: project3.exe 
