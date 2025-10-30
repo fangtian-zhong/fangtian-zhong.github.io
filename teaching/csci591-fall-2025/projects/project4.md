@@ -25,7 +25,7 @@ are having trouble writing your program, please go to my office hours or post in
       
 * Create program3.c which encrypts program1.exe and appends the encrypted payload to the end of program2.exe, which is a non-executable (section attributes) data section. Compile program3.c to produce program3.exe.
 
-* When program3.exe runs by program3.exe program2.exe program1.exe, it should produce retrofiting.exe, where retrofiting.exe contains the encrypted program1.exe in its final section.
+* When program3.exe runs by program3.exe program1.exe, program2.exe, it should produce retrofiting.exe, where retrofiting.exe contains the encrypted program1.exe in its final section.
 
 * program2.c
   
