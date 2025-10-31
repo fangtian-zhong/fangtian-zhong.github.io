@@ -18,6 +18,8 @@ Zhuoyun Qian, Hongyi Miao, Cheng Zhang, Qin Hu, Yili Jiang, Jiaqi Huang, **Fangt
 
 Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Misbehavior Detection in Vehicular Networks with Batch Message Verification, IEEE Internet of Things Journal(Major Revision) 
 
+**Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Li Yang. (2025) Unpack-On-Demand: Packer-Aware Conditional Malware Analysis, IEEE Transactions on Information Forensics and Security (In Submission) 
+
 **Fangtian Zhong**, Micheal Crapse, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) What you see may not be true: Deep Bug Detection in Assemly, IEEE Transactions on Information Forensics and Security (In Submission)
 
 Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal, 
