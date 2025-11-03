@@ -22,7 +22,7 @@ Jiaqi Huang, Jingze Da, Yili Jiang, Sohan Gyawali, **Fangtian Zhong** (2025) Mis
 
 **Fangtian Zhong**, Micheal Crapse, Yili Jiang, Qin Hu, Jiaqi Huang. (2025) What you see may not be true: Deep Bug Detection in Assemly, IEEE Transactions on Information Forensics and Security (In Submission)
 
-Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles, IEEE Internet of Things Journal, 
+Xian Chen, Yili Jiang, Jiaqi Huang, Sohan Gyawali, **Fangtian Zhong**. (2025) [BatchMDS: A Time-efficient Misbehavior Detection System in Internet of Vehicles](https://ieeexplore.ieee.org/document/11222621), IEEE Internet of Things Journal, 
 
 **Fangtian Zhong**, Qin Hu, Yili Jiang, Jiaqi Huang, Xiuzhen Cheng. (2025) [Unveiling Malware Visual Patterns: A Self-analysis
 Perspective](https://ieeexplore.ieee.org/document/11172343), IEEE Transactions on Information Forensics and Security, 
