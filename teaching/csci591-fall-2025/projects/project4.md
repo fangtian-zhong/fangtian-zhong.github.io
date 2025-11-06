@@ -58,7 +58,7 @@ are having trouble writing your program, please go to my office hours or post in
 
 * 10: source file compiles without warnings
 * 10: program1.c compiles to program1.exe and prints hello program1 when run.
-* 10: format "program3.exe program2.exe program1.exe" is implemented correctly.
+* 10: format "program3.exe program1.exe program2.exe" is implemented correctly.
 * 10: program3.c compiles to program3.exe and appends a payload (an encrypted blob) to program2.exe, producing retrofiting.exe.
 * 20: program2.c compiles to program2.exe (with 1-6 being implemented correctly); 
 * 40: retrofiting.exe prints hello program2 and then hello program1  
