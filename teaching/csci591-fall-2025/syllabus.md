@@ -63,7 +63,7 @@ location: "Bozeman, Montana"
 |Tuesday 11/11|Veterans Day, No Class||||
 |Thursday 11/13|[Static Analysis](./lectures/ppts/1113.pdf)|[Assignment 5](./assignments/assignment5)||
 |<span style="color:red;">Week14</span>|||||
-|Tuesday 11/18|[Static Analysis](./lectures/ppts/1118.pdf)|||
+|Tuesday 11/18|[Static Analysis](./lectures/ppts/1118.pdf); [Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23d03a46-0ed3-4324-9071-b399013eaf86)|||
 |Thursday 11/20|[Dynamic Analysis](./lectures/ppts/1120.pdf)|[Assignment 6](./assignments/assignment6)||
 |<span style="color:red;">Week15</span>|||||
 |Tuesday 11/25|Fall Break, No Class||||
