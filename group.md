@@ -33,7 +33,7 @@ This page serves as a directory for the students I am working/ worked with.
 8. Leon Birdhat: McNair Scholars, B.S. student at Montana State University
 9. Jeff Simpson: B.S. student at Montana State University
 10. Jake Hopkins: B.S. student at Montana State University
-11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
+11. Micheal Crapse: REU Scholars, B.S. student at University of Idaho
 12. Hongyi Miao: B.S. student at Montana State University
 13. Shengjie Wu: B.S. student at Montana State University
 14. Prakriti Baral, Benjamin Fellowship Awardee, Montana State University
