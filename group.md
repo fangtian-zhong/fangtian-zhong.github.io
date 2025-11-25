@@ -21,6 +21,7 @@ This page serves as a directory for the students I am working/ worked with.
 1. András Necz
 2. Shama Maganur
 3. Fengnian Zhao
+   
 ## Alumni
 1. Luyang Xiong: B.S. Shandong University, Joined Tecent
 2. Simon Luong: B.S. Georgia Institute of Technology, Joined The Walt Disney INC.
