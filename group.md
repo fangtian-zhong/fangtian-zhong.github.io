@@ -18,13 +18,10 @@ This page serves as a directory for the students I am working/ worked with.
  
 
 ## Grad Researcher
-1. Prakriti Baral, Benjamin Fellowship Awardee
-2. András Necz
-3. Shama Maganur
-4. Fengnian Zhao
-
+1. András Necz
+2. Shama Maganur
+3. Fengnian Zhao
 ## Alumni
-
 1. Luyang Xiong: B.S. Shandong University, Joined Tecent
 2. Simon Luong: B.S. Georgia Institute of Technology, Joined The Walt Disney INC.
 3. Cheng Peng: B.S. Northeast Normal University, M.S. New York University, Joined Purdue University
@@ -37,5 +34,7 @@ This page serves as a directory for the students I am working/ worked with.
 10. Jake Hopkins: B.S. student at Montana State University
 11. Micheal Crapse:REU Scholars, B.S. student at University of Idaho
 12. Hongyi Miao: B.S. student
-13. Shengjie Wu: B.S. student 
+13. Shengjie Wu: B.S. student
+14. Prakriti Baral, Benjamin Fellowship Awardee
+
   
