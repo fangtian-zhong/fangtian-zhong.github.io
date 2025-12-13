@@ -47,9 +47,9 @@ location: "Bozeman, Montana"
 |Wednesday 02/11|[Loops](./lectures/ppts/CSCI112_20250212.pdf)|Appendix C-4, C-5|[Classwork 9](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork9)||
 |Friday 02/13|[Arrays](./lectures/ppts/CSCI112_20250214.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1678fa07-82b9-467a-b0ba-b2840107da77)|||[Lab 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab4)|
 |<span style="color:red;">Week6</span>|||||
-|Monday 02/16|No class||||
-|Wednesday 02/18|[Arrays](./lectures/ppts/CSCI112_20250219.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork10)||
-|Friday 02/20|[Arrays as function arguments](./lectures/ppts/CSCI112_20250221.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8feb30ee-bbdb-4a2f-ac6c-b28b0109258a)|7||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab5)|
+|Monday 02/16|[Arrays](./lectures/ppts/CSCI112_20250219.pdf)|7|[Classwork 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork10)||
+|Wednesday 02/18|[Arrays as function arguments](./lectures/ppts/CSCI112_20250221.pdf);|7|||
+|Friday 02/20||||[Lab 5](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab5)|
 |<span style="color:red;">Week7</span>|||||
 |Monday 02/23|[Searching, sorting arrays](./lectures/ppts/CSCI112_20250224.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f41c87cd-c5ac-4105-acf7-b28e0107716d)|7|[Classwork 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork11)||
 |Wednesday 02/25|[Pointers; file i/o](./lectures/ppts/CSCI112_20250226.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267bdf-50ad-4367-874c-b29001095af1)|6|[Classwork 12](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork12)||
