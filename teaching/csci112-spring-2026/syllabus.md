@@ -73,7 +73,7 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/30|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a65b2ef-0d98-4b00-83ae-b2b1010083dd)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork19)||
 |Wednesday 04/01| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork21)||
-|Friday 04/03|||||
+|Friday 04/03|No Class||||
 |<span style="color:red;">Week13</span>|||||
 |Monday 04/06|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf);|||[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab10)|
 |Wednesday 04/08| [Dynamic memory allocation](./lectures/ppts/CSCI112_20250407.pdf)	||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork23)||
