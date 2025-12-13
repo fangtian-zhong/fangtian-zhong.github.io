@@ -3,7 +3,7 @@ title: "CSCI 112: Programming With C"
 collection: teaching
 type: "Undergraduate course"
 venue: "Montana State University, Computer Science"
-date: 2025-01-15
+date: 2026-01-14
 location: "Bozeman, Montana"
 ---
 
@@ -177,9 +177,9 @@ By the end of the course, students should be able to:
 
 You will be graded on the following:
 * 27 classwork assignments (lowest three dropped): 15%
-* 13 labs (lowest two dropped): 40%
-* 10 in-class quizzes: 30%
-* Attendance: 15%
+* 13 labs (lowest two dropped): 35%
+* 6 in-class quizzes: 20%
+* 2 Exams: 30%
 
 Your grade will be determined by your total score as follows:
 93+: A; 90+: A-; 87+: B+; 83+: B; 80+: B-; 77+: C+; 73+: C; 70+: C-; 67+: D+; 63: D; 60: D-.
@@ -196,8 +196,8 @@ quarter of a point. Only the first person to post about an error gets the points
 
 #### Course survey and evaluation
 
-If 75% or more of the class completes the mid-semester course survey, the whole
-class gets 1 bonus point. Same goes for the course evaluation.
+If 75% or more of the class completes the course evaluation, the whole
+class gets 1 bonus point. 
 
 ### Late assignment policies
 To run a course of this size we cannot accommodate individual requests for
