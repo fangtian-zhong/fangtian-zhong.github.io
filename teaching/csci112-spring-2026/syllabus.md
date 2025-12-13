@@ -79,9 +79,9 @@ location: "Bozeman, Montana"
 |Wednesday 04/08| [Dynamic memory allocation](./lectures/ppts/CSCI112_20250407.pdf)	||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork23)||
 |Friday 04/10| [Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250409.pdf)|13|[Classwork22](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork24)|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab10)|
 |<span style="color:red;">Week14</span>|||||
-|Monday 04/13|[Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250411.pdf)	|13||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab11) |
+|Monday 04/13|[Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250411.pdf)	|13|| |
 |Wednesday 04/15|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf) ||[Classwork23](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork25)||
-|Friday 04/17|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf)||[Classwork24](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork26)||
+|Friday 04/17|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf)||[Classwork24](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork26)|[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab11)|
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/20|Out for a conference||||
 |Wednesday 04/22|[Memory profiling with valgrind](./lectures/ppts/CSCI112_20250423.pdf) ||[Classwork25](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork27)||
