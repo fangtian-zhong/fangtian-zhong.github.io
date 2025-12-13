@@ -173,7 +173,7 @@ By the end of the course, students should be able to:
 You will be graded on the following:
 * 27 classwork assignments (lowest three dropped): 15%
 * 13 labs (lowest two dropped): 35%
-* 6 in-class quizzes: 20%
+* 5 in-class quizzes: 20%
 * 2 Exams: 30%
 
 Your grade will be determined by your total score as follows:
