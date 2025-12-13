@@ -91,7 +91,7 @@ location: "Bozeman, Montana"
 |Wednesday 04/29|Self-study, no class||[Classwork27](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork29)||
 |Friday 05/01|||Quiz 10|[Lab 13](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab13)|
 |<span style="color:red;">Week17</span>|||||
-|Monday 05/04|Final Exam||||
+|Monday 05/04|Final Exam at 8:00am||||
 
 ## Catalog description
 
