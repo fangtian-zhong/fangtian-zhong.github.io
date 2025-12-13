@@ -8,7 +8,7 @@ His research primarily focuses on software security, program analysis, ,machine 
 <hr style="clear:both;visibility: hidden;" />
 
 
-## Selected Publications [See Full](https://scholar.google.com.hk/citations?user=byrWN40AAAAJ&hl=zh-CN&oi=ao)
+## Selected Publications [See Full](https://scholar.google.com/citations?user=X0TcUewAAAAJ&hl=zh-CN)
 
 Zhuoyun Qian, Hongyi Miao, Cheng Zhang, Qin Hu, Yili Jiang, Jiaqi Huang, **Fangtian Zhong**. (2025) [Feature-Oriented IoT Malware Analysis: Extraction, Classification, and Future Directions](https://arxiv.org/abs/2509.03442), IEEE Internet of Things Journal (In Submission)
 
