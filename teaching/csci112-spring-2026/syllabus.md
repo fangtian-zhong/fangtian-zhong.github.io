@@ -32,8 +32,8 @@ location: "Bozeman, Montana"
 |Friday 01/16|[Course server; intro Linux and vim; classwork submission setup](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/lectures/tools)||[Classwork 2](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork2)|
 |<span style="color:red;">Week2</span>|||||
 |Monday 01/19|No class|||
-|Wednesday 01/21|[Intro to C](./lectures/ppts/CSCI112_20250122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/lectures/tools), [Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cc992a4-8f45-46d8-bb38-b26d01078195)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork3)|
-|Friday 01/23|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/lectures/git);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e70175c3-2a61-4810-b03c-b26f0107832a)||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork4)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab1)|
+|Wednesday 01/21|[Intro to C](./lectures/ppts/CSCI112_20250122.pdf); more [Linux & vim](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/lectures/tools)|2.1|[Classwork 3](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork3)|
+|Friday 01/23|[Git and GitHub](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/lectures/git);||[Classwork 4](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork4)|[Lab 1](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab1)|
 |<span style="color:red;">Week3</span>|||||
 |Monday 01/26|[More intro to C];|2.1-2.6|||
 |Wednesday 01/28|[Functions]|3.1-3.5|[Classwork 5]||
