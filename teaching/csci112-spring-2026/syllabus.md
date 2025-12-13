@@ -73,14 +73,14 @@ location: "Bozeman, Montana"
 |<span style="color:red;">Week12</span>|||||
 |Monday 03/30|[Command line arguments](./lectures/ppts/CSCI112_20250331.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a65b2ef-0d98-4b00-83ae-b2b1010083dd)|12|[Classwork19](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork19)||
 |Wednesday 04/01| [Sorting an array of pointers](./lectures/ppts/CSCI112_20250402.pdf)||[Classwork20](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork21)||
-|Friday 04/03|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf);[Video](https://montana.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4970cfd5-2994-49d2-985c-b2b500f6ff27)||Quiz 7|[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab10)|
+|Friday 04/03|||||
 |<span style="color:red;">Week13</span>|||||
-|Monday 04/06|[Dynamic memory allocation](./lectures/ppts/CSCI112_20250407.pdf)||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork23)||
-|Wednesday 04/08| [Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250409.pdf)	|13|[Classwork22](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork24)||
-|Friday 04/10|[Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250411.pdf) |13|Quiz 8|[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab11)|
+|Monday 04/06|[Pointer arithmetic](./lectures/ppts/CSCI112_20250404.pdf);|||[Lab 10](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab10)|
+|Wednesday 04/08| [Dynamic memory allocation](./lectures/ppts/CSCI112_20250407.pdf)	||[Classwork21](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork23)||
+|Friday 04/10| [Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250409.pdf)|13|[Classwork22](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork24)||
 |<span style="color:red;">Week14</span>|||||
-|Monday 04/13|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf) 	||[Classwork23](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork25)| |
-|Wednesday 04/15|||||
+|Monday 04/13|[Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250411.pdf)	|13||[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab11) |
+|Wednesday 04/15|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf) ||[Classwork23](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork25)||
 |Friday 04/17|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf)||[Classwork24](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork26)||
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/20|Out for a conference||||
