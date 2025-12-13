@@ -80,8 +80,8 @@ location: "Bozeman, Montana"
 |Friday 04/10|[Dynamic data structures (Linked List)](./lectures/ppts/CSCI112_20250411.pdf) |13|Quiz 8|[Lab 11](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/labs/lab11)|
 |<span style="color:red;">Week14</span>|||||
 |Monday 04/13|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf) 	||[Classwork23](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork25)| |
-|Wednesday 04/15|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf)||[Classwork24](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork26)||
-|Friday 04/17|No class||||
+|Wednesday 04/15|||||
+|Friday 04/17|[Dynamic data structures (Dynamic Arrays)](./lectures/ppts/CSCI112_20250414.pdf)||[Classwork24](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork26)||
 |<span style="color:red;">Week15</span>|||||
 |Monday 04/20|Out for a conference||||
 |Wednesday 04/22|[Memory profiling with valgrind](./lectures/ppts/CSCI112_20250423.pdf) ||[Classwork25](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/classwork/classwork27)||
