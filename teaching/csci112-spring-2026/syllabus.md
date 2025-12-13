@@ -18,7 +18,7 @@ location: "Bozeman, Montana"
 
 
 ## Quiz
-Quiz9 will cover week13, week14, week15.
+
 ## Course schedule
 
 <!---
