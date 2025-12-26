@@ -8,12 +8,12 @@
   href: "/research/"
 
 - title: "Teaching"
-  href: "/teaching/"
-  subcategories:
-    - subtitle: "CSCI112– Programming with C I"
-      subhref: "https://fangtian-zhong.github.io/teaching/csci112-spring-2026/syllabus"
-    - subtitle: "CSCI591– Malicious Code Analysis"
-      subhref: "https://fangtian-zhong.github.io/teaching/csci591-fall-2025/syllabus"
+  href: "/education/"
+#  subcategories:
+#    - subtitle: "CSCI112– Programming with C I"
+#      subhref: "https://fangtian-zhong.github.io/teaching/csci112-spring-2026/syllabus"
+#    - subtitle: "CSCI591– Malicious Code Analysis"
+#      subhref: "https://fangtian-zhong.github.io/teaching/csci591-fall-2025/syllabus"
     #- subtitle: "CS5120 – Mobile Applications Programming with Android"
       #subhref: ""
     #- subtitle: "CS5140 – Introduction to Malware"
