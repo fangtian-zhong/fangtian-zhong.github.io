@@ -1,0 +1,60 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Openings"
+  href: "/openings"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "CSCI112– Programming with C I"
+      subhref: "https://fangtian-zhong.github.io/teaching/csci112-spring-2026/syllabus"
+    - subtitle: "CSCI591– Malicious Code Analysis"
+      subhref: "https://fangtian-zhong.github.io/teaching/csci591-fall-2025/syllabus"
+    #- subtitle: "CS5120 – Mobile Applications Programming with Android"
+      #subhref: ""
+    #- subtitle: "CS5140 – Introduction to Malware"
+      #subhref: ""
+    #- subtitle: "CS1111 - Intro to Software Development"
+      #subhref: ""
+    #- subtitle: "CS1112 - Algorithms and Data Structure"
+      #subhref: ""
+    #- subtitle: "CS2113 - Software Engineering"
+      #subhref: ""
+    #- subtitle: "Online CS6547 - Wireless and Mobile Security"
+      #subhref: ""
+# - title: "Services"
+#   href: "/services/"
+#   subcategories:
+#     - subtitle: "biovocab"
+#       subhref: "/services/biovocab/"
+#     - subtitle: "biontoan"
+#       subhref: "/services/biontoan/"
+    # - subtitle: "Letters of Recommendation"
+      # subhref: "/services/letters-of-recommendation/"
+
+- title: "Projects"
+  href: "/feeds/"
+  #subcategories:
+  #  - subtitle: "Malicious Analysis"
+  #    subhref: ""
+  #  - subtitle: "Vulnerability Analysis"
+  #    subhref: ""
+
+- title: "Group"
+  href: "/group/"
+  subcategories:
+    - subtitle: "Principle Investigator"
+      subhref: "https://fangtian-zhong.github.io/"
+    - subtitle: "My Students"
+      subhref: "https://fangtian-zhong.github.io/group/"
+
+
+- title: "CV"
+  href: "https://fangtian-zhong.github.io/cv.html"
+
+# - title: "Blogs"
+#   href: "/blogs/"
