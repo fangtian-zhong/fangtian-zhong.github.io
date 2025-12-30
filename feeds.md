@@ -1,37 +1,31 @@
 ---
 layout: page
-title: Topic 
-permalink: /feeds/
+title: Teaching
+permalink: /teaching/
 ---
 
-This page serves as a directory of the specific projects. The full-text documents of the corpora are available upon request via email.
+This page serves as a directory for the courses I have taught.
 
-<hr style="clear:both;visibility: hidden;" />  
+<hr style="clear:both;visibility: hidden;" />
 
 
-## Malicious Code Analysis
+## [Montana State University](https://prodmyinfo.montana.edu/pls/bzagent/bzskcrse.PW_ListSchClassSimple)
+1. [CSCI112](https://fangtian-zhong.github.io/teaching/csci112-spring-2026/syllabus): Programming with C I (2026 Spring)
+2. [CSCI591](https://fangtian-zhong.github.io/teaching/csci591-fall-2025/syllabus): Malicious Code Analysis (2025 Fall)
+3. [CSCI112](https://fangtian-zhong.github.io/teaching/csci112-spring-2025/syllabus): Programming with C I (2025 Spring)
+4. [CSCI112](https://fangtian-zhong.github.io/teaching/csci112-fall-2024/syllabus): Programming with C I (2024 Fall)
+5. [CSCI112](https://fangtian-zhong.github.io/teaching/csci112-spring-2024/syllabus): Programming with C I (2024 Spring)
+6. [CSCI591](https://fangtian-zhong.github.io/teaching/csci591-fall-2023/MalCodeA.html): Malicious Code Analysis (2023 Fall)
 
-1. [VisAnd]()
-2. [BBE]()   
-3. [BBSS]()  
-4. [MalFox](https://ieeexplore.ieee.org/abstract/document/10017127/)
-5. [VisMal](https://ieeexplore.ieee.org/abstract/document/9737370)
-6. [MalInfo](https://ieeexplore.ieee.org/abstract/document/9090824)
-7. [DCAP](https://dl.acm.org/doi/abs/10.1145/3459637.3482246)
 
-## Vunerability Analysis
+## Past Teaching
 
-1. [AndVul]()
-2. [WinVul]()
-3. [LinVul]() 
-4. [ContextVul]()
+1. Mobile Applications Programming with Android (2023 Summer)
+2. Introduction to Malware (2023 Spring)
+3. Intro to Software Development (Spring 2020)
+4. Algorithms and Data Structure (Spring 2019)
+5. Software Engineering (Fall 2018/Fall 2019)
 
-## IoT Attacks and Defenses
 
-1. [FlowGuard](https://ieeexplore.ieee.org/abstract/document/9090824)
-2. [EAR-ABE](https://ieeexplore.ieee.org/abstract/document/9920181)
-
-## AI 
-
-1. [DynaDetect]()
-2. [EdgeViT](https://link.springer.com/chapter/10.1007/978-3-031-19211-1_33)
+## Online Courses
+1. Wireless and Mobile Security (Fall 2020)
